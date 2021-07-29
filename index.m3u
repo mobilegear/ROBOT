@@ -229,86 +229,6 @@ http://103.77.106.227:8080/hls/web.m3u8
 #EXTINF:-1 group-title="IPTV",MGITV
 https://tv.rodja.live/tasik/mgitv/chunklist_w791927921.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-A" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/13
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1-B" tvg-logo="https://i.ibb.co/7JY39jm/ZSW.png" group-title="MALAYSIA",TV1-B
-https://link.zozotv.xyz:443/Freemium1/unlimited99/14
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-A" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/15
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2-B" tvg-logo="https://i.ibb.co/hBdcT78/TV2.png" group-title="MALAYSIA",TV2-B
-https://link.zozotv.xyz:443/Freemium1/unlimited99/16
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-A" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/17
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-B" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-B
-https://link.zozotv.xyz:443/Freemium1/unlimited99/18
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-C" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MALAYSIA",TV3-C
-https://link.zozotv.xyz:443/Freemium1/unlimited99/19
-#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/sjr34f7/cyts.png" group-title="MALAYSIA",NTV7
-https://link.zozotv.xyz:443/Freemium1/unlimited99/20
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/3N3JfSz/8.png" group-title="MALAYSIA",8TV
-https://link.zozotv.xyz:443/Freemium1/unlimited99/21
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/WBw9D1r/AAXS.png" group-title="MALAYSIA",TV9
-https://link.zozotv.xyz:443/Freemium1/unlimited99/22
-#EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://i.ibb.co/bbVfKQT/ae.png" group-title="MALAYSIA",Okey
-https://link.zozotv.xyz:443/Freemium1/unlimited99/24
-#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/BwHtb4d/jtf.png" group-title="MALAYSIA",Drama Sangat
-https://link.zozotv.xyz:443/Freemium1/unlimited99/25
-#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/vwZ3sjD/jjy.png" group-title="MALAYSIA",Alhijrah
-https://link.zozotv.xyz:443/Freemium1/unlimited99/26
-#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.ibb.co/ZTqV0P4/vgcdb.png" group-title="MALAYSIA",Bernama
-https://link.zozotv.xyz:443/Freemium1/unlimited99/27
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Awani" tvg-logo="https://i.ibb.co/rbSH8xj/gn.png" group-title="MALAYSIA",Awani
-https://link.zozotv.xyz:443/Freemium1/unlimited99/28
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="MALAYSIA",Oasis
-https://link.zozotv.xyz:443/Freemium1/unlimited99/30
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-A" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",Ceria-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/31
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Ceria-B" tvg-logo="https://i.ibb.co/ZhnVLZV/gfh.png" group-title="MALAYSIA",Ceria-B
-https://link.zozotv.xyz:443/Freemium1/unlimited99/32
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="MALAYSIA",Ria
-https://link.zozotv.xyz:443/Freemium1/unlimited99/11
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-A" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/33
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Prima-B" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="MALAYSIA",Prima-B
-https://link.zozotv.xyz:443/Freemium1/unlimited99/34
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-A" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Warna-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/3
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-B" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Warna-B
-https://link.zozotv.xyz:443/Freemium1/unlimited99/35
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Warna-C" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="MALAYSIA",Warna-C
-https://link.zozotv.xyz:443/Freemium1/unlimited99/272
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-A" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-A
-https://link.zozotv.xyz:443/Freemium1/unlimited99/36
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Citra-B" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="MALAYSIA",Citra-B
-https://link.zozotv.xyz:443/Freemium1/unlimited99/37
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="MALAYSIA",BOO
-https://link.zozotv.xyz:443/Freemium1/unlimited99/2
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="MALAYSIA",Aura
-https://link.zozotv.xyz:443/Freemium1/unlimited99/38
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="MALAYSIA",Rania
-https://link.zozotv.xyz:443/Freemium1/unlimited99/39
-#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="Naura" tvg-logo="https://i.ibb.co/f4W4Nt4/liy.png" group-title="MALAYSIA",Naura
-https://link.zozotv.xyz:443/Freemium1/unlimited99/40
-#EXTINF:-1 tvg-id="AstroHello.my" tvg-name="Hello" tvg-logo="https://i.ibb.co/HqZSS6q/gwse.png" group-title="MALAYSIA",Hello
-https://link.zozotv.xyz:443/Freemium1/unlimited99/42
-#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA",TRANS TV
-https://link.zozotv.xyz:443/Freemium1/unlimited99/43
-#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="INDONESIA",TRANS 7
-https://link.zozotv.xyz:443/Freemium1/unlimited99/44
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="INDONESIA",INDOSIAR
-https://link.zozotv.xyz:443/Freemium1/unlimited99/45
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="INDONESIA",SCTV
-https://link.zozotv.xyz:443/Freemium1/unlimited99/46
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA",RCTI
-https://link.zozotv.xyz:443/Freemium1/unlimited99/47
-#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="INDONESIA",GTV
-https://link.zozotv.xyz:443/Freemium1/unlimited99/48
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="INDONESIA",MNCTV
-https://link.zozotv.xyz:443/Freemium1/unlimited99/49
-#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET.
-https://link.zozotv.xyz:443/Freemium1/unlimited99/50
-#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ANTV
-https://link.zozotv.xyz:443/Freemium1/unlimited99/51
 #EXTINF:-1 tvg-id="BollyOne HD" tvg-name="Bollyone HD" tvg-logo="https://i.ibb.co/sRNDvFS/bolly.png" group-title="INDIA",Bollyone HD
 https://link.zozotv.xyz:443/Freemium1/unlimited99/302
 #EXTINF:-1 tvg-id="Zee Cinema" tvg-name="ZEE Cinema" tvg-logo="https://i.ibb.co/3mKqscL/RGTS.png" group-title="INDIA",ZEE Cinema
@@ -413,10 +333,6 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/108
 https://link.zozotv.xyz:443/Freemium1/unlimited99/109
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="MOVIES",CinemaWorld
 https://link.zozotv.xyz:443/Freemium1/unlimited99/111
-#EXTINF:-1 tvg-id="&Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/PGF0yfd/cth.png" group-title="MOVIES",&Flix HD
-https://link.zozotv.xyz:443/Freemium1/unlimited99/104
-#EXTINF:-1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="MOVIES",&Prive HD
-https://link.zozotv.xyz:443/Freemium1/unlimited99/105
 #EXTINF:-1 tvg-id="SONY PIX" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="MOVIES",Sony PIX
 https://link.zozotv.xyz:443/Freemium1/unlimited99/298
 #EXTINF:-1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="MOVIES",Star Movies
