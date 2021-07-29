@@ -108,17 +108,6 @@ http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
 #EXTINF:-1 group-title="IPTV",CGTNDOCUMENTARY
 http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="IPTV",TV1
-http://ott3.gearhostpreview.com/astro/live.php?id=1
-#EXTINF:-1 group-title="IPTV",TV2
-http://ott3.gearhostpreview.com/astro/live.php?id=2
-#EXTINF:-1 group-title="IPTV",TV3
-http://ott3.gearhostpreview.com/astro/live.php?id=3
-#EXTINF:-1 group-title="IPTV",NTV7
-http://ott3.gearhostpreview.com/astro/live.php?id=4
-#EXTINF:-1 group-title="IPTV",TV8
-http://ott3.gearhostpreview.com/astro/live.php?id=5
-#EXTINF:-1 group-title="IPTV",TV9
 http://ott3.gearhostpreview.com/astro/live.php?id=6
 #EXTINF:-1 group-title="IPTV",ASTROARENA
 http://ott3.gearhostpreview.com/astro/live.php?id=7
