@@ -11,10 +11,16 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES",FOX Movies 
 https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_action.png" group-title="MOVIES",FOX Action Movies 
 https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_family.png" group-title="MOVIES",FOX Family Movies 
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
