@@ -67,6 +67,12 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7947
 http://hbox.cdnss.me:80/bestcs/bestcs/7949
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 03" tvg-logo="https://i.ibb.co/F32DVmC/Bein-Sport-English-03.png" group-title="SPORTS",Bein Sport English 03
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORT 1 HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="SPORTS", FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORT", FOX SPORT 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOTORVISIONTV" tvg-logo="https://i.ibb.co/9pkqpQD/motorvisiontv.png" group-title="SPORTS",MOTORVISIONTV
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="SCIENCE",  NAT GEO
