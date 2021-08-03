@@ -35,6 +35,8 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/111
 https://link.zozotv.xyz:443/Freemium1/unlimited99/104
 #EXTINF:-1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/DRCLfy8/wdas.png" group-title="MOVIES",&Prive HD
 https://link.zozotv.xyz:443/Freemium1/unlimited99/105
+#EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://i.ibb.co/3MrbsMS/mcn.jpg" group-title="MOVIES",MCN
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="SONY PIX" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="MOVIES",Sony PIX
 https://link.zozotv.xyz:443/Freemium1/unlimited99/298
 #EXTINF:-1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="MOVIES",Star Movies
@@ -63,3 +65,6 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7947
 http://hbox.cdnss.me:80/bestcs/bestcs/7949
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 03" tvg-logo="https://i.ibb.co/F32DVmC/Bein-Sport-English-03.png" group-title="SPORTS",Bein Sport English 03
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/8Bxx45b/Nat-Geo-Wild.png" group-title="SCIENCE",Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
