@@ -51,12 +51,12 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/113
 https://link.zozotv.xyz:443/Freemium1/unlimited99/114
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://i.ibb.co/2Wt9157/astross.png" group-title="SPORTS",Astro Super Sport
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/xs1F2CL/ESPN.png" group-title="SPORTS",ESPN
 http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal+Sport" tvg-logo="https://i.ibb.co/p31BsR6/Canal-Sport-2015.png" group-title="SPORTS",Canal+Sport
 http://hbox.cdnss.me:80/bestcs/bestcs/1226
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
+http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1" tvg-logo="https://i.ibb.co/2jpc91k/RMC-Sport-1.png" group-title="SPORTS",RMC Sport 1
 http://hbox.cdnss.me:80/bestcs/bestcs/3072
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2" tvg-logo="https://i.ibb.co/zmpXjqs/RMC-Sport-2.png" group-title="SPORTS",RMC Sport 2
@@ -67,6 +67,8 @@ http://hbox.cdnss.me:80/bestcs/bestcs/7947
 http://hbox.cdnss.me:80/bestcs/bestcs/7949
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 03" tvg-logo="https://i.ibb.co/F32DVmC/Bein-Sport-English-03.png" group-title="SPORTS",Bein Sport English 03
 http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORT 1 HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="SPORTS", FOX SPORT 2 HD
