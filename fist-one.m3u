@@ -33,6 +33,8 @@ http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-tv-in.png" group-title="MOVIES",ZEE TV
+https://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://i.ibb.co/2Wt9157/astross.png" group-title="SPORTS",Astro Super Sport
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/xs1F2CL/ESPN.png" group-title="SPORTS",ESPN
