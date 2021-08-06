@@ -222,6 +222,7 @@ http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="SCIENCE",  Smithsonian Channel
 http://gpc.my.id/vidio/smithsonian.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc" group-title="MOVIES",  Asian crush
+https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 
 
