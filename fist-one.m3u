@@ -226,7 +226,8 @@ https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png" group-title="ENTERTAINMENT",One
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="ENTERTAINMENT",AXN 
-http://playlist.urfan.web.id/uq2663/h/h143/01.m#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT SPORT 1 HD
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT SPORT 1 HD
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT SPORT 2 HD
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u83u8http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
