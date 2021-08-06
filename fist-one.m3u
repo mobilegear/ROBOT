@@ -182,7 +182,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://i.imgur.com/5CVl5EF.png" group-title="NEWS",ABC Australia
 https://c.mjh.nz/101002210221/
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.pngg" group-title="ENTERTAINMENT",Blue Ant Extreme
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blue-ant-extreme-ca.png" group-title="ENTERTAINMENT",Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="NEWS",NBC News Now
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
@@ -202,8 +202,6 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="SPORTS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES", Celestial Movie
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="ENTERTAINMENT",Zee Cafe
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="LIFESTYLE",FTV Midnight Secrets 
@@ -222,6 +220,8 @@ http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",  Cinemax
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",  Celestial Movies
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
 
 
