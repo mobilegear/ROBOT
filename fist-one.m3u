@@ -39,12 +39,12 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro Super Sport 1
 http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro Super Sport 3
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.ibb.co/xs1F2CL/ESPN.png" group-title="SPORTS",ESPN
-http://stream2.grandma.fit/fs2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal+Sport" tvg-logo="https://i.ibb.co/p31BsR6/Canal-Sport-2015.png" group-title="SPORTS",Canal+Sport
 http://hbox.cdnss.me:80/bestcs/bestcs/1226
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
@@ -75,6 +75,8 @@ http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOTORVISIONTV" tvg-logo="https://i.ibb.co/9pkqpQD/motorvisiontv.png" group-title="SPORTS",MOTORVISIONTV
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="SCIENCE",  Nat Geo
 http://iptv.tvmalaysia.cc/932633/932633/7075
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -227,8 +229,7 @@ https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="ENTERTAINMENT",AXN 
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS", TrueSport HD 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8 
+ 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT SPORT 1 HD
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT SPORT 2 HD
@@ -243,8 +244,8 @@ https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="SPORTS",Premier Football HD 4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",TrueSport HD 1
-
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS", TrueSport HD 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="SPORTS",TrueSport HD 2
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="SPORTS",TrueSport HD 3
