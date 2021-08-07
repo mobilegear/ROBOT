@@ -47,6 +47,8 @@ http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal+Sport" tvg-logo="https://i.ibb.co/p31BsR6/Canal-Sport-2015.png" group-title="SPORTS",Canal+Sport
 http://hbox.cdnss.me:80/bestcs/bestcs/1226
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="SPORTS", EDGE Sport
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1" tvg-logo="https://i.ibb.co/2jpc91k/RMC-Sport-1.png" group-title="SPORTS",RMC Sport 1
