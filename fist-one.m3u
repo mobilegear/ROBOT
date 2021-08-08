@@ -244,5 +244,5 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",Bein Sport 2
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.motor1.com/kp/static4ui/prod_v2_eks_250/images/pages/info/about-us/logo_v2.png" group-title="SCIENCE",Motor1
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
