@@ -31,3 +31,17 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_tv_pt_3.png" group-title="SPORTS", SPORT TV 3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 01" tvg-logo="https://i.ibb.co/TR767Nf/Bein-Sport-English-01.png" group-title="SPORTS",Bein Sport English 01
+http://hbox.cdnss.me:80/bestcs/bestcs/7947
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 02" tvg-logo="https://i.ibb.co/rQBRwM8/Bein-Sport-English-02.png" group-title="SPORTS",Bein Sport English 02
+http://hbox.cdnss.me:80/bestcs/bestcs/7949
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 03" tvg-logo="https://i.ibb.co/F32DVmC/Bein-Sport-English-03.png" group-title="SPORTS",Bein Sport English 03
+http://hbox.cdnss.me:80/bestcs/bestcs/7951
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",Bein Sport 2
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
