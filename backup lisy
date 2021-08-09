@@ -14,6 +14,10 @@ https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="SPORTS",Premier Football HD 4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORT 1 HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="SPORTS", FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS", TrueSport HD 1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
