@@ -253,8 +253,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628510290/ei/8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS", My Kidz
 http://topwin-tv.my.id/2/master.m3u8?id=u-mykids
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
-http://topwin-tv.my.id/2/master.m3u8?id=babyfisrt
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title=" KIDS",Horee
 http://topwin-tv.my.id/2/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang
@@ -271,3 +269,5 @@ http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks
 http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
+http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
