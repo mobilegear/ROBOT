@@ -2,7 +2,10 @@
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT SPORT 2 HD
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u83u8
-
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1" tvg-logo="https://i.ibb.co/2jpc91k/RMC-Sport-1.png" group-title="SPORTS",RMC Sport 1
+http://hbox.cdnss.me:80/bestcs/bestcs/3072
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2" tvg-logo="https://i.ibb.co/zmpXjqs/RMC-Sport-2.png" group-title="SPORTS",RMC Sport 2
+http://hbox.cdnss.me:80/bestcs/bestcs/3073
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORTS",Premier Football HD 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="SPORTS",Premier Football HD 2
