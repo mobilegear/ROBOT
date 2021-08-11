@@ -92,12 +92,16 @@ http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 http://iptv.tvmalaysia.cc/932633/932633/7075
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_asia.png" group-title="LIFESTYLE",Nat Geo People 
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="LIFESTYLE", Lifestyle & Fashion
-http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Bxx45b/Nat-Geo-Wild.png" group-title="SCIENCE", Nat Geo Wild
 http://iptv.tvmalaysia.cc/932633/932633/7081
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="SCIENCE",  HISTORY
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="SCIENCE",  History
 http://topwin-tv.my.id/2/master.m3u8?id=history
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="SCIENCE",  Discovery
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="SCIENCE",  Discovery Turbo
+https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="SCIENCE",  Love Nature
+http://gpc.my.id/vidio/love-nature.m3u8
  
 #EXTINF:=1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="ENTERTAINMENT",Lifetime 
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
@@ -140,13 +144,11 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png	" group-title="NEWS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8	
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/france24_fr.png" group-title="NEWS",France 24
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="NEWS", CNA Singapore
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmRSyjsW/Arirang-logo.png" group-title="NEWS",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmRSyjsW/Arirang-logo.png" group-title="NEWS",Euronews
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews_fr.png" group-title="NEWS",Euronews
 https://manifest.googlevideo.com/api/manifest/dash/expire/1628511242/ei/qscQYcmDKKWGz7sPveyBIA/ip/124.158.189.37/id/sPgqEHsONK8.3/source/yt_live_broadcast/requiressl/yes/tx/24027397/txs/24027395%2C24027396%2C24027397%2C24027398%2C24027399%2C24027400/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/gcr/id/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Cas%2Cgcr%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMMu2Q6BsUfPiyseBPX3chhIkzRKrOijizW3MobjeKf8CIQDnOe0HVMGjOB2GMMr8qS7Gvtg91DSCgI2XZxCi9kvthw%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628511242/ei/qscQYcmDKKWGz7sPveyBIA/ip/124.158.189.37/id/sPgqEHsONK8.3/source/yt_live_broadcast/requiressl/yes/tx/24027397/txs/24027395%2C24027396%2C24027397%2C24027398%2C24027399%2C24027400/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/id/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRfc7nrReJBBo7cr52keGK9G9ZKM5SdqjI_eXuPkvMo8CICQjLzDjKFmjJhr6fzIOZvQqbQ-k5svQAQEly7oqjMPN/file/index.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -219,6 +221,8 @@ http://rr.dens.tv/h/h08/index2.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="ENTERTAINMENT",Zee Cafe
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="LIFESTYLE", Lifestyle & Fashion
+http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="LIFESTYLE",FTV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B61cDfCw/CHANNEL-V-HD.png" group-title="MUSIC",CHANNEL V HD
@@ -250,7 +254,7 @@ https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="LOCAL",Trans 7 
-https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+http://topwin-tv.my.id/2/master.m3u8?id=trans7
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="LOCAL",Kompas TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628510290/ei/8sMQYeiqNbvN3LUP2_a3mAQ/ip/124.158.189.37/id/8o49U8xAfZ4.1/source/yt_live_broadcast/requiressl/yes/tx/24027397/txs/24027395%2C24027396%2C24027397%2C24027398%2C24027399%2C24027400/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPqYLH02N3Ui6rLAN7kRp2WvGQ8MFnBR0rs2-mKE9QCeAiEAxS6jvOY60eahCkGJpwj56IJIMoI1KVqNH1IhsIjYh3w%3D/file/index.m3u8
 
