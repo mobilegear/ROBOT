@@ -66,6 +66,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="Sports", Bein Sport Max
 http://lengo-sentir.xyz/media/sport/premium/beINMAX
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="Sports", Bein Sport Xtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORT 1 HD
@@ -132,9 +134,9 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-channel-romania-ro.png" group-title="MUSIC",Music Channel 
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-#EXTINF:-1 tvg-id="ClubbingTV.uk" tvg-name="Clubbing TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="MUSIC",Clubbing TV 
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="MUSIC", SBS MTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_au.png" group-title="MUSIC",Clubbing TV 
+http://dituduhmaling.xyz/US33T4/mtvlive.m3u8#
+EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="MUSIC", SBS MTV
 https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="NEWS",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
