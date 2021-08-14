@@ -258,6 +258,9 @@ http://gpc.my.id:80/vidio/sctv.m3u8
 http://gpc.my.id:80/vidio/mnc.m3u8
 #EXTINF:-1  group-title="LOCAL" tvg-logo="https://i.postimg.cc/ryDb1PH1/net-tv.png",NET.
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXL66eqWjcsfy6MRv_Midv048UE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/0002e6.png" tvg-id="RIYAN.1e3c36eb8307a40a9f9e38d023757173.SHINTA" tvg-name" Kompas TV" group-title="LOCAL", Kompas TV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS", My Kidz
 http://210.210.155.35/uq2663/h/h98/index.m3u8
@@ -269,14 +272,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=boomerang
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS", Nick Junior
-http://topwin-tv.my.id/2/master.m3u8?id=nickjr
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS", Nickelodeon
-http://topwin-tv.my.id/2/master.m3u8?id=nickelodeon
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="KIDS", Dreamworks
-http://topwin-tv.my.id/2/master.m3u8?id=dreamworks
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
 http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
 
