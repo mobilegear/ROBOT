@@ -110,6 +110,8 @@ http://gpc.my.id/vidio/love-nature.m3u8
  
 #EXTINF:=1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="ENTERTAINMENT",Lifetime 
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
+#EXTINF:=1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="ENTERTAINMENT",Warner Tv
+https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619073
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr.png" group-title="ENTERTAINMENT",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="ENTERTAINMENT",TLC 
