@@ -90,7 +90,7 @@ http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORT 1 HD (alt)
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/17
+https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b2500000.m3u8
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="SPORTS", FOX SPORT 2 HD (alt)
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
 
@@ -145,6 +145,8 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_au.png" group-title="MUSIC",MTV Live HD 
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8#
 EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="MUSIC", SBS MTV
+http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+EXTINF:-1 tvg-id="" tvg-logo="https://sat-one.info/news-imeg/58892.jpg" group-title="MUSIC", VIVA Russia
 https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="NEWS",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
