@@ -39,10 +39,16 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://topwin-tv.my.id/2/master.m3u8?id=flik
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC
 http://topwin-tv.my.id/2/master.m3u8?id=imc
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", Galaxy
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxy Premium 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES", TVN Movies
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro Super Sport 1
@@ -53,8 +59,6 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",Astro Super Sport 4
 http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal+Sport" tvg-logo="https://i.ibb.co/p31BsR6/Canal-Sport-2015.png" group-title="SPORTS",Canal+Sport
-http://hbox.cdnss.me:80/bestcs/bestcs/1226
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="SPORTS", EDGE Sport
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
@@ -90,9 +94,12 @@ http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORT 1 HD (alt)
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b2500000.m3u8
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="SPORTS", FOX SPORT 2 HD (alt)
-http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/18
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", FOX SPORT 3 HD (alt)
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="SCIENCE",  Nat Geo
 http://iptv.tvmalaysia.cc/932633/932633/7075
@@ -109,7 +116,7 @@ http://gpc.my.id/vidio/love-nature.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/lifetime.png" group-title="ENTERTAINMENT",Lifetime (alt)
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="ENTERTAINMENT",Lifetime (alt)
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:=1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="ENTERTAINMENT",Lifetime 
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
