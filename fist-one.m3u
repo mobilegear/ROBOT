@@ -54,13 +54,13 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro Super Sport 1
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro Super Sport 2
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro Super Sport 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",Astro Super Sport 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="SPORTS", EDGE Sport
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
@@ -308,11 +308,6 @@ https://lh3.googleusercontent.com/DBEpUjAT0ysRq-iJ2CLdJr07Y0bB1SusTr3FoL2ukNiymf
 https://lh3.googleusercontent.com/mV11TdGvhSdWZ75efJTwtthswHvj_Pr_425CFgjciLVfW5-WoXNP_zq0tZ6OBKPu5cvQmC7EtBYmS7XeHA=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BrceGo5.jpg",Brave (2012)
 https://lh3.googleusercontent.com/5JnP-eTnKSwFQ9M29yEwcU4m3U2twJ9zeEOpzLuDTg0mtZj-7gfI7Ui7aEkeCLVh7NLjUk24muipjgm-aA=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KVqx7pd.jpg",A Shaun the Sheep Movie: Farmageddon (2019)
-https://lh3.googleusercontent.com/femImuOfQRBRN-S1obc8NotK4oV-rtlTN_sQnxjCtiUO8OXlipD3-veBM2IoRNr3R-H10fZUzMJPzdZLdw=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HmYjXF.jpg",Batman Ninja (2018)
-https://lh3.googleusercontent.com/-tgi8pvGLgoUmbtSEOR0LuEyZQcvNi_NWM04Xi2FvlN8smXkqE6wcVcesxUkBR1B3FldiYPmjPrusNZmxA=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/VPBKM1g.jpg",Ice Princess Lily (2018)
 https://lh3.googleusercontent.com/P3PiUglF1AVAY2uqaNaDMiQPW9NOxbQuwttFpC-Di21C_ttxtcoEMk0pybUAWOMXWC2A2AfAKcami9xovw=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/u32zdt2.jpg",Cars (2006)
 https://lh3.googleusercontent.com/NTaQ7QK6M-pvb2TCZBpua6lgVR7AMHfzS5L5X_BsXPDGGlx1GLenSlvc4ZRtQo0ZHWBdRM2KA-np-lQ7Uw=m22
@@ -354,30 +349,6 @@ https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0H
 https://lh3.googleusercontent.com/8BhFNg4weFcTHteD-SGIkuTPrpm_DtSOBaU3Biu8mXfKFAbesUnJrR5fyFaUvfQUw_99G-MqKkENvxu1FQ=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/lTiqWPc.jpg",The Incredibles (2004)
 https://lh3.googleusercontent.com/-8QwFnowpt_T1S2-TUnVmD6fq-X16KgrRIPzL81DBT7uDR1R85KFP2O8dIWBvzVeMfRTsz6sVi9TwBIRVQ=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/R0GwKBj.jpg",Tad: The Explorer (2012)
-https://lh3.googleusercontent.com/ImP5Y0jSsvXj3mhlFF21Fo3b5D_SqcTs_yXKp-C7kpiTEtr6nu2Ak47AXKroZsxnwAgZF2nEQAbmkCD5sw=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/A3a5UhK.jpg",The Snow Queen  (2012)
-https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAngSGC1G13Z584bqHd-egA6p1NG-Y8ARAYi39xQ=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NWwwgHi.jpg",The Snow Queen 2 (2014)
-https://lh3.googleusercontent.com/PUkP_uc30xYVDPQPTPBOcYAmdTJDzriV5Jb_RKM0CrMlykOwQBB4a6B4Hs2NMEJwPF5t2bZVqOOSWfjgsQ=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2RxTk0E.jpg",The Snow Queen 3 (2016)
-https://lh3.googleusercontent.com/VwINSgoBhaYdlPODtPggQCEvv9nUbojqu2y7SyiXV2-Jfp2vU3z-bAJ36yfVCSsmQqhX5ARt-B6HijKjCw=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5rsBKFr.jpg",Scooby-Doo! and the Curse of the 13th Ghost (2019)
-https://lh3.googleusercontent.com/EpPRg-UNMNIdX7NRnaFChCp-9rndDHTvxnfa-YaFgJ0eMiLJdLqLPq3GaYBJl4C0DuUhxTT8EM1gAENkag=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YMFcpiQ.jpg",Scooby-Doo! (2005)
-https://lh3.googleusercontent.com/Hca942oPRyaQMmYwrXXyVT3cbvkPFUcf0awP6SdBQTbX5cayhCHi429tLeEjE8ZyMngLxy5nzKlZiKAe5w=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iIJrON9.jpg",Trolls (2016)
-https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap2uuxJAHp4vCn9vQjHTw8cmUtwUAz1wsZUKJg=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/09NKdAq.jpg",The Addams Family (2019)
-https://lh3.googleusercontent.com/ygTh4dv0Mjm7hzhJjfuqHgLOEEH5C1MYVX9uJqUJuEehvzOb_hmO3tq2cuZnRuKgo3PkevRnsuEBtAEINQ=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/EodiiFj.jpg",Lilo & Stitch (2002)
-https://lh3.googleusercontent.com/3fvODebLW56vcDLjIbx72M3tLuuII5kjHnyNDhMbKEm94USqf182zlQS6a1utV7jiFAzhrqcj9wE-nMaJA=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/T45xcT2.jpg",Pokémon the Movie: The Power of Us (2018)
-https://lh3.googleusercontent.com/nOPQnLh3q9rsfXXbL8iBQsU2MN38rPsx9ovcP88eBByElr8UV_djNSArFh1W_T9EVmzZTp_1aLwcczTuCg=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/FEJLyE0.jpg",Playmobil: The Movie (2019)
-https://lh3.googleusercontent.com/scDny2HoezAZc-_4kGwu7g0Dg5a1KcoWgT3mbCODM9heUrRPEIBlm4jPb_jmGhEIl86nPUdRum1ue_7RVQ=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dYdsgjq.png",Peter Rabbit (2018)
-https://lh3.googleusercontent.com/Sbe_gGA74E2qWCtkNQh2YsIP0eOk90vlmXMm0GIbkDFyHzg9VpmWCZaHJAITEXD9pRoupQhUc6pVgl4rXg=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Kvq6iCM.jpg",Rio (2011)
 https://lh3.googleusercontent.com/YXp1lzZCyBQzdw7y9WQzHxlkRHbLc9zR6aEILB-5DAaYXjwSNrlRXvah-s99e_nSkl2unwrO1DXIVUCSrg=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/eQKudie.jpg",Rio 2 (2014)
@@ -386,15 +357,6 @@ https://lh3.googleusercontent.com/NbHteL5xENkDC_r3q8csnsvnh6RlDrJBM0NYq2JNM8rhPF
 https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/hIbPFdg.jpg",Ralph Breaks the Internet (2018)
 https://lh3.googleusercontent.com/H_GqI24O5cNbG80JM4gGbXir6_KVd-0pQQJ11eOxPqcMyD7kBoRzqNqNHwk8dOswmg-f9B7D9mDsQX_aCA=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/tPDZ81o.jpg",The Animatrix (2003)
-https://lh3.googleusercontent.com/w-rIc-U5JWPeWNmb6LDLy99o9A03aSqPYK9IdxF8EDDOPCJvSQEKbUfIuBHTwIf6-KkQYj7CSlwL3NePoQ=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8JOcZCv.jpg",White Snake (2019)
-https://lh3.googleusercontent.com/RamGmf47xAzSLk9JDJNlfTD_l3aeAKBzjSlOTBDo_Jw30u6fCcz-Pnq1D_8AUO0u5sVMKcesaGeAkayBwg=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ar3OoG1.jpg",The Big Bad Fox and Other Tales (2017)
-https://lh3.googleusercontent.com/G-0j3_7K676OGoGA2PycgVT3Mq7pgKlDxHU4gukrkiNT-4Ll0WpFxYIv9tKV75q5P4FTi-CX-WUGNswRdQ=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9kh7oB9.jpg",War of the Worlds: Goliath (2012)
-https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/gWE4ZKR.jpg",G-Force (2009)
 https://lh3.googleusercontent.com/hhi756pirDCaC88olH53sA6Djx8ftsQIwGfEwgWQ2iWlc40gEeqdxO8cQKFxZOtEEUiBVyvNt2K-zdNEEQ=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg",Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
@@ -430,26 +392,16 @@ https://lh3.googleusercontent.com/ZczAPLnQ2Hk4d7nogkxJUZ3J2BV9k-17ZSaVTkPvbHbt5j
 https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9JFIgMm.jpg",How to Train Your Dragon: The Hidden World (2019)
 https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/fSaLFvF.jpg",Steven Universe: The Movie (2019)
-https://lh3.googleusercontent.com/E99xqFlfU_4bdUjOk9Ji6qIDSO1TCtjVB9lNThPVww_cVaepGnxYNW3PeB01PDJmuZ-Pdr6jt46IgqlQ7w=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7BM73j8.jpg",Next Gen (2018)
-https://lh3.googleusercontent.com/NyW6KtjebzkRDEgarfoj4raUDwjirHptpKikrn2vkw_kTWjrRkKA4wVr1TmFPtfrwAKfOK8bt60bAVtAEQ=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
 https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/kS9Ckkl.jpg",Racetime (2018)
-https://lh3.googleusercontent.com/fhw3X66GqUCTzmwweS1nZmXO7DslzAcbIrPPF09lTwK-teUh8nIFvPsZEhHownMKQtB7T6mBjVBFYtOGaw=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/E7sPvZ2.jpg",Spider-Man: Into the Spider-Verse (2018)
 https://lh3.googleusercontent.com/hvynYOx9j_qy7ulK_56btmYgPSMa-sQTS4B9MxxEjq3UBuBP1l_dI0Wfo4awELBdULJWVjj3vR1EJvM49A=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xgMF6vM.jpg",Incredibles 2 (2018)
 https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/PWoYCT6.jpg",Coco (2017)
 https://lh3.googleusercontent.com/GBTJcqGzVbS7NtC7s2ZtMjutY6-q79IklurElMHHsHyge5HOEcteZjlPhsk6Lsw5APJl5nBe_E0zKdRm5A=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/kl80F2h.jpg",Cinderella the Cat (2017)
-https://lh3.googleusercontent.com/ZeKk8aw26Vle_JgcDATloql64Y8UiMENzgMER2RMRujbGayebdkUum099Mp5T3WhQrs1GoLcvsvFjyKWvw=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/ooSS6ek.jpg",Ploey (2018)
-https://lh3.googleusercontent.com/By9ezNfZ9dmIC0Qk2vkCfbntcGL6Ybdc13gDV9bAWU85KrBfR45mR_TQOgJmkDUu_XFhKBAJ6cpQqp-HoA=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5GGpZyZ.jpg",Spark: A Space Tail (2016)
-https://lh3.googleusercontent.com/UPIm4fM-6VhJ5ExNFfRNiYwLmfEcZ9K9_Aj2bFbbRQQNSwRKnl_6GuNLP7RGTYF54uryWcE0Bp-jQzWAQw=m22
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9vEMgw1Y7nG6gO1Zf516eAbVe5.jpg" group-title="VOD | VOD ANIMASI",Upin & Ipin: Keris Siamang Tunggal (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7141.mkv
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8gmHuxi.jpg",Early Man (2018)
 https://lh3.googleusercontent.com/s3umJBZYY8x6Q19-5gu9IesDlTo7kpR3pT_qGeIinD6zw7L_EQ7VsyoMa9fMFCrmh_sz3QE0PgPoIYP1Rw=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1dne2NK.jpg",Ferdinand (2017)
