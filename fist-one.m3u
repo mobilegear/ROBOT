@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD
+#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIES",&privé HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX" tvg-country="US" tvg-language="English" tvg-logo="https://ia803107.us.archive.org/34/items/ActionMax/action%20max.png" group-title="Movies",ActionMAX
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX" tvg-country="US" tvg-language="English" tvg-logo="https://ia803107.us.archive.org/34/items/ActionMax/action%20max.png" group-title="MOVIES",ActionMAX
 http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="Movies",MovieSphere
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="MOVIES",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -21,7 +21,7 @@ https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovie
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="Movies",HBO Signature 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="MOVIES",HBO Signature 
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
@@ -84,8 +84,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOTORVISIONTV" tvg-logo="https://i.ibb.co/9pkqpQD/motorvisiontv.png" group-title="SPORTS",MOTORVISIONTV
 http://210.210.155.35/uq2663/h/h09/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOTORVISIONTV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="SPORTS",Sky Premier
-https://tv4.live/api/stream/7e8531c577@firemailbox.club/681891/livetv.epg/lvupvmnk.ss.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORTS",Premier Football HD 1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="SPORTS",Premier Football HD 2
@@ -94,15 +92,21 @@ http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="SPORTS",Premier Football HD 4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="SPORTS",  LFC TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="SPORTS",   MU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORT 1 HD (alt)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="SPORTS", FOX SPORT 2 HD (alt)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", FOX SPORT 3 HD (alt)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS",  EURO Sports 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="SCIENCE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX HD
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/91
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="SCIENCE",  Nat Geo
 http://iptv.tvmalaysia.cc/932633/932633/7075
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Bxx45b/Nat-Geo-Wild.png" group-title="SCIENCE", Nat Geo Wild
@@ -154,8 +158,11 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8#
 EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="MUSIC", SBS MTV
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-EXTINF:-1 tvg-id="" tvg-logo="https://sat-one.info/news-imeg/58892.jpg" group-title="MUSIC", VIVA Russia
-https://www.navchina.cf/IPTV/sbs.php?id=S09
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="News", Russia Today
+https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KYngMB0d/CNN-Indonesia.png" group-title="NEWS",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="734" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="NEWS", France 24
