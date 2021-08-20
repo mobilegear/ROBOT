@@ -36,7 +36,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik
-http://topwin-tv.my.id/2/master.m3u8?id=flik
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC
 http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES", MBC 2
@@ -52,15 +52,19 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="Sports // IPTV Rilo", Astro Arena
+# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro Super Sport 1
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6708
+http://iptv.tvmalaysia.cc/932633/932633/6708
+###http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro Super Sport 2
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
+http://iptv.tvmalaysia.cc/932633/932633/6710
+###http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro Super Sport 3
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",Astro Super Sport 4
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+http://iptv.tvmalaysia.cc/932633/932633/6712
+###http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png" group-title="SPORTS", EDGE Sport
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
@@ -105,20 +109,26 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS",  EURO Sports 1
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="SCIENCE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX HD
-http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/91
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="SCIENCE",  Nat Geo
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/m2xcwP9r/dmax.png",DMAX HD
+http://iptv.tvmalaysia.cc:80/989898/989898/6778
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE",  Nat Geo
 http://iptv.tvmalaysia.cc/932633/932633/7075
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Bxx45b/Nat-Geo-Wild.png" group-title="SCIENCE", Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Bxx45b/Nat-Geo-Wild.png" group-title="KNOWLEDGE", Nat Geo Wild
 http://iptv.tvmalaysia.cc/932633/932633/7081
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="SCIENCE",  History
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History
 http://topwin-tv.my.id/2/master.m3u8?id=history
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="SCIENCE",  Discovery
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=disco
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="SCIENCE",  Discovery Turbo
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE",  Discovery
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="KNOWLEDGE",  Discovery Turbo
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="SCIENCE",  Love Nature
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE",  Love Nature
 http://gpc.my.id/vidio/love-nature.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE // IPTV Rilo" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png",BBC Earth
+http://iptv.tvmalaysia.cc:80/737373/737373/7233
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/636px-History2Logo2019.png" group-title="KNOWLEDGE",History 2 (H2)
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11363
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="Knowledge // IPTV Rilo", Discovery Asia
+http://iptv.tvmalaysia.cc:80/live/989898/989898/8856.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -132,10 +142,9 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
 https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619073
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr.png" group-title="ENTERTAINMENT",Aniplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="ENTERTAINMENT",TLC 
-https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/66
+###https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png" group-title="ENTERTAINMENT",FOX Crime 
@@ -262,7 +271,7 @@ http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",  Cinemax
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",  Celestial Movies
-http://topwin-tv.my.id/2/master.m3u8?id=celestialmovie
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="SCIENCE",  Smithsonian Channel
 http://gpc.my.id/vidio/smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/96/d4/b9/96d4b91e8161418acfb1fbb196f1d1c9.jpg" group-title="MOVIES",  Asian crush
