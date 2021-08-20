@@ -1,12 +1,20 @@
 #EXTM3U
+
+//MOVIES
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIES",&privé HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX" tvg-country="US" tvg-language="English" tvg-logo="https://ia803107.us.archive.org/34/items/ActionMax/action%20max.png" group-title="MOVIES",ActionMAX
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/1200px-Starz_Comedy_logo.svg.png" group-title="MOVIES",STARZ Comedy
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11329
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="MOVIES",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",  Cinemax
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",  Celestial Movies
+https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/96/d4/b9/96d4b91e8161418acfb1fbb196f1d1c9.jpg" group-title="MOVIES",  Asian crush
+https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES",FOX Movies 
@@ -46,7 +54,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxy Premium 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES", TVN Movies
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
+http://rr1.dens.tv/h/h21/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
@@ -123,12 +131,15 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE",  Love Nature
 http://gpc.my.id/vidio/love-nature.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE // IPTV Rilo" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png",BBC Earth
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png",BBC Earth
 http://iptv.tvmalaysia.cc:80/737373/737373/7233
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/636px-History2Logo2019.png" group-title="KNOWLEDGE",History 2 (H2)
 http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11363
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="Knowledge // IPTV Rilo", Discovery Asia
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="KNOWLEDGE", Discovery Asia
 http://iptv.tvmalaysia.cc:80/live/989898/989898/8856.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="KNOWLEDGE",  Smithsonian Channel
+http://gpc.my.id/vidio/smithsonian.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -265,21 +276,16 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Boogle_Bollywood.jpeg/revision/latest?cb=20200106202611" group-title="MUSIC",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
-
+//LIFESTYLE
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_asia.png" group-title="LIFESTYLE",  Nat Geo People
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",  Cinemax
-https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",  Celestial Movies
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="SCIENCE",  Smithsonian Channel
-http://gpc.my.id/vidio/smithsonian.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/96/d4/b9/96d4b91e8161418acfb1fbb196f1d1c9.jpg" group-title="MOVIES",  Asian crush
-https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="ENTERTAINMENT",AXN 
 http://topwin-tv.my.id/2/master.m3u8?id=axn
 #EXTINF:-1  group-title="ENTERTAINMENT" tvg-logo="https://i.postimg.cc/L632Ymfn/kix.jpg",KIX
 http://210.210.155.35/dr9445/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/e5/33/dae5339785ce9eed6d74255399501080.png" group-title="LIFESTYLE",Travel Channel 
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11565
 
  
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="LOCAL",Trans 7 
