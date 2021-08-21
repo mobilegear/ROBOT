@@ -86,6 +86,12 @@ http://livetv.dnsfor.me:80/channel.12.m3u8
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 01" tvg-logo="https://i.ibb.co/TR767Nf/Bein-Sport-English-01.png" group-title="SPORTS",Bein Sport English 01
+http://hbox.cdnss.me:80/bestcs/bestcs/7947
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 02" tvg-logo="https://i.ibb.co/rQBRwM8/Bein-Sport-English-02.png" group-title="SPORTS",Bein Sport English 02
+http://hbox.cdnss.me:80/bestcs/bestcs/7949
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport English 03" tvg-logo="https://i.ibb.co/F32DVmC/Bein-Sport-English-03.png" group-title="SPORTS",Bein Sport English 03
+http://hbox.cdnss.me:80/bestcs/bestcs/7951
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS", Bein Sport 1
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS", Bein Sport 2
