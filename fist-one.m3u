@@ -69,8 +69,8 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 
 //SPORTS
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="Sports // IPTV Rilo", Astro Arena
-# http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS", Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro Super Sport 1
 http://iptv.tvmalaysia.cc/932633/932633/6708
 ###http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
