@@ -67,6 +67,10 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
+#EXTINF:0 tvg-country="noa" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
+
+
 
 //SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS", Astro Arena
@@ -132,15 +136,18 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORTS",Dubai Sport 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="SPORTS", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
+//KNOWLEDGE
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/m2xcwP9r/dmax.png",DMAX HD
 http://iptv.tvmalaysia.cc:80/989898/989898/6778
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE",  Nat Geo
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE",  National Geographic
 http://iptv.tvmalaysia.cc/932633/932633/7075
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Bxx45b/Nat-Geo-Wild.png" group-title="KNOWLEDGE", Nat Geo Wild
 http://iptv.tvmalaysia.cc/932633/932633/7081
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History Channel
 http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE",  Discovery
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
@@ -159,7 +166,8 @@ http://gpc.my.id/vidio/smithsonian.m3u8
 
 
 //ENTERTAINMENT
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="ENTERTAINMENT", K+
+http://rr.dens.tv/h/h08/index2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="ENTERTAINMENT",Lifetime (alt) 2
@@ -213,7 +221,7 @@ http://210.210.155.35/dr9445/h/h144/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 
 
-
+//MUSIC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_v_international.png" group-title="MUSIC",Channel V 
@@ -228,6 +236,9 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://dituduhmaling.xyz/US33T4/mtvlive.m3u8#
 EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="MUSIC", SBS MTV
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B61cDfCw/CHANNEL-V-HD.png" group-title="MUSIC",CHANNEL V HD
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+
 
 //NEWS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="NEWS", Russia Today
@@ -254,25 +265,11 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NEWS", Al-Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="NEWS", Africa News
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
 
 
 
-
-#EXTINF:0 tvg-country="noa" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="ENTERTAINMENT", K+
-http://rr.dens.tv/h/h08/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8cnXJcu.png" group-title="SPORTS", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B61cDfCw/CHANNEL-V-HD.png" group-title="MUSIC",CHANNEL V HD
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Boogle_Bollywood.jpeg/revision/latest?cb=20200106202611" group-title="MUSIC",Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
 //LIFESTYLE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="LIFESTYLE", FTV
@@ -281,16 +278,19 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137
 http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",HGTV 
 http://dituduhmaling.xyz/US33T4/hgtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/da/e5/33/dae5339785ce9eed6d74255399501080.png" group-title="LIFESTYLE",Travel Channel 
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11565
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_lifestyle_uk.png" group-title="LIFESTYLE", BBC lifestyle
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-food-network-sg.png" group-title="LIFESTYLE",AFN 
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/10
- #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="LIFESTYLE", Lifestyle & Fashion
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="LIFESTYLE", Lifestyle & Fashion
 http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="LIFESTYLE",FTV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="LIFESTYLE", Food Network
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 
 
+//LOCAL
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="LOCAL",Trans 7 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="LOCAL",SCTV
