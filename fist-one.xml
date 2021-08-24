@@ -1,4 +1,3 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <tv>
 <channel id="SCTV.id">
 <display-name>SCTV</display-name>
@@ -12,14 +11,11 @@ This XML file does not appear to have any style information associated with it. 
 <channel id="OChannel.id">
 <display-name>O Channel</display-name>
 </channel>
-<channel id="Animax ID">
-<display-name>Animax</display-name>
-</channel>
 <channel id="KompasTV.id">
 <display-name>Kompas TV</display-name>
 </channel>
 <channel id="Lifetime.id">
-<display-name>BeritaSatu</display-name>
+<display-name>Lifetime</display-name>
 </channel>
 <channel id="METROTV.id">
 <display-name>METRO TV</display-name>
@@ -27,11 +23,14 @@ This XML file does not appear to have any style information associated with it. 
 <channel id="NET.id">
 <display-name>NET.</display-name>
 </channel>
-<channel id="TRANSTVHD.id">
-<display-name>TRANS TV HD</display-name>
+<channel id="NatGeoPeople.id">
+<display-name>National Geographic People</display-name>
 </channel>
-<channel id="TVRINasional.id">
-<display-name>TVRI Nasional</display-name>
+<channel id="NatGeo.id">
+<display-name>National Geographic</display-name>
+</channel>
+<channel id="NatGeoWild.id">
+<display-name>National Geographic Wild</display-name>
 </channel>
 <channel id="TRANS7HD.id">
 <display-name>TRANS 7 HD</display-name>
@@ -39,29 +38,47 @@ This XML file does not appear to have any style information associated with it. 
 <channel id="MNCTV.id">
 <display-name>MNCTV</display-name>
 </channel>
-<channel id="JAKTV.id">
-<display-name>Jaktv</display-name>
+<channel id="Kplus.id">
+<display-name>K+</display-name>
 </channel>
-<channel id="GTV.id">
-<display-name>GTV</display-name>
+<channel id="HistoryChannel.id">
+<display-name>History Channel</display-name>
 </channel>
-<channel id="RTV.id">
-<display-name>RTV</display-name>
+<channel id="HBO.id">
+<display-name>HBO</display-name>
 </channel>
-<channel id="iNews.id">
-<display-name>iNews</display-name>
+<channel id="HBOHits.id	">
+<display-name>HBO Hits</display-name>
 </channel>
-<channel id="OShop.id">
-<display-name>OShop</display-name>
+<channel id="HBOSignature.id">
+<display-name>HBO Signature</display-name>
 </channel>
-<channel id="MyTV.id">
-<display-name>MyTV</display-name>
+<channel id="HBOFamily.id">
+<display-name>HBO Family</display-name>
 </channel>
-<channel id="NusantaraTV.id">
-<display-name>Nusantara TV</display-name>
+<channel id="HITS.id">
+<display-name>HITS</display-name>
 </channel>
-<channel id="DaaiTV.id">
-<display-name>DAAI TV</display-name>
+<channel id="Animax ID">
+<display-name>Animax</display-name>
+</channel>
+<channel id="Galaxy Premium.id">
+<display-name>Galaxy Premium</display-name>
+</channel>
+<channel id="Galaxy.id">
+<display-name>Galaxy</display-name>
+</channel>
+<channel id="FOXMoviesPremium.id">
+<display-name>FOX Movies Premium</display-name>
+</channel>
+<channel id="FOXMovies.id">
+<display-name>FOX Movies</display-name>
+</channel>
+<channel id="FOXFamilyMovies.id">
+<display-name>FOX Family Movies</display-name>
+</channel>
+<channel id="FOXActionMovies.id">
+<display-name>FOX Action Movies</display-name>
 </channel>
 <channel id="ChampionTV1.id">
 <display-name>Champions TV 1</display-name>
