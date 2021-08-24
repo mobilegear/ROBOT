@@ -92,11 +92,11 @@ https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS", beIN Sports 1 Asia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS", Bein Sport 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS", beIn Sport 2 Asia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="SPORTS", Bein Sport Max
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="SPORTS", beIn Sports Max
 http://lengo-sentir.xyz/media/sport/premium/beINMAX
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS", Bein Sport Xtra
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS", beIn Sport Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -124,7 +124,7 @@ EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" gr
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", FOX SPORT 3 HD (alt)
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS",  EURO Sports 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS",  Eurosport 1
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
