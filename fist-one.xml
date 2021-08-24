@@ -1,116 +1,3213 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.15 -- Jan van Straaten" site="useetv.com">
-  <channels>
-    <channel update="i" site="transvision.co.id" site_id="ALZA" xmltv_id="Al Jazeera">Al Jazeera</channel>
-    <channel update="i" site="transvision.co.id" site_id="AQAK" xmltv_id="Al Quran Al Kareem TV">Al Quran Al Kareem TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="AMC" xmltv_id="AMC">AMC</channel>
-    <channel update="i" site="transvision.co.id" site_id="ANI" xmltv_id="Animax">Animax</channel>
-    <channel update="i" site="transvision.co.id" site_id="ANIP" xmltv_id="AniPlus">AniPlus</channel>
-    <channel update="i" site="transvision.co.id" site_id="ANTV" xmltv_id="ANTV">ANTV</channel>
-    <channel update="i" site="transvision.co.id" site_id="AXN" xmltv_id="AXN HD">AXN HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="BBF" xmltv_id="BabyFirst TV">BabyFirst TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="BEA" xmltv_id="beIN 1 SPORTS HD">beIN 1 SPORTS HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="BEB" xmltv_id="beIN 2 SPORTS HD">beIN 2 SPORTS HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="BS3H" xmltv_id="beIN 3 SPORTS HD">beIN 3 SPORTS HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="BST" xmltv_id="BeritaSatu">BeritaSatu</channel>
-    <channel update="i" site="transvision.co.id" site_id="TRBI" xmltv_id="Bioskop Indonesia">Bioskop Indonesia</channel>
-    <channel update="i" site="transvision.co.id" site_id="BLO" xmltv_id="Bloomberg TV Asia">Bloomberg TV Asia</channel>
-    <channel update="i" site="transvision.co.id" site_id="BOOM" xmltv_id="Boomerang HD">Boomerang HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="CMTV" xmltv_id="C Music TV">C Music TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="CAR" xmltv_id="Cartoon Network HD">Cartoon Network HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="CCTV" xmltv_id="CCTV 4">CCTV 4</channel>
-    <channel update="i" site="transvision.co.id" site_id="CC9" xmltv_id="CCTV 9 DOCUMENTARY">CCTV 9 DOCUMENTARY</channel>
-    <channel update="i" site="transvision.co.id" site_id="CCNE" xmltv_id="CCTV News">CCTV News</channel>
-    <channel update="i" site="transvision.co.id" site_id="CELE" xmltv_id="Celestial Movies">Celestial Movies</channel>
-    <channel update="i" site="transvision.co.id" site_id="CHM" xmltv_id="Channel M HD">Channel M HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="NAC" xmltv_id="Channel NewsAsia">Channel NewsAsia</channel>
-    <channel update="i" site="transvision.co.id" site_id="CHNV" xmltv_id="Channel [V] HD">Channel [V] HD</channel>
-    <channel update="i" site="https://www.useetv.com/livetv/cinemaworld" site_id="CIWO" xmltv_id="Cinema World">Cinema World</channel>
-    <channel update="i" site="transvision.co.id" site_id="CMX" xmltv_id="CINEMAX HD">CINEMAX HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="CNBC" xmltv_id="CNBC Asia">CNBC Asia</channel>
-    <channel update="i" site="transvision.co.id" site_id="CNIH" xmltv_id="CNN Indonesia HD">CNN Indonesia HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="CNN" xmltv_id="CNN International HD">CNN International HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="COMC" xmltv_id="Comedy Central Asia">Comedy Central Asia</channel>
-    <channel update="i" site="transvision.co.id" site_id="CI" xmltv_id="Crime Investigation HD">Crime Investigation HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="DVL" xmltv_id="Da Vinci Learning">Da Vinci Learning</channel>
-    <channel update="i" site="transvision.co.id" site_id="DAAI" xmltv_id="DAAI TV">DAAI TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="DI" xmltv_id="Disney Channel HD">Disney Channel HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="DIJU" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="transvision.co.id" site_id="DIVA" xmltv_id="DIVA HD">DIVA HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="DUCK" xmltv_id="Duck TV">Duck TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="AND" xmltv_id="Dunia Anak">Dunia Anak</channel>
-    <channel update="i" site="transvision.co.id" site_id="TRDU" xmltv_id="Dunia Lain">Dunia Lain</channel>
-    <channel update="i" site="transvision.co.id" site_id="DWT" xmltv_id="DW">DW</channel>
-    <channel update="i" site="transvision.co.id" site_id="E!" xmltv_id="E! HD">E! HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="TREA" xmltv_id="Eat N Go">Eat N Go</channel>
-    <channel update="i" site="transvision.co.id" site_id="EURO" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="transvision.co.id" site_id="F1KU" xmltv_id="Fashion One HD">Fashion One HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FTV" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FSP" xmltv_id="Fight Sports HD">Fight Sports HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FAM" xmltv_id="FOX Action Movies HD">FOX Action Movies HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FOXC" xmltv_id="FOX Crime HD">FOX Crime HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FFM" xmltv_id="FOX Family Movies HD">FOX Family Movies HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FOX" xmltv_id="FOX HD">FOX HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FMPH" xmltv_id="FOX Movies Premium HD">FOX Movies Premium HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FXSP" xmltv_id="FOX Sports  HD">FOX Sports  HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FSP2" xmltv_id="FOX Sports 2 HD">FOX Sports 2 HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FSPH" xmltv_id="FOX Sports 3 HD">FOX Sports 3 HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="FSN" xmltv_id="FOX Sports News">FOX Sports News</channel>
-    <channel update="i" site="transvision.co.id" site_id="FRC" xmltv_id="France24">France24</channel>
-    <channel update="i" site="transvision.co.id" site_id="FX" xmltv_id="FX HD">FX HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="BIO" xmltv_id="Fyi, HD">Fyi, HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="GEM" xmltv_id="GEM">GEM</channel>
-    <channel update="i" site="transvision.co.id" site_id="GINX" xmltv_id="GINX TV">GINX TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="GLO" xmltv_id="Global TV">Global TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="GOLF" xmltv_id="Golf HD">Golf HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="HBF" xmltv_id="HBO Family HD">HBO Family HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="HBD" xmltv_id="HBO HD">HBO HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="HBHD" xmltv_id="HBO Hits HD">HBO Hits HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="HBOS" xmltv_id="HBO Signature">HBO Signature</channel>
-    <channel update="i" site="transvision.co.id" site_id="HIS" xmltv_id="History HD">History HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="IDS" xmltv_id="Indosiar">Indosiar</channel>
-    <channel update="i" site="transvision.co.id" site_id="JAK" xmltv_id="JakTV">JakTV</channel>
-    <channel update="i" site="transvision.co.id" site_id="JDL" xmltv_id="JENDELA">JENDELA</channel>
-    <channel update="i" site="transvision.co.id" site_id="KBS" xmltv_id="KBS World HD">KBS World HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="TRKH" xmltv_id="Khazanah">Khazanah</channel>
-    <channel update="i" site="transvision.co.id" site_id="KIX" xmltv_id="KIX HD">KIX HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="KOM" xmltv_id="Kompas TV">Kompas TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="LITV" xmltv_id="Life Inspired HD">Life Inspired HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="LIFT" xmltv_id="Lifetime HD">Lifetime HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="LUKU" xmltv_id="Luxe TV HD">Luxe TV HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="TRMA" xmltv_id="MaLe">MaLe</channel>
-    <channel update="i" site="transvision.co.id" site_id="MET" xmltv_id="Metro TV">Metro TV</channel>
-    <channel update="i" site="transvision.co.id" site_id="MNC" xmltv_id="MNCTV">MNCTV</channel>
-    <channel update="i" site="transvision.co.id" site_id="MTVA" xmltv_id="MTV Live">MTV Live</channel>
-    <channel update="i" site="transvision.co.id" site_id="NGCK" xmltv_id="National Geographic HD">National Geographic HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="NGP" xmltv_id="National Geographic People HD">National Geographic People HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="NGWH" xmltv_id="National Geographic Wild HD">National Geographic Wild HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="NHP" xmltv_id="NHK World Premium">NHK World Premium</channel>
-    <channel update="i" site="transvision.co.id" site_id="NCJ" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel update="i" site="transvision.co.id" site_id="NCK" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="transvision.co.id" site_id="OHKU" xmltv_id="Oh!K HD">Oh!K HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="OUT" xmltv_id="Outdoor Channel">Outdoor Channel</channel>
-    <channel update="i" site="transvision.co.id" site_id="RCTI" xmltv_id="RCTI">RCTI</channel>
-    <channel update="i" site="transvision.co.id" site_id="BCH" xmltv_id="RTV">RTV</channel>
-    <channel update="i" site="transvision.co.id" site_id="SCTV" xmltv_id="SCTV">SCTV</channel>
-    <channel update="i" site="transvision.co.id" site_id="TRSH" xmltv_id="Showcase">Showcase</channel>
-    <channel update="i" site="transvision.co.id" site_id="SET" xmltv_id="SONY Channel">SONY Channel</channel>
-    <channel update="i" site="transvision.co.id" site_id="STCH" xmltv_id="STAR Chinese Channel">STAR Chinese Channel</channel>
-    <channel update="i" site="transvision.co.id" site_id="STCM" xmltv_id="STAR Chinese Movies HD">STAR Chinese Movies HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="SCML" xmltv_id="STAR Chinese Movies Legend">STAR Chinese Movies Legend</channel>
-    <channel update="i" site="transvision.co.id" site_id="STW" xmltv_id="STARWorld HD">STARWorld HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="SYFY" xmltv_id="Syfy">Syfy</channel>
-    <channel update="i" site="transvision.co.id" site_id="TMUS" xmltv_id="T Music">T Music</channel>
-    <channel update="i" site="transvision.co.id" site_id="TRTT" xmltv_id="Tahan Tawa">Tahan Tawa</channel>
-    <channel update="i" site="transvision.co.id" site_id="THR" xmltv_id="Thrill">Thrill</channel>
-    <channel update="i" site="transvision.co.id" site_id="TOON" xmltv_id="Toonami">Toonami</channel>
-    <channel update="i" site="transvision.co.id" site_id="TRTV" xmltv_id="TRANS TV HD">TRANS TV HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="TR7" xmltv_id="TRANS7 HD">TRANS7 HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="TV1" xmltv_id="tvOne">tvOne</channel>
-    <channel update="i" site="transvision.co.id" site_id="TVRI" xmltv_id="TVRI">TVRI</channel>
-    <channel update="i" site="transvision.co.id" site_id="UNI" xmltv_id="Universal Channel">Universal Channel</channel>
-    <channel update="i" site="transvision.co.id" site_id="WAKU" xmltv_id="WakuWaku Japan">WakuWaku Japan</channel>
-    <channel update="i" site="transvision.co.id" site_id="WAR" xmltv_id="Warner TV HD">Warner TV HD</channel>
-    <channel update="i" site="transvision.co.id" site_id="ZBIO" xmltv_id="Z Bioskop">Z Bioskop</channel>
-  </channels>
-</site>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<tv>
+<channel id="SCTV.id">
+<display-name>SCTV</display-name>
+</channel>
+<channel id="Indosiar.id">
+<display-name>Indosiar</display-name>
+</channel>
+<channel id="RCTI.id">
+<display-name>RCTI</display-name>
+</channel>
+<channel id="OChannel.id">
+<display-name>O Channel</display-name>
+</channel>
+<channel id="Animax ID">
+<display-name>Animax</display-name>
+</channel>
+<channel id="KompasTV.id">
+<display-name>Kompas TV</display-name>
+</channel>
+<channel id="Lifetime.id">
+<display-name>BeritaSatu</display-name>
+</channel>
+<channel id="METROTV.id">
+<display-name>METRO TV</display-name>
+</channel>
+<channel id="NET.id">
+<display-name>NET.</display-name>
+</channel>
+<channel id="TRANSTVHD.id">
+<display-name>TRANS TV HD</display-name>
+</channel>
+<channel id="TVRINasional.id">
+<display-name>TVRI Nasional</display-name>
+</channel>
+<channel id="TRANS7HD.id">
+<display-name>TRANS 7 HD</display-name>
+</channel>
+<channel id="MNCTV.id">
+<display-name>MNCTV</display-name>
+</channel>
+<channel id="JAKTV.id">
+<display-name>Jaktv</display-name>
+</channel>
+<channel id="GTV.id">
+<display-name>GTV</display-name>
+</channel>
+<channel id="RTV.id">
+<display-name>RTV</display-name>
+</channel>
+<channel id="iNews.id">
+<display-name>iNews</display-name>
+</channel>
+<channel id="OShop.id">
+<display-name>OShop</display-name>
+</channel>
+<channel id="MyTV.id">
+<display-name>MyTV</display-name>
+</channel>
+<channel id="NusantaraTV.id">
+<display-name>Nusantara TV</display-name>
+</channel>
+<channel id="DaaiTV.id">
+<display-name>DAAI TV</display-name>
+</channel>
+<channel id="ChampionTV1.id">
+<display-name>Champions TV 1</display-name>
+</channel>
+<channel id="ChampionTV2.id">
+<display-name>Champions TV 2</display-name>
+</channel>
+<channel id="ChampionTV3.id">
+<display-name>Champions TV 2</display-name>
+</channel>
+<channel id="FoxSportsAsia.us">
+<display-name>Fox Sports Asia</display-name>
+</channel>
+<channel id="beINSports1Asia.qa">
+<display-name>beIN Sports 1 Asia</display-name>
+</channel>
+<channel id="FoxSports2Asia.us">
+<display-name>Fox Sports 2 Asia</display-name>
+</channel>
+<channel id="FoxSports3Asia.us">
+<display-name>Fox Sports 3 Asia</display-name>
+</channel>
+<channel id="ArirangTV.kr">
+<display-name>Arirang TV</display-name>
+</channel>
+<channel id="ZeeBioskop.in">
+<display-name>Zee Bioskop</display-name>
+</channel>
+<channel id="CNA.sg">
+<display-name>CNA</display-name>
+</channel>
+<channel id="AlJazeeraEnglish.qa">
+<display-name>Al Jazeera English</display-name>
+</channel>
+<channel id="Euronews.fr">
+<display-name>Euronews</display-name>
+</channel>
+<channel id="DWEnglish.de">
+<display-name>DW English</display-name>
+</channel>
+<channel id="ABCTV.au">
+<display-name>ABC TV</display-name>
+</channel>
+<channel id="SmithsonianChannelAsia.us">
+<display-name>Smithsonian Channel Asia</display-name>
+</channel>
+<programme start="20210823171500 +0000" stop="20210823183000 +0000" channel="SCTV.id">
+<title lang="id">Sinema Malam</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823210000 +0000" channel="SCTV.id">
+<title lang="id">Liga Inggris 2021</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="SCTV.id">
+<title lang="id">Barakallah</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823230000 +0000" channel="SCTV.id">
+<title lang="id">Liputan 6 Pagi</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823233000 +0000" channel="SCTV.id">
+<title lang="id">Buser Pagi</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824010000 +0000" channel="SCTV.id">
+<title lang="id">Status Selebritis Xtraordinary</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824030000 +0000" channel="SCTV.id">
+<title lang="id">FTV Pagi Spesial</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824050000 +0000" channel="SCTV.id">
+<title lang="id">FTV Pagi</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="SCTV.id">
+<title lang="id">Liputan 6 Siang</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824080000 +0000" channel="SCTV.id">
+<title lang="id">Dilan 1990</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824103000 +0000" channel="SCTV.id">
+<title lang="id">Dilan 1991</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824160000 +0000" channel="SCTV.id">
+<title lang="id">Malam Puncak HUT SCTV 31 Xtraordinary</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824190000 +0000" channel="SCTV.id">
+<title lang="id">Serigala Terakhir</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823190000 +0000" channel="Indosiar.id">
+<title lang="id">Konser Takdir Cinta Leslar</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823200000 +0000" channel="Indosiar.id">
+<title lang="id">Love In The Moonlight</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823203000 +0000" channel="Indosiar.id">
+<title lang="id">Patroli Malam</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823210000 +0000" channel="Indosiar.id">
+<title lang="id">Fokus Malam</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="Indosiar.id">
+<title lang="id">Mukjizat Masih Ada</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823230000 +0000" channel="Indosiar.id">
+<title lang="id">Fokus Pagi</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824000000 +0000" channel="Indosiar.id">
+<title lang="id">Pintu Berkah</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824020000 +0000" channel="Indosiar.id">
+<title lang="id">Pintu Berkah</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824033000 +0000" channel="Indosiar.id">
+<title lang="id">Hot Kiss</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="Indosiar.id">
+<title lang="id">Patroli</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="Indosiar.id">
+<title lang="id">Fokus</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824063000 +0000" channel="Indosiar.id">
+<title lang="id">Kisah Nyata Spesial</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824080000 +0000" channel="Indosiar.id">
+<title lang="id">Pintu Berkah Siang</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824093000 +0000" channel="Indosiar.id">
+<title lang="id">Suara Hati Istri</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824113000 +0000" channel="Indosiar.id">
+<title lang="id">Nur</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824133000 +0000" channel="Indosiar.id">
+<title lang="id">Anjani</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824173000 +0000" channel="Indosiar.id">
+<title lang="id">Konser Takdir Cinta Leslar</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823190000 +0000" channel="RCTI.id">
+<title lang="id">The Great Wall</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823203000 +0000" channel="RCTI.id">
+<title lang="id">Sang Bodyguard Sexy</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823210000 +0000" channel="RCTI.id">
+<title lang="id">Penyegaran Rohani</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823223000 +0000" channel="RCTI.id">
+<title lang="id">Seputar iNews Pagi</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823231500 +0000" channel="RCTI.id">
+<title lang="id">Sergap</title>
+</programme>
+<programme start="20210823231500 +0000" stop="20210824000000 +0000" channel="RCTI.id">
+<title lang="id">Go Spot</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824014500 +0000" channel="RCTI.id">
+<title lang="id">Me Vs Mami</title>
+</programme>
+<programme start="20210824014500 +0000" stop="20210824031500 +0000" channel="RCTI.id">
+<title lang="id">Dahsyatnya</title>
+</programme>
+<programme start="20210824031500 +0000" stop="20210824050000 +0000" channel="RCTI.id">
+<title lang="id">Silet</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824063000 +0000" channel="RCTI.id">
+<title lang="id">Si Doel</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824083000 +0000" channel="RCTI.id">
+<title lang="id">Akhir Kisah Cinta Si Doel</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824110000 +0000" channel="RCTI.id">
+<title lang="id">Preman Pensiun</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824140000 +0000" channel="RCTI.id">
+<title lang="id">Anniversary Celebration RCTI 32</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824154500 +0000" channel="RCTI.id">
+<title lang="id">Ikatan Cinta</title>
+</programme>
+<programme start="20210824154500 +0000" stop="20210824170000 +0000" channel="RCTI.id">
+<title lang="id">Amanah Wali</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823173000 +0000" channel="OChannel.id">
+<title lang="id">One C'ship</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823193000 +0000" channel="OChannel.id">
+<title lang="id">Volleyball Tokyo Olympic</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823210200 +0000" channel="OChannel.id">
+<title lang="id">Karnaval Inbox</title>
+</programme>
+<programme start="20210823210200 +0000" stop="20210823213000 +0000" channel="OChannel.id">
+<title lang="id">Potret</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823220000 +0000" channel="OChannel.id">
+<title lang="id">O Entertainment Malam</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="OChannel.id">
+<title lang="id">O Channel Today</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="OChannel.id">
+<title lang="id">O Entertainment Pagi</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824010000 +0000" channel="OChannel.id">
+<title lang="id">Inbox</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824013000 +0000" channel="OChannel.id">
+<title lang="id">Jalan - Jalan</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="OChannel.id">
+<title lang="id">O Channel Today</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824023000 +0000" channel="OChannel.id">
+<title lang="id">Lutuna</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824040000 +0000" channel="OChannel.id">
+<title lang="id">O Shop</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824060000 +0000" channel="OChannel.id">
+<title lang="id">Paling Pol</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="OChannel.id">
+<title lang="id">Pilihan: Cinta Bersemi Di Putih Abu-Abu</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824080000 +0000" channel="OChannel.id">
+<title lang="id">O Shop</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="OChannel.id">
+<title lang="id">O Shop</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824093000 +0000" channel="OChannel.id">
+<title lang="id">Paling Pol</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824100000 +0000" channel="OChannel.id">
+<title lang="id">Food Adventure</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824103000 +0000" channel="OChannel.id">
+<title lang="id">PROAKTIF</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824110000 +0000" channel="OChannel.id">
+<title lang="id">O Channel Today</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824140000 +0000" channel="OChannel.id">
+<title lang="id">Openlive - Tokyo Paralympics 2020</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="OChannel.id">
+<title lang="id">Beach Volleyball Tokyo Olympic</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824153000 +0000" channel="OChannel.id">
+<title lang="id">UCL Final Archive</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824160000 +0000" channel="OChannel.id">
+<title lang="id">Loveless</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="OChannel.id">
+<title lang="id">One C'ship</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823183000 +0000" channel="AjwaTV.id">
+<title lang="id">30 Hari 30 Juz</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823210000 +0000" channel="AjwaTV.id">
+<title lang="id">Makkah Live</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="AjwaTV.id">
+<title lang="id">30 Hari 30 Juz</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823223000 +0000" channel="AjwaTV.id">
+<title lang="id">Adzan & Sholat Subuh Dari Masjid Istiqlal Live / Mutiara Hati Subuh Quraish Shihab 2017</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="AjwaTV.id">
+<title lang="id">Syair Syiar</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824000000 +0000" channel="AjwaTV.id">
+<title lang="id">Muslim Update</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824010000 +0000" channel="AjwaTV.id">
+<title lang="id">Nawaitu Surga</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824020000 +0000" channel="AjwaTV.id">
+<title lang="id">Mamah Dan Aa Beraksi 2014</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824030000 +0000" channel="AjwaTV.id">
+<title lang="id">Lorong Waktu VI</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824050000 +0000" channel="AjwaTV.id">
+<title lang="id">FTV Islami</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="AjwaTV.id">
+<title lang="id">Adzan & Sholat Dzuhur Dari Masjid Istiqlal Live / Mutiara Hati Quraish Shihab Dzuhur 2017</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824063000 +0000" channel="AjwaTV.id">
+<title lang="id">3 Sempruuul Mengejar Surga</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824070000 +0000" channel="AjwaTV.id">
+<title lang="id">Syair Syiar</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824080000 +0000" channel="AjwaTV.id">
+<title lang="id">Muslim Update</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824083000 +0000" channel="AjwaTV.id">
+<title lang="id">Adzan & Sholat Azhar Dari Masjid Istiqlal Live / Mutiara Hati Quraish Shihab Azhar 2017</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824093000 +0000" channel="AjwaTV.id">
+<title lang="id">Nawaitu Surga</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824103000 +0000" channel="AjwaTV.id">
+<title lang="id">Lorong Waktu VI</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824110000 +0000" channel="AjwaTV.id">
+<title lang="id">Tasbih</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824113000 +0000" channel="AjwaTV.id">
+<title lang="id">Adzan & Sholat Magrib Dari Masjid Istiqlal Live / Mengetuk Pintu Hati 2020</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824120000 +0000" channel="AjwaTV.id">
+<title lang="id">Syair Syiar</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824123000 +0000" channel="AjwaTV.id">
+<title lang="id">Adzan & Sholat Isya Dari Masjid Istiqlal Live / Curhat Dong Bang Haji</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824133000 +0000" channel="AjwaTV.id">
+<title lang="id">Muslim Update</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824143000 +0000" channel="AjwaTV.id">
+<title lang="id">Nawaitu Surga</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824153000 +0000" channel="AjwaTV.id">
+<title lang="id">3 Sempruuul Mengejar Surga</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824173000 +0000" channel="AjwaTV.id">
+<title lang="id">FTV Islami</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823180000 +0000" channel="KompasTV.id">
+<title lang="id">Berita Utama</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823183000 +0000" channel="KompasTV.id">
+<title lang="id">MNC Shop</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823190000 +0000" channel="KompasTV.id">
+<title lang="id">Bingkai Inspirasi</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823200000 +0000" channel="KompasTV.id">
+<title lang="id">Kompas Malam</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823203000 +0000" channel="KompasTV.id">
+<title lang="id">Saksi Kunci</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823210000 +0000" channel="KompasTV.id">
+<title lang="id">Jejak Rasul</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="KompasTV.id">
+<title lang="id">Kompas Sport Pagi</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210824000000 +0000" channel="KompasTV.id">
+<title lang="id">Kompas Pagi</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824023000 +0000" channel="KompasTV.id">
+<title lang="id">Sapa Indonesia Pagi</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="KompasTV.id">
+<title lang="id">Bincang Kita</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824040000 +0000" channel="KompasTV.id">
+<title lang="id">Update Korona</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824060000 +0000" channel="KompasTV.id">
+<title lang="id">Kompas Siang</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="KompasTV.id">
+<title lang="id">Sapa Indonesia Siang</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824073000 +0000" channel="KompasTV.id">
+<title lang="id">Zona Inspirasi</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="KompasTV.id">
+<title lang="id">Saksi Kunci</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="KompasTV.id">
+<title lang="id">Update Korona</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824110000 +0000" channel="KompasTV.id">
+<title lang="id">Kompas Petang</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="KompasTV.id">
+<title lang="id">Berita Utama</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="KompasTV.id">
+<title lang="id">Sapa Indonesia Malam</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="KompasTV.id">
+<title lang="id">B-Talk</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="KompasTV.id">
+<title lang="id">Kompas Malam</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824153000 +0000" channel="KompasTV.id">
+<title lang="id">Laporan Khusus</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824160000 +0000" channel="KompasTV.id">
+<title lang="id">Berkas Kompas</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="KompasTV.id">
+<title lang="id">Sapa Indonesia Malam</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823183000 +0000" channel="BeritaSatu.id">
+<title lang="id">Corporate Action</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823200000 +0000" channel="BeritaSatu.id">
+<title lang="id">Prime Time</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823210000 +0000" channel="BeritaSatu.id">
+<title lang="id">Hot Economy</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823220000 +0000" channel="BeritaSatu.id">
+<title lang="id">Creative Money</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823230000 +0000" channel="BeritaSatu.id">
+<title lang="id">Connect 360</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824000000 +0000" channel="BeritaSatu.id">
+<title lang="id">New Normal</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824010000 +0000" channel="BeritaSatu.id">
+<title lang="id">Good Morning Jakarta</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824010500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824010500 +0000" stop="20210824013000 +0000" channel="BeritaSatu.id">
+<title lang="id">News Buzz</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="BeritaSatu.id">
+<title lang="id">IDX Opening Bell</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824020500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824020500 +0000" stop="20210824023000 +0000" channel="BeritaSatu.id">
+<title lang="id">IDX Opening Bell</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="BeritaSatu.id">
+<title lang="id">Corporate Action</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824030500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824030500 +0000" stop="20210824033000 +0000" channel="BeritaSatu.id">
+<title lang="id">Corporate Action</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="BeritaSatu.id">
+<title lang="id">Sh+e Magazine</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824040500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824040500 +0000" stop="20210824050000 +0000" channel="BeritaSatu.id">
+<title lang="id">CEO Talks</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824050500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824050500 +0000" stop="20210824060000 +0000" channel="BeritaSatu.id">
+<title lang="id">News On The Spot</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824060500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824060500 +0000" stop="20210824070000 +0000" channel="BeritaSatu.id">
+<title lang="id">Lunch Talk</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824070500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824070500 +0000" stop="20210824073000 +0000" channel="BeritaSatu.id">
+<title lang="id">Indepth</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="BeritaSatu.id">
+<title lang="id">Closing Market</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824080500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824080500 +0000" stop="20210824083000 +0000" channel="BeritaSatu.id">
+<title lang="id">Closing Market</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824090000 +0000" channel="BeritaSatu.id">
+<title lang="id">Covid Today</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824090500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824090500 +0000" stop="20210824093000 +0000" channel="BeritaSatu.id">
+<title lang="id">Covid Today</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824110000 +0000" channel="BeritaSatu.id">
+<title lang="id">Prime Time</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824110500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824110500 +0000" stop="20210824120000 +0000" channel="BeritaSatu.id">
+<title lang="id">Connect 360</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824120500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824120500 +0000" stop="20210824130000 +0000" channel="BeritaSatu.id">
+<title lang="id">Hot Economy</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824130500 +0000" channel="BeritaSatu.id">
+<title lang="id">News Update</title>
+</programme>
+<programme start="20210824130500 +0000" stop="20210824140000 +0000" channel="BeritaSatu.id">
+<title lang="id">Creative Money</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="BeritaSatu.id">
+<title lang="id">Sh+e Magazine</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824150000 +0000" channel="BeritaSatu.id">
+<title lang="id">News Buzz</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824163000 +0000" channel="BeritaSatu.id">
+<title lang="id">Prime Time</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824173000 +0000" channel="BeritaSatu.id">
+<title lang="id">Connect 360</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823170500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210823170500 +0000" stop="20210823180000 +0000" channel="METROTV.id">
+<title lang="id">Prime Time News</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823180500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210823180500 +0000" stop="20210823190000 +0000" channel="METROTV.id">
+<title lang="id">Prime Talk</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823190500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210823190500 +0000" stop="20210823200000 +0000" channel="METROTV.id">
+<title lang="id">Top News</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823200500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210823200500 +0000" stop="20210823203000 +0000" channel="METROTV.id">
+<title lang="id">Realitas</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823210000 +0000" channel="METROTV.id">
+<title lang="id">Melawan Lupa</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823210500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210823210500 +0000" stop="20210823213000 +0000" channel="METROTV.id">
+<title lang="id">Sirah Nabawiyah</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823220000 +0000" channel="METROTV.id">
+<title lang="id">Metro Sports</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823220500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210823220500 +0000" stop="20210823230000 +0000" channel="METROTV.id">
+<title lang="id">Metro Pagi Primetime</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823230500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210823230500 +0000" stop="20210823233000 +0000" channel="METROTV.id">
+<title lang="id">Metro Pagi Primetime</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="METROTV.id">
+<title lang="id">Go Healthy</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824000500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824000500 +0000" stop="20210824003000 +0000" channel="METROTV.id">
+<title lang="id">Metro Xin Wen</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="METROTV.id">
+<title lang="id">Editorial Media Indonesia</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824010500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824010500 +0000" stop="20210824013000 +0000" channel="METROTV.id">
+<title lang="id">Editorial Media Indonesia</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="METROTV.id">
+<title lang="id">Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824020500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824020500 +0000" stop="20210824030000 +0000" channel="METROTV.id">
+<title lang="id">Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824030500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824030500 +0000" stop="20210824033000 +0000" channel="METROTV.id">
+<title lang="id">Selamat Pagi Indonesia</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="METROTV.id">
+<title lang="id">Go Healthy</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824040500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824040500 +0000" stop="20210824050000 +0000" channel="METROTV.id">
+<title lang="id">Metro Siang</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824050500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824050500 +0000" stop="20210824060000 +0000" channel="METROTV.id">
+<title lang="id">Metro Siang</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824060500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824060500 +0000" stop="20210824070000 +0000" channel="METROTV.id">
+<title lang="id">Newsline</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824070500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824070500 +0000" stop="20210824080000 +0000" channel="METROTV.id">
+<title lang="id">Newsline</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824080500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824080500 +0000" stop="20210824083000 +0000" channel="METROTV.id">
+<title lang="id">Newsline</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824090000 +0000" channel="METROTV.id">
+<title lang="id">Metro Hari Ini</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824090500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824090500 +0000" stop="20210824100000 +0000" channel="METROTV.id">
+<title lang="id">Metro Hari Ini</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824100500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824100500 +0000" stop="20210824103000 +0000" channel="METROTV.id">
+<title lang="id">Metro Hari Ini</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824110000 +0000" channel="METROTV.id">
+<title lang="id">Prime Time News</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824110500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824110500 +0000" stop="20210824120000 +0000" channel="METROTV.id">
+<title lang="id">Prime Time News</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824120500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824120500 +0000" stop="20210824130000 +0000" channel="METROTV.id">
+<title lang="id">Prime Talk</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824130500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824130500 +0000" stop="20210824140000 +0000" channel="METROTV.id">
+<title lang="id">Indonesia Town Hall</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824140500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824140500 +0000" stop="20210824150000 +0000" channel="METROTV.id">
+<title lang="id">Top News</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824150500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824150500 +0000" stop="20210824153000 +0000" channel="METROTV.id">
+<title lang="id">Top News</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824160000 +0000" channel="METROTV.id">
+<title lang="id">Metro Sports</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824160500 +0000" channel="METROTV.id">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824160500 +0000" stop="20210824163000 +0000" channel="METROTV.id">
+<title lang="id">Metro Malam</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824170000 +0000" channel="METROTV.id">
+<title lang="id">Prime Time News</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823190000 +0000" channel="NET.id">
+<title lang="id">Comedy Night Live</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823200000 +0000" channel="NET.id">
+<title lang="id">The Comment</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823210000 +0000" channel="NET.id">
+<title lang="id">Waktu Indonesia Bercanda</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823220000 +0000" channel="NET.id">
+<title lang="id">86</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="NET.id">
+<title lang="id">Hafiz & Hafizah</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210824000000 +0000" channel="NET.id">
+<title lang="id">Hello Jadoo</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824013000 +0000" channel="NET.id">
+<title lang="id">Digimon Universe App Monster</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824023000 +0000" channel="NET.id">
+<title lang="id">Ipop</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="NET.id">
+<title lang="id">Diary Bahagia</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824033000 +0000" channel="NET.id">
+<title lang="id">Keluarga Asik</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824043000 +0000" channel="NET.id">
+<title lang="id">Selamat Siang Indonesia</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824053000 +0000" channel="NET.id">
+<title lang="id">The Return Of Superman</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824063000 +0000" channel="NET.id">
+<title lang="id">PotenDogs</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824080000 +0000" channel="NET.id">
+<title lang="id">Detective Conan</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824094500 +0000" channel="NET.id">
+<title lang="id">Shinbi's House</title>
+</programme>
+<programme start="20210824094500 +0000" stop="20210824110000 +0000" channel="NET.id">
+<title lang="id">Welcome to Waikiki</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="NET.id">
+<title lang="id">Hwarang</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="NET.id">
+<title lang="id">Jealousy Incarnate</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="NET.id">
+<title lang="id">Net Turkish: Kurulus Osman</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="NET.id">
+<title lang="id">86</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824160000 +0000" channel="NET.id">
+<title lang="id">Jatanras</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="NET.id">
+<title lang="id">One Championship Warrior</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823200000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Dini Hari</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823220000 +0000" channel="TRANSTVHD.id">
+<title lang="id">CNN Connected</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823233000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Islam Itu Indah</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824003000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Insert Pagi</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824013000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Good Morning</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824030000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Pagi - Pagi Ambyar</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824043000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Kopi Viral</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824053000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Insert Siang</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824070000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Brownis - Obrowlan Manis</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824080000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Rumpi No Secret</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Insert Today</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824100000 +0000" channel="TRANSTVHD.id">
+<title lang="id">CNN News Update</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824110000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Bikin Laper</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Insert Story</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824123000 +0000" channel="TRANSTVHD.id">
+<title lang="id">CNN Prime News</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824143000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Bioskop Trans TV Special</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824163000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Bioskop Trans TV</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824183000 +0000" channel="TRANSTVHD.id">
+<title lang="id">Bioskop Trans TV</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823201500 +0000" channel="TVRINasional.id">
+<title lang="id">TVRI Kini</title>
+</programme>
+<programme start="20210823201500 +0000" stop="20210823204500 +0000" channel="TVRINasional.id">
+<title lang="id">Pola Tehnik/ Station ID</title>
+</programme>
+<programme start="20210823204500 +0000" stop="20210823210000 +0000" channel="TVRINasional.id">
+<title lang="id">Pola Teknik & Indonesia Raya</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="TVRINasional.id">
+<title lang="id">Jejak Islam</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823230000 +0000" channel="TVRINasional.id">
+<title lang="id">Serambi Islami</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823235700 +0000" channel="TVRINasional.id">
+<title lang="id">Klik Indonesia Pagi</title>
+</programme>
+<programme start="20210823235700 +0000" stop="20210824000000 +0000" channel="TVRINasional.id">
+<title lang="id">Warta Parlemen DPR RI</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824003000 +0000" channel="TVRINasional.id">
+<title lang="id">Tvri Sport</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="TVRINasional.id">
+<title lang="id">Inspirasi Indonesia</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824013000 +0000" channel="TVRINasional.id">
+<title lang="id">Buah Hatiku Sayang</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="TVRINasional.id">
+<title lang="id">Mari Menggambar</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824020300 +0000" channel="TVRINasional.id">
+<title lang="id">Info Terkini</title>
+</programme>
+<programme start="20210824020300 +0000" stop="20210824023000 +0000" channel="TVRINasional.id">
+<title lang="id">Arena 123</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="TVRINasional.id">
+<title lang="id">Masak Itu Mudah</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824033000 +0000" channel="TVRINasional.id">
+<title lang="id">Indonesia</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="TVRINasional.id">
+<title lang="id">Jejak Islam</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824040300 +0000" channel="TVRINasional.id">
+<title lang="id">Info Terkini</title>
+</programme>
+<programme start="20210824040300 +0000" stop="20210824043000 +0000" channel="TVRINasional.id">
+<title lang="id">Pesona Indonesia</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824050000 +0000" channel="TVRINasional.id">
+<title lang="id">Inspirasi Indonesia</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824060000 +0000" channel="TVRINasional.id">
+<title lang="id">Klik Indonesia Siang</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="TVRINasional.id">
+<title lang="id">Feature Lkbn Antara</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824070000 +0000" channel="TVRINasional.id">
+<title lang="id">Jurnal Ekonomi</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824070300 +0000" channel="TVRINasional.id">
+<title lang="id">Info Terkini</title>
+</programme>
+<programme start="20210824070300 +0000" stop="20210824073000 +0000" channel="TVRINasional.id">
+<title lang="id">Musik</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="TVRINasional.id">
+<title lang="id">Inspirasi Indonesia</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824083000 +0000" channel="TVRINasional.id">
+<title lang="id">Mimbar Agama</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824090000 +0000" channel="TVRINasional.id">
+<title lang="id">A To Z</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824100000 +0000" channel="TVRINasional.id">
+<title lang="id">Info Covid 19 Terkini</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824103000 +0000" channel="TVRINasional.id">
+<title lang="id">Pesona Indonesia</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824110000 +0000" channel="TVRINasional.id">
+<title lang="id">Sketsa Netizen</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="TVRINasional.id">
+<title lang="id">Klik Indonesia Petang</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="TVRINasional.id">
+<title lang="id">Indonesia Bicara</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="TVRINasional.id">
+<title lang="id">Paten</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="TVRINasional.id">
+<title lang="id">Jendela Dunia</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824150000 +0000" channel="TVRINasional.id">
+<title lang="id">Musik</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824153000 +0000" channel="TVRINasional.id">
+<title lang="id">Olahraga Tradisional</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824163000 +0000" channel="TVRINasional.id">
+<title lang="id">Warung Kopi Pasti Gerrr</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824170000 +0000" channel="TVRINasional.id">
+<title lang="id">Tvri Sport Malam</title>
+</programme>
+<programme start="20210823171500 +0000" stop="20210823191500 +0000" channel="TRANS7HD.id">
+<title lang="id">The Spy: Undercover Operation</title>
+</programme>
+<programme start="20210823191500 +0000" stop="20210823203000 +0000" channel="TRANS7HD.id">
+<title lang="id">Indonesia Lawak Club</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823210000 +0000" channel="TRANS7HD.id">
+<title lang="id">Ups Salah</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="TRANS7HD.id">
+<title lang="id">Super Tawa</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823223000 +0000" channel="TRANS7HD.id">
+<title lang="id">Apa Kata Dunia</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="TRANS7HD.id">
+<title lang="id">Cahaya Pagi</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824000000 +0000" channel="TRANS7HD.id">
+<title lang="id">Redaksi Pagi</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824003000 +0000" channel="TRANS7HD.id">
+<title lang="id">Ragam Indonesia</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="TRANS7HD.id">
+<title lang="id">Selebrita Pagi</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824013000 +0000" channel="TRANS7HD.id">
+<title lang="id">Trending</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824023000 +0000" channel="TRANS7HD.id">
+<title lang="id">InLine</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824033000 +0000" channel="TRANS7HD.id">
+<title lang="id">Jangan Putus Dulu</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="TRANS7HD.id">
+<title lang="id">Heits Abis</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="TRANS7HD.id">
+<title lang="id">Warga +62</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824050000 +0000" channel="TRANS7HD.id">
+<title lang="id">Redaksi Siang</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="TRANS7HD.id">
+<title lang="id">Enaknya Mantul</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="TRANS7HD.id">
+<title lang="id">Si Bolang: Bocah Petualang</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="TRANS7HD.id">
+<title lang="id">Si Otan</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824071500 +0000" channel="TRANS7HD.id">
+<title lang="id">Jejak Petualang</title>
+</programme>
+<programme start="20210824071500 +0000" stop="20210824081500 +0000" channel="TRANS7HD.id">
+<title lang="id">Redaksi</title>
+</programme>
+<programme start="20210824081500 +0000" stop="20210824091500 +0000" channel="TRANS7HD.id">
+<title lang="id">Jejak Si Gundul</title>
+</programme>
+<programme start="20210824091500 +0000" stop="20210824101500 +0000" channel="TRANS7HD.id">
+<title lang="id">Makan Receh</title>
+</programme>
+<programme start="20210824101500 +0000" stop="20210824110000 +0000" channel="TRANS7HD.id">
+<title lang="id">Selebrita Expose</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="TRANS7HD.id">
+<title lang="id">On The Spot</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="TRANS7HD.id">
+<title lang="id">The Police</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824133000 +0000" channel="TRANS7HD.id">
+<title lang="id">Misteri Dunia</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824143000 +0000" channel="TRANS7HD.id">
+<title lang="id">Opera Van Java</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824154500 +0000" channel="TRANS7HD.id">
+<title lang="id">Lapor Pak!</title>
+</programme>
+<programme start="20210824154500 +0000" stop="20210824164500 +0000" channel="TRANS7HD.id">
+<title lang="id">Krim Malam</title>
+</programme>
+<programme start="20210824164500 +0000" stop="20210824171500 +0000" channel="TRANS7HD.id">
+<title lang="id">Sport 7</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823190000 +0000" channel="MNCTV.id">
+<title lang="id">Lintas iNews Malam</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823193000 +0000" channel="MNCTV.id">
+<title lang="id">Midnite Great Sale</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823210000 +0000" channel="MNCTV.id">
+<title lang="id">Sinema Malam</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823220000 +0000" channel="MNCTV.id">
+<title lang="id">Lintas iNews Pagi</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="MNCTV.id">
+<title lang="id">Membuka Hari</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823233000 +0000" channel="MNCTV.id">
+<title lang="id">Siraman Qolbu, Ustadz Dhanu</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824020000 +0000" channel="MNCTV.id">
+<title lang="id">Upin & Ipin</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824040000 +0000" channel="MNCTV.id">
+<title lang="id">Kun Anta</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="MNCTV.id">
+<title lang="id">Seleb On News</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824050000 +0000" channel="MNCTV.id">
+<title lang="id">Lintas iNews Siang</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="MNCTV.id">
+<title lang="id">Upin & Ipin</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="MNCTV.id">
+<title lang="id">Kiko</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="MNCTV.id">
+<title lang="id">Upin & Ipin</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824081500 +0000" channel="MNCTV.id">
+<title lang="id">Iiihhh Serrreemm</title>
+</programme>
+<programme start="20210824081500 +0000" stop="20210824093000 +0000" channel="MNCTV.id">
+<title lang="id">Aladdin</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824110000 +0000" channel="MNCTV.id">
+<title lang="id">Upin & Ipin</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824123000 +0000" channel="MNCTV.id">
+<title lang="id">Upin & Ipin</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824140000 +0000" channel="MNCTV.id">
+<title lang="id">Kun Anta Mendadak Santri</title>
+</programme>
+<programme start="20210824155000 +0000" stop="20210824180000 +0000" channel="MNCTV.id">
+<title lang="id">Blockbusters</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823190000 +0000" channel="JAKTV.id">
+<title lang="id">Berkah</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823200000 +0000" channel="JAKTV.id">
+<title lang="id">Ayo Shop</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823210000 +0000" channel="JAKTV.id">
+<title lang="id">Ayo Shop</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823220000 +0000" channel="JAKTV.id">
+<title lang="id">Rindu Tanah Suci</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823230000 +0000" channel="JAKTV.id">
+<title lang="id">Boys Over Flowers</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824000000 +0000" channel="JAKTV.id">
+<title lang="id">Local Hour</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824010000 +0000" channel="JAKTV.id">
+<title lang="id">Madu Hijau</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824020000 +0000" channel="JAKTV.id">
+<title lang="id">Berkah</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824030000 +0000" channel="JAKTV.id">
+<title lang="id">Berkah</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824040000 +0000" channel="JAKTV.id">
+<title lang="id">Lejel</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824050000 +0000" channel="JAKTV.id">
+<title lang="id">Madu Hijau</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="JAKTV.id">
+<title lang="id">BNPB</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="JAKTV.id">
+<title lang="id">Inside</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="JAKTV.id">
+<title lang="id">Boys Over Flowers</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824080000 +0000" channel="JAKTV.id">
+<title lang="id">Curcol Kuy</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="JAKTV.id">
+<title lang="id">Berkah</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824100000 +0000" channel="JAKTV.id">
+<title lang="id">Berkah</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824110000 +0000" channel="JAKTV.id">
+<title lang="id">Madu Hijau</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="JAKTV.id">
+<title lang="id">News Room</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824123000 +0000" channel="JAKTV.id">
+<title lang="id">Animal Action</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824130000 +0000" channel="JAKTV.id">
+<title lang="id">Kiddie World</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="JAKTV.id">
+<title lang="id">MNC Shop</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="JAKTV.id">
+<title lang="id">Meet The VVIP</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824160000 +0000" channel="JAKTV.id">
+<title lang="id">Kabar Misteri</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="JAKTV.id">
+<title lang="id">News Room</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823173000 +0000" channel="GTV.id">
+<title lang="id">Maria Mercedes</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823180000 +0000" channel="GTV.id">
+<title lang="id">Gerebek</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823183000 +0000" channel="GTV.id">
+<title lang="id">MSHOP</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823190000 +0000" channel="GTV.id">
+<title lang="id">Buletin iNews Malam</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823203000 +0000" channel="GTV.id">
+<title lang="id">iSinema</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823213000 +0000" channel="GTV.id">
+<title lang="id">Buletin iNews Pagi</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823230000 +0000" channel="GTV.id">
+<title lang="id">Ragam Cerita</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824013000 +0000" channel="GTV.id">
+<title lang="id">Zak Storm</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824030000 +0000" channel="GTV.id">
+<title lang="id">The Spongebob Squarepants Movie</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824040000 +0000" channel="GTV.id">
+<title lang="id">Buletin iNews Siang</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824053000 +0000" channel="GTV.id">
+<title lang="id">The Spongebob Squarepants Movie</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824073000 +0000" channel="GTV.id">
+<title lang="id">The Spongebob Squarepants Movie</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824100000 +0000" channel="GTV.id">
+<title lang="id">The Spongebob Squarepants Movie</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824110000 +0000" channel="GTV.id">
+<title lang="id">Rumah Teka-teki</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="GTV.id">
+<title lang="id">Legenda Sang Penunggu</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="GTV.id">
+<title lang="id">Kisah Viral</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="GTV.id">
+<title lang="id">Kisah Viral</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824160000 +0000" channel="GTV.id">
+<title lang="id">Movie</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="GTV.id">
+<title lang="id">Kepentok Cinta</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823173000 +0000" channel="RTV.id">
+<title lang="id">Semangat Hidup</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823180000 +0000" channel="RTV.id">
+<title lang="id">Lensa Indonesia Malam</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823190000 +0000" channel="RTV.id">
+<title lang="id">Cermin Hati</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823200000 +0000" channel="RTV.id">
+<title lang="id">Mega Klasik</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823203000 +0000" channel="RTV.id">
+<title lang="id">CSI : Catatan Seputar Investigasi</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823210000 +0000" channel="RTV.id">
+<title lang="id">Semangat Hidup</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="RTV.id">
+<title lang="id">Ustadz On The Road</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823223000 +0000" channel="RTV.id">
+<title lang="id">Lensa Indonesia Pagi</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823233000 +0000" channel="RTV.id">
+<title lang="id">Omar & Hana</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824003000 +0000" channel="RTV.id">
+<title lang="id">Tayo The Little Bus</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824013000 +0000" channel="RTV.id">
+<title lang="id">Space Cops</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="RTV.id">
+<title lang="id">Unik Enak</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824023000 +0000" channel="RTV.id">
+<title lang="id">Caca Marica</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824033000 +0000" channel="RTV.id">
+<title lang="id">Sinema Ceria</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="RTV.id">
+<title lang="id">CSI : Catatan Seputar Investigasi</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="RTV.id">
+<title lang="id">Lensa Indonesia Siang</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824060000 +0000" channel="RTV.id">
+<title lang="id">Boboiboy</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="RTV.id">
+<title lang="id">Mega Hero</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824083000 +0000" channel="RTV.id">
+<title lang="id">Adit Sopo Jarwo Siang</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824093000 +0000" channel="RTV.id">
+<title lang="id">Omar & Hana</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824103000 +0000" channel="RTV.id">
+<title lang="id">Tobot Galaxy Swag's Secret</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824110000 +0000" channel="RTV.id">
+<title lang="id">Riko The Series</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824123000 +0000" channel="RTV.id">
+<title lang="id">Boboiboy</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824140000 +0000" channel="RTV.id">
+<title lang="id">Adit Sopo Jarwo</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="RTV.id">
+<title lang="id">Mega Hero</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824160000 +0000" channel="RTV.id">
+<title lang="id">Mega Aksi</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824163000 +0000" channel="RTV.id">
+<title lang="id">10.2</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824173000 +0000" channel="RTV.id">
+<title lang="id">Mega Indonesia</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823173000 +0000" channel="iNews.id">
+<title lang="id">MNC Shop</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823180000 +0000" channel="iNews.id">
+<title lang="id">MNC Shop</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823183000 +0000" channel="iNews.id">
+<title lang="id">OMG</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823200000 +0000" channel="iNews.id">
+<title lang="id">UEFA Euro 2020</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823200300 +0000" channel="iNews.id">
+<title lang="id">Padamu Negeri</title>
+</programme>
+<programme start="20210823200300 +0000" stop="20210823210000 +0000" channel="iNews.id">
+<title lang="id">iNews Sore</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823212700 +0000" channel="iNews.id">
+<title lang="id">Realita</title>
+</programme>
+<programme start="20210823212700 +0000" stop="20210823213000 +0000" channel="iNews.id">
+<title lang="id">Indonesia Raya</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823230000 +0000" channel="iNews.id">
+<title lang="id">iNews Pagi</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824000000 +0000" channel="iNews.id">
+<title lang="id">Top Files</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824002700 +0000" channel="iNews.id">
+<title lang="id">MNC Shop</title>
+</programme>
+<programme start="20210824002700 +0000" stop="20210824003000 +0000" channel="iNews.id">
+<title lang="id">OMG</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="iNews.id">
+<title lang="id">MNC Shop</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824020000 +0000" channel="iNews.id">
+<title lang="id">Top Hi-lite</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824024500 +0000" channel="iNews.id">
+<title lang="id">ISELEB</title>
+</programme>
+<programme start="20210824024500 +0000" stop="20210824031500 +0000" channel="iNews.id">
+<title lang="id">Intens Reborn</title>
+</programme>
+<programme start="20210824031500 +0000" stop="20210824040000 +0000" channel="iNews.id">
+<title lang="id">Realita</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824053000 +0000" channel="iNews.id">
+<title lang="id">iNews Siang</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="iNews.id">
+<title lang="id">Bizz Update</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="iNews.id">
+<title lang="id">Monitor</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824071500 +0000" channel="iNews.id">
+<title lang="id">Intens Reborn</title>
+</programme>
+<programme start="20210824071500 +0000" stop="20210824080000 +0000" channel="iNews.id">
+<title lang="id">ISELEB</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="iNews.id">
+<title lang="id">Realita</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824110000 +0000" channel="iNews.id">
+<title lang="id">iNews Sore</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="iNews.id">
+<title lang="id">Inews Room</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="iNews.id">
+<title lang="id">Top Files</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="iNews.id">
+<title lang="id">iNews Prime</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="iNews.id">
+<title lang="id">Police Story</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824150000 +0000" channel="iNews.id">
+<title lang="id">Indonesia Border</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824163000 +0000" channel="iNews.id">
+<title lang="id">iNews Malam</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824170000 +0000" channel="iNews.id">
+<title lang="id">Bentrap</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823220000 +0000" channel="MyTV.id">
+<title lang="id">The Amazing World</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="MyTV.id">
+<title lang="id">Song Of Joy</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="MyTV.id">
+<title lang="id">Day Of Discovery</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823233000 +0000" channel="MyTV.id">
+<title lang="id">Happy Holy Kids</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="MyTV.id">
+<title lang="id">Happy Holy Kids</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824003000 +0000" channel="MyTV.id">
+<title lang="id">Happy Holy Kids</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="MyTV.id">
+<title lang="id">Happy Holy Kids</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824023000 +0000" channel="MyTV.id">
+<title lang="id">Morning Call</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="MyTV.id">
+<title lang="id">Am Booster</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824040000 +0000" channel="MyTV.id">
+<title lang="id">Speak Inc</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="MyTV.id">
+<title lang="id">Daily Tricks</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824050000 +0000" channel="MyTV.id">
+<title lang="id">Inovator</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824060000 +0000" channel="MyTV.id">
+<title lang="id">The Amazing World</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="MyTV.id">
+<title lang="id">My Shop</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824070000 +0000" channel="MyTV.id">
+<title lang="id">My Shop</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824073000 +0000" channel="MyTV.id">
+<title lang="id">My Shop</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="MyTV.id">
+<title lang="id">My Shop</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="MyTV.id">
+<title lang="id">Kara</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824100000 +0000" channel="MyTV.id">
+<title lang="id">Speak Inc</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824110000 +0000" channel="MyTV.id">
+<title lang="id">Sabdamu</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824113000 +0000" channel="MyTV.id">
+<title lang="id">My Little Hero</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824120000 +0000" channel="MyTV.id">
+<title lang="id">Heart To Heart</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="MyTV.id">
+<title lang="id">The New World</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="MyTV.id">
+<title lang="id">Syrgalim</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="MyTV.id">
+<title lang="id">Bukan Gossip</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824150000 +0000" channel="MyTV.id">
+<title lang="id">Day Of Discovery</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824153000 +0000" channel="MyTV.id">
+<title lang="id">Song Of Joy</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824160000 +0000" channel="MyTV.id">
+<title lang="id">Inovator</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824220000 +0000" channel="MyTV.id">
+<title lang="id">The Amazing World</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823173300 +0000" channel="NusantaraTV.id">
+<title lang="id">Sekilas Nusantara</title>
+</programme>
+<programme start="20210823173300 +0000" stop="20210823183000 +0000" channel="NusantaraTV.id">
+<title lang="id">Voa Border Crossing</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823193000 +0000" channel="NusantaraTV.id">
+<title lang="id">Apa Kata Dunia</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823210000 +0000" channel="NusantaraTV.id">
+<title lang="id">Vklip Tematik</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="NusantaraTV.id">
+<title lang="id">Vklip Tematik</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823220000 +0000" channel="NusantaraTV.id">
+<title lang="id">The Enchantment Of Tibet</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="NusantaraTV.id">
+<title lang="id">The Changes Of Villages</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="NusantaraTV.id">
+<title lang="id">World In 30 Minutes</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823233000 +0000" channel="NusantaraTV.id">
+<title lang="id">Nusantara Pagi</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="NusantaraTV.id">
+<title lang="id">Apa Kata Dunia</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824000300 +0000" channel="NusantaraTV.id">
+<title lang="id">Sekilas Nusantara</title>
+</programme>
+<programme start="20210824000300 +0000" stop="20210824003000 +0000" channel="NusantaraTV.id">
+<title lang="id">Apa Kata Dunia</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="NusantaraTV.id">
+<title lang="id">Cinekids Gon</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824013000 +0000" channel="NusantaraTV.id">
+<title lang="id">Kanal Dongeng</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824023000 +0000" channel="NusantaraTV.id">
+<title lang="id">Ashop Matras Dana Bio Sun</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824023300 +0000" channel="NusantaraTV.id">
+<title lang="id">Sekilas Nusantara</title>
+</programme>
+<programme start="20210824023300 +0000" stop="20210824030000 +0000" channel="NusantaraTV.id">
+<title lang="id">Kami Berasal Dari Xinjiang</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824033000 +0000" channel="NusantaraTV.id">
+<title lang="id">The Enchantment Of Tibet</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="NusantaraTV.id">
+<title lang="id">Vklip Tematik</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824050000 +0000" channel="NusantaraTV.id">
+<title lang="id">Nusantara Siang</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824060000 +0000" channel="NusantaraTV.id">
+<title lang="id">Ashop Matras Dana Bio Sun</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="NusantaraTV.id">
+<title lang="id">Aku Jujur, Kamu</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824070000 +0000" channel="NusantaraTV.id">
+<title lang="id">World In 30 Minutes</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824090000 +0000" channel="NusantaraTV.id">
+<title lang="id">The Blue Butterfly</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824093000 +0000" channel="NusantaraTV.id">
+<title lang="id">Bumi Hijau</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824103000 +0000" channel="NusantaraTV.id">
+<title lang="id">Vklip Tematik</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824113000 +0000" channel="NusantaraTV.id">
+<title lang="id">Nusantara Petang</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824120000 +0000" channel="NusantaraTV.id">
+<title lang="id">World In 30 Minutes</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824123000 +0000" channel="NusantaraTV.id">
+<title lang="id">The Enchantment Of Tibet</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824130000 +0000" channel="NusantaraTV.id">
+<title lang="id">The Changes Of Villages</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="NusantaraTV.id">
+<title lang="id">World In 30 Minutes</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="NusantaraTV.id">
+<title lang="id">Apa Kata Dunia</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824153000 +0000" channel="NusantaraTV.id">
+<title lang="id">Nusantara Malam</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824173000 +0000" channel="NusantaraTV.id">
+<title lang="id">Movie</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823223000 +0000" channel="DaaiTV.id">
+<title lang="id">TBA</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="DaaiTV.id">
+<title lang="id">Music Video Galeri Hijau</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823231500 +0000" channel="DaaiTV.id">
+<title lang="id">DAAI Inspirasi</title>
+</programme>
+<programme start="20210823231500 +0000" stop="20210823233000 +0000" channel="DaaiTV.id">
+<title lang="id">Lentera Kehidupan</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210823234500 +0000" channel="DaaiTV.id">
+<title lang="id">Master Cheng Yen Bercerita</title>
+</programme>
+<programme start="20210823234500 +0000" stop="20210824000000 +0000" channel="DaaiTV.id">
+<title lang="id">Kartun Petualangan Xiao Li Zi</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824001500 +0000" channel="DaaiTV.id">
+<title lang="id">Ready Jet Go!</title>
+</programme>
+<programme start="20210824001500 +0000" stop="20210824003000 +0000" channel="DaaiTV.id">
+<title lang="id">Space Racers</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824004500 +0000" channel="DaaiTV.id">
+<title lang="id">Puffin Rock</title>
+</programme>
+<programme start="20210824004500 +0000" stop="20210824010000 +0000" channel="DaaiTV.id">
+<title lang="id">Dunia Ceria</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824013000 +0000" channel="DaaiTV.id">
+<title lang="id">Belajar Dari Rumah</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824023000 +0000" channel="DaaiTV.id">
+<title lang="id">Bincang Sehati</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="DaaiTV.id">
+<title lang="id">Ekpesidi Nusantara</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824040000 +0000" channel="DaaiTV.id">
+<title lang="id">Halo Indonesia</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824050000 +0000" channel="DaaiTV.id">
+<title lang="id">Balada Sungai Kehidupan</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824051500 +0000" channel="DaaiTV.id">
+<title lang="id">Dunia Ceria</title>
+</programme>
+<programme start="20210824051500 +0000" stop="20210824053000 +0000" channel="DaaiTV.id">
+<title lang="id">Space Racers</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824054500 +0000" channel="DaaiTV.id">
+<title lang="id">Helen's Little School</title>
+</programme>
+<programme start="20210824054500 +0000" stop="20210824060000 +0000" channel="DaaiTV.id">
+<title lang="id">Ellias</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824061500 +0000" channel="DaaiTV.id">
+<title lang="id">Puffin Rock</title>
+</programme>
+<programme start="20210824061500 +0000" stop="20210824063000 +0000" channel="DaaiTV.id">
+<title lang="id">Ready Jet Go!</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824064500 +0000" channel="DaaiTV.id">
+<title lang="id">Master Cheng Yen Bercerita</title>
+</programme>
+<programme start="20210824064500 +0000" stop="20210824070000 +0000" channel="DaaiTV.id">
+<title lang="id">Kartun Petualangan Xiao Li Zi</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824073000 +0000" channel="DaaiTV.id">
+<title lang="id">Bitan Ni Hao</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="DaaiTV.id">
+<title lang="id">Keliling Dunia Anak</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="DaaiTV.id">
+<title lang="id">Indah Pada Waktunya</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824100000 +0000" channel="DaaiTV.id">
+<title lang="id">Bincang Sehati</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824103000 +0000" channel="DaaiTV.id">
+<title lang="id">Sebarkan Kebaikan</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824113000 +0000" channel="DaaiTV.id">
+<title lang="id">Halo Indonesia</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824114500 +0000" channel="DaaiTV.id">
+<title lang="id">DAAI Inspirasi</title>
+</programme>
+<programme start="20210824114500 +0000" stop="20210824120000 +0000" channel="DaaiTV.id">
+<title lang="id">Lentera Kehidupan</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824123000 +0000" channel="DaaiTV.id">
+<title lang="id">Bingkai Sumatera</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824130000 +0000" channel="DaaiTV.id">
+<title lang="id">Refleksi</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="DaaiTV.id">
+<title lang="id">Indah Pada Waktunya</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="DaaiTV.id">
+<title lang="id">Balada Sungai Kehidupan</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824151500 +0000" channel="DaaiTV.id">
+<title lang="id">DAAI Inspirasi</title>
+</programme>
+<programme start="20210824151500 +0000" stop="20210824153000 +0000" channel="DaaiTV.id">
+<title lang="id">Lentera Kehidupan</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824160000 +0000" channel="DaaiTV.id">
+<title lang="id">Refleksi</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="DaaiTV.id">
+<title lang="id">Halo Indonesia</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823190000 +0000" channel="ChampionTV1.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823193000 +0000" channel="ChampionTV1.id">
+<title lang="id">Monster Knock Out</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823200000 +0000" channel="ChampionTV1.id">
+<title lang="id">The Immortal</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823220000 +0000" channel="ChampionTV1.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210824000000 +0000" channel="ChampionTV1.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824003000 +0000" channel="ChampionTV1.id">
+<title lang="id">Sport Woman</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="ChampionTV1.id">
+<title lang="id">EFL 2021/22 HLs</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824030000 +0000" channel="ChampionTV1.id">
+<title lang="id">Tokyo 2021 Olympics</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824050000 +0000" channel="ChampionTV1.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="ChampionTV1.id">
+<title lang="id">Sport Woman</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="ChampionTV1.id">
+<title lang="id">Badminton Unlimited</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824080000 +0000" channel="ChampionTV1.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824100000 +0000" channel="ChampionTV1.id">
+<title lang="id">Tokyo 2021 Olympics</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824120000 +0000" channel="ChampionTV1.id">
+<title lang="id">Tokyo 2021 Olympics</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824123000 +0000" channel="ChampionTV1.id">
+<title lang="id">Monster Knock Out</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824130000 +0000" channel="ChampionTV1.id">
+<title lang="id">The Immortal</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824150000 +0000" channel="ChampionTV1.id">
+<title lang="id">Tokyo 2021 Olympics</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824170000 +0000" channel="ChampionTV1.id">
+<title lang="id">Tokyo 2021 Olympics</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823180000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823183000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823190000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823193000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823200000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823210000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823230000 +0000" channel="ChampionTV2.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823233000 +0000" channel="ChampionTV2.id">
+<title lang="id">UCL Final Archive Series</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="ChampionTV2.id">
+<title lang="id">The Immortal</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824020000 +0000" channel="ChampionTV2.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824040000 +0000" channel="ChampionTV2.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="ChampionTV2.id">
+<title lang="id">Badminton Unlimited</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824050000 +0000" channel="ChampionTV2.id">
+<title lang="id">The Immortal</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824070000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824090000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824093000 +0000" channel="ChampionTV2.id">
+<title lang="id">The Immortal</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824100000 +0000" channel="ChampionTV2.id">
+<title lang="id">UCL Final Archive Series</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824120000 +0000" channel="ChampionTV2.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824143000 +0000" channel="ChampionTV2.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824163000 +0000" channel="ChampionTV2.id">
+<title lang="id">UCL 2021/22</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824170000 +0000" channel="ChampionTV2.id">
+<title lang="id">EFL 2021/22 HLs</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823203000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823223000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210824000000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824013000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="ChampionTV3.id">
+<title lang="id">Badminton Unlimited</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824040000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824060000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="ChampionTV3.id">
+<title lang="id">Badminton Unlimited</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824080000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824085000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824085000 +0000" stop="20210824095000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824095000 +0000" stop="20210824130000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Paralympic Games Live</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824160000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="ChampionTV3.id">
+<title lang="id">Tokyo 2020 Olympics</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823183000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">UFC Ultimate Submissions</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823203000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">The AIG Women's Open</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823204000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">In Focus</title>
+</programme>
+<programme start="20210823204000 +0000" stop="20210823204500 +0000" channel="FoxSportsAsia.us">
+<title lang="id">In Focus</title>
+</programme>
+<programme start="20210823204500 +0000" stop="20210823230000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">UFC Epics</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824000000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">The John Dykes Show</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824010000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">The Return Of The Ultimate Fighter 29</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824020000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">The Return Of The Ultimate Fighter 29</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824030000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">Men's Review Show</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824040000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">Women's Review Show</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">ESPN FC 2021</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824053000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">The John Dykes Show</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824080000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">UFC Epics</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824083000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">UFC Connected</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824090000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">ESPN FC 2021</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824100000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">149th Open Review</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824110000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">The John Dykes Show</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824113000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">ESPN FC 2021</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824120000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">Generation Gap</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824123000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">2 Wheels</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824130000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">Extreme E : Electric Odyssey</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">UFC Main Event</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">ESPN FC 2021</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824150000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">UFC Connected</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824180000 +0000" channel="FoxSportsAsia.us">
+<title lang="id">UFC Fight Night</title>
+</programme>
+<programme start="20210823175500 +0000" stop="20210823195500 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Getafe vs Sevilla - LaLiga</title>
+</programme>
+<programme start="20210823195500 +0000" stop="20210823220000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Osasuna vs Celta Vigo - LaLiga</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210824000000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">La Liga 2021/22</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824003000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">La Liga 2021/22 Mini Match</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">250 Great Goals</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824013000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Arsenal World 2021/22</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Arsenal 360 2021/22</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824040000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Arsenal TV 2021/22</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824055000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">La Liga 2021/22</title>
+</programme>
+<programme start="20210824055000 +0000" stop="20210824074000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Ligue 1 2021/22</title>
+</programme>
+<programme start="20210824074000 +0000" stop="20210824081000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Arsenal World 2021/22</title>
+</programme>
+<programme start="20210824081000 +0000" stop="20210824091000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">La Liga 2021/22 HLs</title>
+</programme>
+<programme start="20210824091000 +0000" stop="20210824110000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">La Liga 2021/22</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824113000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">This Is Paris 2021/22</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824120000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">MLS Show 2021</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">La Liga 2021/22 HLs</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824133000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Arsenal World 2021/22</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824140000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Arsenal 360 2021/22</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824160000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">Arsenal TV 2021/22</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824163000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">MLS Show 2021</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824170000 +0000" channel="beINSports1Asia.qa">
+<title lang="id">World of Polo 2021</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823173000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Kite Masters 2021</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823220000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">US Open Tennis Classic Matches</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210824000000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">The AIG Women's Open</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824010000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Wimbledon 2021</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824020000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Wimbledon 2021</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824040000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Athletes Unlimited Women's Volleyball 2021</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824060000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">The AIG Women's Open</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Men's Review Show</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824080000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Women's Review Show</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Monster Jam 2021</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824100000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Supercars C'ship 2021 HLs</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824103000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">XTERRA Adventures 2021</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824110000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Outdoor Sports Show 2021</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824120000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Max Power</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Men's Review Show</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">Women's Review Show</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824160000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">The AIG Women's Open</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824180000 +0000" channel="FoxSports2Asia.us">
+<title lang="id">The AIG Women's Open</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823200000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">Monster Energy AMA Supercross 2021 HLs</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823220000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">Monster Energy AMA Supercross 2021 HLs</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823233000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824010000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">Max Power</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824020000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">Monster Jam 2021</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824030000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">MotoAmerica Superbikes C'ship 2021</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824040000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">MotoAmerica Superbikes C'ship 2021</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824050000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ABB FIA Formula E World C'ship 2021 HLs</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824060000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ABB FIA Formula E World C'ship 2021 HLs</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824070000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824073000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824100000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">Australian Superbikes C'ship 2021</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824103000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">FIA - Pure Motorsport 2021</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824113000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">FIM Supersport World C'ship 2021</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824123000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">FIM Supersport World C'ship 2021</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824130000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">Planet Speed</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">MotoAmerica Superbikes C'ship 2021</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824160000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">ESPN Classic Boxing</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824180000 +0000" channel="FoxSports3Asia.us">
+<title lang="id">Monster Energy AMA Supercross 2021 HLs</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823172000 +0000" channel="ArirangTV.kr">
+<title lang="id">News In Depth</title>
+</programme>
+<programme start="20210823172000 +0000" stop="20210823173000 +0000" channel="ArirangTV.kr">
+<title lang="id">1Day 1Film K-Cineflex</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823180000 +0000" channel="ArirangTV.kr">
+<title lang="id">Catchy Korea</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823185000 +0000" channel="ArirangTV.kr">
+<title lang="id">Covid-19 Pandemic</title>
+</programme>
+<programme start="20210823185000 +0000" stop="20210823190000 +0000" channel="ArirangTV.kr">
+<title lang="id">Catchy Korea</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823192000 +0000" channel="ArirangTV.kr">
+<title lang="id">News In Depth</title>
+</programme>
+<programme start="20210823192000 +0000" stop="20210823193000 +0000" channel="ArirangTV.kr">
+<title lang="id">K-Biz</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823200000 +0000" channel="ArirangTV.kr">
+<title lang="id">Discover World</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823210000 +0000" channel="ArirangTV.kr">
+<title lang="id">Concert Today</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823212000 +0000" channel="ArirangTV.kr">
+<title lang="id">Arirang News</title>
+</programme>
+<programme start="20210823212000 +0000" stop="20210823213000 +0000" channel="ArirangTV.kr">
+<title lang="id">SmartBiz Accelerators</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823220000 +0000" channel="ArirangTV.kr">
+<title lang="id">Diplomat Talks</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="ArirangTV.kr">
+<title lang="id">Arirang News</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="ArirangTV.kr">
+<title lang="id">Gangnam Insider's Picks</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823232000 +0000" channel="ArirangTV.kr">
+<title lang="id">Global Insight</title>
+</programme>
+<programme start="20210823232000 +0000" stop="20210823233000 +0000" channel="ArirangTV.kr">
+<title lang="id">K-Biz</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="ArirangTV.kr">
+<title lang="id">Premium Collection</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824003000 +0000" channel="ArirangTV.kr">
+<title lang="id">Diplomat Talks</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824004000 +0000" channel="ArirangTV.kr">
+<title lang="id">1Day 1Film K-Cineflex</title>
+</programme>
+<programme start="20210824004000 +0000" stop="20210824010000 +0000" channel="ArirangTV.kr">
+<title lang="id">Travel Notes</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824013000 +0000" channel="ArirangTV.kr">
+<title lang="id">Arirang News</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="ArirangTV.kr">
+<title lang="id">Gangnam Insider's Picks</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824022000 +0000" channel="ArirangTV.kr">
+<title lang="id">Arirang Live</title>
+</programme>
+<programme start="20210824022000 +0000" stop="20210824023000 +0000" channel="ArirangTV.kr">
+<title lang="id">Biztech Korea</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="ArirangTV.kr">
+<title lang="id">Premium Collection</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824033000 +0000" channel="ArirangTV.kr">
+<title lang="id">Arirang News</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824035000 +0000" channel="ArirangTV.kr">
+<title lang="id">Global Insight</title>
+</programme>
+<programme start="20210824035000 +0000" stop="20210824040000 +0000" channel="ArirangTV.kr">
+<title lang="id">1Day 1Film K-Cineflex</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="ArirangTV.kr">
+<title lang="id">Gangnam Insider's Picks</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824050000 +0000" channel="ArirangTV.kr">
+<title lang="id">Diplomat Talks</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824055000 +0000" channel="ArirangTV.kr">
+<title lang="id">Covid-19 Pandemic</title>
+</programme>
+<programme start="20210824055000 +0000" stop="20210824060000 +0000" channel="ArirangTV.kr">
+<title lang="id">Biztech Korea</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="ArirangTV.kr">
+<title lang="id">Premium Collection</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824064000 +0000" channel="ArirangTV.kr">
+<title lang="id">1Day 1Film K-Cineflex</title>
+</programme>
+<programme start="20210824064000 +0000" stop="20210824070000 +0000" channel="ArirangTV.kr">
+<title lang="id">Travel Notes</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824073000 +0000" channel="ArirangTV.kr">
+<title lang="id">Diplomat Talks</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="ArirangTV.kr">
+<title lang="id">Gangnam Insider's Picks</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824083000 +0000" channel="ArirangTV.kr">
+<title lang="id">Arirang News</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824085000 +0000" channel="ArirangTV.kr">
+<title lang="id">Global Insight</title>
+</programme>
+<programme start="20210824085000 +0000" stop="20210824090000 +0000" channel="ArirangTV.kr">
+<title lang="id">Catchy Korea</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824095000 +0000" channel="ArirangTV.kr">
+<title lang="id">Covid-19 Pandemic</title>
+</programme>
+<programme start="20210824095000 +0000" stop="20210824100000 +0000" channel="ArirangTV.kr">
+<title lang="id">SmartBiz Accelerators</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824105000 +0000" channel="ArirangTV.kr">
+<title lang="id">News Center</title>
+</programme>
+<programme start="20210824105000 +0000" stop="20210824110000 +0000" channel="ArirangTV.kr">
+<title lang="id">Biztech Korea</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824113000 +0000" channel="ArirangTV.kr">
+<title lang="id">Peace & Prosperity</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824114000 +0000" channel="ArirangTV.kr">
+<title lang="id">1Day 1Film K-Cineflex</title>
+</programme>
+<programme start="20210824114000 +0000" stop="20210824120000 +0000" channel="ArirangTV.kr">
+<title lang="id">Travel Notes</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824125000 +0000" channel="ArirangTV.kr">
+<title lang="id">Covid-19 Pandemic</title>
+</programme>
+<programme start="20210824125000 +0000" stop="20210824130000 +0000" channel="ArirangTV.kr">
+<title lang="id">K-Biz</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824133000 +0000" channel="ArirangTV.kr">
+<title lang="id">Arirang News</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824140000 +0000" channel="ArirangTV.kr">
+<title lang="id">Premium Collection</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="ArirangTV.kr">
+<title lang="id">Gangnam Insider's Picks</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824150000 +0000" channel="ArirangTV.kr">
+<title lang="id">Peace & Prosperity</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824152000 +0000" channel="ArirangTV.kr">
+<title lang="id">News In Depth</title>
+</programme>
+<programme start="20210824152000 +0000" stop="20210824153000 +0000" channel="ArirangTV.kr">
+<title lang="id">SmartBiz Accelerators</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824160000 +0000" channel="ArirangTV.kr">
+<title lang="id">Premium Collection</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="ArirangTV.kr">
+<title lang="id">After School Club</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823200000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Khana Khazana</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823230000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Namaste England</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824020000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Corporate</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824030000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Guddan Tumse Na Ho Payega</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824040000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Jhansi Ki Rani</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824050000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Begusarai</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Khana Khazana</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824080000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Sarkar 3</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Guddan Tumse Na Ho Payega</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824100000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Jhansi Ki Rani</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824110000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Begusarai</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824133000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Omkara</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824160000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Rustom</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824193000 +0000" channel="ZeeBioskop.in">
+<title lang="id">Zero</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823170200 +0000" channel="CNA.sg">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210823170200 +0000" stop="20210823180000 +0000" channel="CNA.sg">
+<title lang="id">Tomorrow City</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823190000 +0000" channel="CNA.sg">
+<title lang="id">Singapore Tonight</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823200000 +0000" channel="CNA.sg">
+<title lang="id">Hawkers In Our Centre</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823210000 +0000" channel="CNA.sg">
+<title lang="id">Asia Tonight</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823220000 +0000" channel="CNA.sg">
+<title lang="id">Tomorrow City</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823230000 +0000" channel="CNA.sg">
+<title lang="id">Singapore Tonight</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824020000 +0000" channel="CNA.sg">
+<title lang="id">Asia First</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824020200 +0000" channel="CNA.sg">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824020200 +0000" stop="20210824030000 +0000" channel="CNA.sg">
+<title lang="id">Tomorrow City</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824050000 +0000" channel="CNA.sg">
+<title lang="id">Asia Now</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824050200 +0000" channel="CNA.sg">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824050200 +0000" stop="20210824060000 +0000" channel="CNA.sg">
+<title lang="id">TBA</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824080000 +0000" channel="CNA.sg">
+<title lang="id">Asia Now</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824080200 +0000" channel="CNA.sg">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824080200 +0000" stop="20210824090000 +0000" channel="CNA.sg">
+<title lang="id">Hawkers In Our Centre</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824110000 +0000" channel="CNA.sg">
+<title lang="id">Asia Now</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824110200 +0000" channel="CNA.sg">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824110200 +0000" stop="20210824120000 +0000" channel="CNA.sg">
+<title lang="id">Tomorrow City</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="CNA.sg">
+<title lang="id">Asia Tonight</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824130200 +0000" channel="CNA.sg">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824130200 +0000" stop="20210824133000 +0000" channel="CNA.sg">
+<title lang="id">Money Mind</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824140000 +0000" channel="CNA.sg">
+<title lang="id">Remarkable Living</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824150000 +0000" channel="CNA.sg">
+<title lang="id">Singapore Tonight</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824150200 +0000" channel="CNA.sg">
+<title lang="id">Headline News</title>
+</programme>
+<programme start="20210824150200 +0000" stop="20210824160000 +0000" channel="CNA.sg">
+<title lang="id">Tomorrow City</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="CNA.sg">
+<title lang="id">World Tonight</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823173000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823180000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Inside Story</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823190000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Newshour</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823193000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823200000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">The Stream</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823210000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">The Men Who Stole The World</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823220000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Newshour</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Witness</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823233000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">People And Power</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824003000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Inside Story</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824020000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Witness: The Lost Love Diaries</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824023000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">101 East</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824033000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Risking It All</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824050000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">The Stream</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Counting The Cost</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Al Jazeera World</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824073000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Inside Story</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824083000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824090000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">The Stream</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824093000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824100000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Witness</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824110000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Newshour</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824113000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824120000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Inside Story</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824130000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">The Men Who Stole The World</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824140000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Newshour</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824150000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">The Stream</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824160000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Newshour</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824163000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">News Live</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824170000 +0000" channel="AlJazeeraEnglish.qa">
+<title lang="id">Football Rebels</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823171500 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823171500 +0000" stop="20210823173000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823174500 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823174500 +0000" stop="20210823180000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823181500 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823181500 +0000" stop="20210823184300 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823184300 +0000" stop="20210823190000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823191300 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823191300 +0000" stop="20210823192700 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823192700 +0000" stop="20210823193900 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823193900 +0000" stop="20210823195000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210823195000 +0000" stop="20210823200000 +0000" channel="Euronews.fr">
+<title lang="id">Unreported Europe</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823203000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823210000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823213000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823220000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823223000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823230000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823233000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824003000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824005000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824005000 +0000" stop="20210824010000 +0000" channel="Euronews.fr">
+<title lang="id">Unreported Europe</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824013000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824013000 +0000" stop="20210824020000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824023000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824033000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824043000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824043000 +0000" stop="20210824050000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824053000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824063000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824070000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824073000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824083000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824090000 +0000" channel="Euronews.fr">
+<title lang="id">Euronews Tonight</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824091400 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824091400 +0000" stop="20210824093000 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824094500 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824094500 +0000" stop="20210824100000 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824101500 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824101500 +0000" stop="20210824103000 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824104500 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824104500 +0000" stop="20210824110000 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824111400 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824111400 +0000" stop="20210824112900 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824112900 +0000" stop="20210824114200 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824114200 +0000" stop="20210824120000 +0000" channel="Euronews.fr">
+<title lang="id">All News Edition</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824121400 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824121400 +0000" stop="20210824122700 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824122700 +0000" stop="20210824124300 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824124300 +0000" stop="20210824130000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824131300 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824131300 +0000" stop="20210824133000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824134400 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824134400 +0000" stop="20210824140000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824141400 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824141400 +0000" stop="20210824143000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824144600 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824144600 +0000" stop="20210824150000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824151400 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824151400 +0000" stop="20210824153000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824154100 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824154100 +0000" stop="20210824160000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824161500 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824161500 +0000" stop="20210824163000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824165000 +0000" channel="Euronews.fr">
+<title lang="id">News Of The Day</title>
+</programme>
+<programme start="20210824165000 +0000" stop="20210824170000 +0000" channel="Euronews.fr">
+<title lang="id">Unreported Europe</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823171500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210823171500 +0000" stop="20210823173000 +0000" channel="DWEnglish.de">
+<title lang="id">Covid-19 Special</title>
+</programme>
+<programme start="20210823173000 +0000" stop="20210823174500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210823174500 +0000" stop="20210823180000 +0000" channel="DWEnglish.de">
+<title lang="id">Arts And Culture</title>
+</programme>
+<programme start="20210823180000 +0000" stop="20210823181500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210823181500 +0000" stop="20210823183000 +0000" channel="DWEnglish.de">
+<title lang="id">Business</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823184500 +0000" channel="DWEnglish.de">
+<title lang="id">Covid-19 Special</title>
+</programme>
+<programme start="20210823184500 +0000" stop="20210823190000 +0000" channel="DWEnglish.de">
+<title lang="id">Arts And Culture</title>
+</programme>
+<programme start="20210823190000 +0000" stop="20210823193000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210823193000 +0000" stop="20210823200000 +0000" channel="DWEnglish.de">
+<title lang="id">Close Up</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823203000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210823203000 +0000" stop="20210823210000 +0000" channel="DWEnglish.de">
+<title lang="id">The Day</title>
+</programme>
+<programme start="20210823210000 +0000" stop="20210823211500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210823211500 +0000" stop="20210823213000 +0000" channel="DWEnglish.de">
+<title lang="id">Business</title>
+</programme>
+<programme start="20210823213000 +0000" stop="20210823214500 +0000" channel="DWEnglish.de">
+<title lang="id">Arts And Culture</title>
+</programme>
+<programme start="20210823214500 +0000" stop="20210823220000 +0000" channel="DWEnglish.de">
+<title lang="id">Shift</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823220200 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210823220200 +0000" stop="20210823223000 +0000" channel="DWEnglish.de">
+<title lang="id">The Day</title>
+</programme>
+<programme start="20210823223000 +0000" stop="20210823224500 +0000" channel="DWEnglish.de">
+<title lang="id">Covid-19 Special</title>
+</programme>
+<programme start="20210823224500 +0000" stop="20210823230000 +0000" channel="DWEnglish.de">
+<title lang="id">Arts And Culture</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210823231500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210823231500 +0000" stop="20210823233000 +0000" channel="DWEnglish.de">
+<title lang="id">Business</title>
+</programme>
+<programme start="20210823233000 +0000" stop="20210824000000 +0000" channel="DWEnglish.de">
+<title lang="id">Close Up</title>
+</programme>
+<programme start="20210824000000 +0000" stop="20210824000200 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824000200 +0000" stop="20210824003000 +0000" channel="DWEnglish.de">
+<title lang="id">The Day</title>
+</programme>
+<programme start="20210824003000 +0000" stop="20210824010000 +0000" channel="DWEnglish.de">
+<title lang="id">Kick Off!</title>
+</programme>
+<programme start="20210824010000 +0000" stop="20210824011500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824011500 +0000" stop="20210824020000 +0000" channel="DWEnglish.de">
+<title lang="id">DocFilm</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824020200 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824020200 +0000" stop="20210824023000 +0000" channel="DWEnglish.de">
+<title lang="id">The Day</title>
+</programme>
+<programme start="20210824023000 +0000" stop="20210824030000 +0000" channel="DWEnglish.de">
+<title lang="id">Kick Off!</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824031500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824031500 +0000" stop="20210824033000 +0000" channel="DWEnglish.de">
+<title lang="id">Covid-19 Special</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824040000 +0000" channel="DWEnglish.de">
+<title lang="id">Close Up</title>
+</programme>
+<programme start="20210824040000 +0000" stop="20210824041500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824041500 +0000" stop="20210824050000 +0000" channel="DWEnglish.de">
+<title lang="id">DocFilm</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824050200 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824050200 +0000" stop="20210824053000 +0000" channel="DWEnglish.de">
+<title lang="id">The Day</title>
+</programme>
+<programme start="20210824053000 +0000" stop="20210824060000 +0000" channel="DWEnglish.de">
+<title lang="id">Eco India</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824061500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824061500 +0000" stop="20210824063000 +0000" channel="DWEnglish.de">
+<title lang="id">Business</title>
+</programme>
+<programme start="20210824063000 +0000" stop="20210824070000 +0000" channel="DWEnglish.de">
+<title lang="id">Close Up</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824073000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824073000 +0000" stop="20210824080000 +0000" channel="DWEnglish.de">
+<title lang="id">Kick Off!</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824083000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824090000 +0000" channel="DWEnglish.de">
+<title lang="id">Close Up</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824091500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824091500 +0000" stop="20210824100000 +0000" channel="DWEnglish.de">
+<title lang="id">DocFilm</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824103000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824103000 +0000" stop="20210824104500 +0000" channel="DWEnglish.de">
+<title lang="id">Business</title>
+</programme>
+<programme start="20210824104500 +0000" stop="20210824110000 +0000" channel="DWEnglish.de">
+<title lang="id">Covid-19 Special</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824113000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824120000 +0000" channel="DWEnglish.de">
+<title lang="id">Kick Off!</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824123000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824123000 +0000" stop="20210824130000 +0000" channel="DWEnglish.de">
+<title lang="id">Close Up</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824133000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824133000 +0000" stop="20210824134500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824134500 +0000" stop="20210824140000 +0000" channel="DWEnglish.de">
+<title lang="id">Covid-19 Special</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824143000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824144500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824144500 +0000" stop="20210824150000 +0000" channel="DWEnglish.de">
+<title lang="id">Covid-19 Special</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824153000 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824160000 +0000" channel="DWEnglish.de">
+<title lang="id">Kick Off!</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824161500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824161500 +0000" stop="20210824163000 +0000" channel="DWEnglish.de">
+<title lang="id">Business</title>
+</programme>
+<programme start="20210824163000 +0000" stop="20210824164500 +0000" channel="DWEnglish.de">
+<title lang="id">DW News</title>
+</programme>
+<programme start="20210824164500 +0000" stop="20210824170000 +0000" channel="DWEnglish.de">
+<title lang="id">Arts And Culture</title>
+</programme>
+<programme start="20210823170000 +0000" stop="20210823175500 +0000" channel="ABCTV.au">
+<title lang="id">The World</title>
+</programme>
+<programme start="20210823175500 +0000" stop="20210823181500 +0000" channel="ABCTV.au">
+<title lang="id">ABC News Overnight</title>
+</programme>
+<programme start="20210823181500 +0000" stop="20210823183000 +0000" channel="ABCTV.au">
+<title lang="id">The Business</title>
+</programme>
+<programme start="20210823183000 +0000" stop="20210823190500 +0000" channel="ABCTV.au">
+<title lang="id">7.30</title>
+</programme>
+<programme start="20210823190500 +0000" stop="20210823192500 +0000" channel="ABCTV.au">
+<title lang="id">Home And Away</title>
+</programme>
+<programme start="20210823192500 +0000" stop="20210823194500 +0000" channel="ABCTV.au">
+<title lang="id">Good Game Spawn Point</title>
+</programme>
+<programme start="20210823194500 +0000" stop="20210823200000 +0000" channel="ABCTV.au">
+<title lang="id">The Wonder Gang</title>
+</programme>
+<programme start="20210823200000 +0000" stop="20210823230000 +0000" channel="ABCTV.au">
+<title lang="id">News Breakfast: Early</title>
+</programme>
+<programme start="20210823230000 +0000" stop="20210824020000 +0000" channel="ABCTV.au">
+<title lang="id">ABC News Mornings</title>
+</programme>
+<programme start="20210824020000 +0000" stop="20210824030000 +0000" channel="ABCTV.au">
+<title lang="id">ABC News At Noon</title>
+</programme>
+<programme start="20210824030000 +0000" stop="20210824033000 +0000" channel="ABCTV.au">
+<title lang="id">Play School</title>
+</programme>
+<programme start="20210824033000 +0000" stop="20210824035000 +0000" channel="ABCTV.au">
+<title lang="id">Good Game Spawn Point</title>
+</programme>
+<programme start="20210824035000 +0000" stop="20210824035500 +0000" channel="ABCTV.au">
+<title lang="id">The Mindfulness Toolkit</title>
+</programme>
+<programme start="20210824035500 +0000" stop="20210824040500 +0000" channel="ABCTV.au">
+<title lang="id">English Bites</title>
+</programme>
+<programme start="20210824040500 +0000" stop="20210824042000 +0000" channel="ABCTV.au">
+<title lang="id">Living English</title>
+</programme>
+<programme start="20210824042000 +0000" stop="20210824043500 +0000" channel="ABCTV.au">
+<title lang="id">Mini Lessons: Maths</title>
+</programme>
+<programme start="20210824043500 +0000" stop="20210824050000 +0000" channel="ABCTV.au">
+<title lang="id">Home And Away</title>
+</programme>
+<programme start="20210824050000 +0000" stop="20210824051000 +0000" channel="ABCTV.au">
+<title lang="id">What's For Dinner?</title>
+</programme>
+<programme start="20210824051000 +0000" stop="20210824060000 +0000" channel="ABCTV.au">
+<title lang="id">Bear - Koala Hero</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824070000 +0000" channel="ABCTV.au">
+<title lang="id">Afternoon Briefing</title>
+</programme>
+<programme start="20210824070000 +0000" stop="20210824080000 +0000" channel="ABCTV.au">
+<title lang="id">ABC News Hour</title>
+</programme>
+<programme start="20210824080000 +0000" stop="20210824090000 +0000" channel="ABCTV.au">
+<title lang="id">The Drum</title>
+</programme>
+<programme start="20210824090000 +0000" stop="20210824092000 +0000" channel="ABCTV.au">
+<title lang="id">Home And Away</title>
+</programme>
+<programme start="20210824092000 +0000" stop="20210824093000 +0000" channel="ABCTV.au">
+<title lang="id">BTN Newsbreak</title>
+</programme>
+<programme start="20210824093000 +0000" stop="20210824100000 +0000" channel="ABCTV.au">
+<title lang="id">ABC News</title>
+</programme>
+<programme start="20210824100000 +0000" stop="20210824104500 +0000" channel="ABCTV.au">
+<title lang="id">ABC News Tonight</title>
+</programme>
+<programme start="20210824104500 +0000" stop="20210824110000 +0000" channel="ABCTV.au">
+<title lang="id">The Business</title>
+</programme>
+<programme start="20210824110000 +0000" stop="20210824113000 +0000" channel="ABCTV.au">
+<title lang="id">ABC Nightly News</title>
+</programme>
+<programme start="20210824113000 +0000" stop="20210824120000 +0000" channel="ABCTV.au">
+<title lang="id">7.30</title>
+</programme>
+<programme start="20210824120000 +0000" stop="20210824125500 +0000" channel="ABCTV.au">
+<title lang="id">The World</title>
+</programme>
+<programme start="20210824125500 +0000" stop="20210824134500 +0000" channel="ABCTV.au">
+<title lang="id">Four Corners</title>
+</programme>
+<programme start="20210824134500 +0000" stop="20210824140000 +0000" channel="ABCTV.au">
+<title lang="id">Chopsticks Or Fork?</title>
+</programme>
+<programme start="20210824140000 +0000" stop="20210824141500 +0000" channel="ABCTV.au">
+<title lang="id">ABC Late News</title>
+</programme>
+<programme start="20210824141500 +0000" stop="20210824143000 +0000" channel="ABCTV.au">
+<title lang="id">The Business</title>
+</programme>
+<programme start="20210824143000 +0000" stop="20210824150000 +0000" channel="ABCTV.au">
+<title lang="id">Home And Away</title>
+</programme>
+<programme start="20210824150000 +0000" stop="20210824153000 +0000" channel="ABCTV.au">
+<title lang="id">ABC Late News</title>
+</programme>
+<programme start="20210824153000 +0000" stop="20210824160000 +0000" channel="ABCTV.au">
+<title lang="id">7.30</title>
+</programme>
+<programme start="20210824160000 +0000" stop="20210824170000 +0000" channel="ABCTV.au">
+<title lang="id">The Drum</title>
+</programme>
+<programme start="20210823172500 +0000" stop="20210823182000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Alaska Air Crash Investigation</title>
+</programme>
+<programme start="20210823182000 +0000" stop="20210823191500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">The Green Book: Guide To Freedom</title>
+</programme>
+<programme start="20210823191500 +0000" stop="20210823201000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">America's Hidden Stories</title>
+</programme>
+<programme start="20210823201000 +0000" stop="20210823210500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">The Lost Tapes</title>
+</programme>
+<programme start="20210823210500 +0000" stop="20210823220000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Sacred Sites</title>
+</programme>
+<programme start="20210823220000 +0000" stop="20210823225500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Alaska Air Crash Investigation</title>
+</programme>
+<programme start="20210823225500 +0000" stop="20210823235000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Alaska Air Crash Investigation</title>
+</programme>
+<programme start="20210823235000 +0000" stop="20210824004500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">The Green Book: Guide To Freedom</title>
+</programme>
+<programme start="20210824004500 +0000" stop="20210824013500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">America's Hidden Stories</title>
+</programme>
+<programme start="20210824013500 +0000" stop="20210824022500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">The Lost Tapes</title>
+</programme>
+<programme start="20210824022500 +0000" stop="20210824031500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Sacred Sites</title>
+</programme>
+<programme start="20210824031500 +0000" stop="20210824041000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Aerial Cities</title>
+</programme>
+<programme start="20210824041000 +0000" stop="20210824050500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Alaska Air Crash Investigation</title>
+</programme>
+<programme start="20210824050500 +0000" stop="20210824060000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Alaska Air Crash Investigation</title>
+</programme>
+<programme start="20210824060000 +0000" stop="20210824065000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">The Green Book: Guide To Freedom</title>
+</programme>
+<programme start="20210824065000 +0000" stop="20210824074000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">America's Hidden Stories</title>
+</programme>
+<programme start="20210824074000 +0000" stop="20210824083000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">The Lost Tapes</title>
+</programme>
+<programme start="20210824083000 +0000" stop="20210824092500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Sacred Sites</title>
+</programme>
+<programme start="20210824092500 +0000" stop="20210824102000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Aerial Cities</title>
+</programme>
+<programme start="20210824102000 +0000" stop="20210824111000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">COVID: Our Lockdown In Shanghai</title>
+</programme>
+<programme start="20210824111000 +0000" stop="20210824120500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">America's Hidden Stories</title>
+</programme>
+<programme start="20210824120500 +0000" stop="20210824130000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">The Pacific War In Color</title>
+</programme>
+<programme start="20210824130000 +0000" stop="20210824135500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">A-Bombs Over Nevada</title>
+</programme>
+<programme start="20210824135500 +0000" stop="20210824145000 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">The Hunt For Eagle 56</title>
+</programme>
+<programme start="20210824145000 +0000" stop="20210824154500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Carriers At War</title>
+</programme>
+<programme start="20210824154500 +0000" stop="20210824163500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">Aerial Cities</title>
+</programme>
+<programme start="20210824163500 +0000" stop="20210824172500 +0000" channel="SmithsonianChannelAsia.us">
+<title lang="id">COVID: Our Lockdown In Shanghai</title>
+</programme>
+</tv>
