@@ -14,22 +14,19 @@
 <channel id="KompasTV.id">
 <display-name>Kompas TV</display-name>
 </channel>
-<channel id="Lifetime.id">
-<display-name>Lifetime</display-name>
-</channel>
 <channel id="METROTV.id">
 <display-name>METRO TV</display-name>
 </channel>
 <channel id="NET.id">
 <display-name>NET.</display-name>
 </channel>
-<channel id="NatGeoPeople.id">
+<channel id="NatGeoPeopleAsia.us">
 <display-name>National Geographic People</display-name>
 </channel>
-<channel id="NatGeo.id">
+<channel id="NationalGeographicAsia.us">
 <display-name>National Geographic</display-name>
 </channel>
-<channel id="NatGeoWild.id">
+<channel id="NationalGeographicWildAsia.us">
 <display-name>National Geographic Wild</display-name>
 </channel>
 <channel id="TRANS7HD.id">
@@ -38,47 +35,53 @@
 <channel id="MNCTV.id">
 <display-name>MNCTV</display-name>
 </channel>
-<channel id="Kplus.id">
+<channel id="KPlus.kr">
 <display-name>K+</display-name>
 </channel>
-<channel id="HistoryChannel.id">
+<channel id="HistoryAsia.us">
 <display-name>History Channel</display-name>
 </channel>
-<channel id="HBO.id">
+<channel id="HBOMalaysia.us">
 <display-name>HBO</display-name>
 </channel>
-<channel id="HBOHits.id	">
+<channel id="HBOHits.us">
 <display-name>HBO Hits</display-name>
 </channel>
-<channel id="HBOSignature.id">
+<channel id="HBOSignature.us">
 <display-name>HBO Signature</display-name>
 </channel>
-<channel id="HBOFamily.id">
+<channel id="HBOFamily.us">
 <display-name>HBO Family</display-name>
 </channel>
-<channel id="HITS.id">
+<channel id="Hits.sg">
 <display-name>HITS</display-name>
 </channel>
 <channel id="Animax ID">
 <display-name>Animax</display-name>
 </channel>
-<channel id="Galaxy Premium.id">
+<channel id="Galaxy Premium.sg">
 <display-name>Galaxy Premium</display-name>
 </channel>
-<channel id="Galaxy.id">
+<channel id="Galaxy.sg">
 <display-name>Galaxy</display-name>
 </channel>
-<channel id="FOXMoviesPremium.id">
-<display-name>FOX Movies Premium</display-name>
+<channel id="FoxLifeMalaysia.us">
+<display-name>FOX Life</display-name>
 </channel>
-<channel id="FOXMovies.id">
+<channel id="FoxMovies.us">
 <display-name>FOX Movies</display-name>
 </channel>
-<channel id="FOXFamilyMovies.id">
+<channel id="FoxFamilyMovies.us">
 <display-name>FOX Family Movies</display-name>
 </channel>
-<channel id="FOXActionMovies.id">
-<display-name>FOX Action Movies</display-name>
+<channel id="FoxAsia.us">
+<display-name>FOX</display-name>
+</channel>
+<channel id="FoxNews.us">
+<display-name>Fox News</display-name>
+</channel>
+<channel id="France24English.fr">
+<display-name>France 24</display-name>
 </channel>
 <channel id="ChampionTV1.id">
 <display-name>Champions TV 1</display-name>
@@ -124,6 +127,12 @@
 </channel>
 <channel id="SmithsonianChannelAsia.us">
 <display-name>Smithsonian Channel Asia</display-name>
+</channel>
+<channel id="HGTVAsia.us">
+<display-name>HGTV</display-name>
+</channel>
+<channel id="LifetimeAsia.us">
+<display-name>Lifetime</display-name>
 </channel>
 <programme start="20210823171500 +0000" stop="20210823183000 +0000" channel="SCTV.id">
 <title lang="id">Sinema Malam</title>
