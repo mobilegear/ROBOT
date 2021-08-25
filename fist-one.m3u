@@ -107,7 +107,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", Fox Sports 3 Asia
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORTS",Premier Football HD 1
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000,CODECS="mp4a.40.5,avc1.42801e"
 http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="SPORTS",Premier Football HD 2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
