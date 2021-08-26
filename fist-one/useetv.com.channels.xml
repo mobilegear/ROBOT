@@ -1,4 +1,4 @@
-<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="useetv.com">
+<site generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.9 -- Jan van Straaten" site="http://www.webgrabplus.com">
 <channels>
 <channel update="i" site="useetv.com" site_id="bein1" xmltv_id="beIN Sport 1">beIN Sport 1</channel>
 <channel update="i" site="useetv.com" site_id="bein2" xmltv_id="beIN Sport 2">beIN Sport 2</channel>
