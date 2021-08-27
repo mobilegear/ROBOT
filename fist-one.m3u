@@ -87,7 +87,7 @@ http://iptv.tvmalaysia.cc/932633/932633/6710
 ###http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro SuperSport 3
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",AstroSuperSport4.my
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",Astro SuperSport 4
 http://iptv.tvmalaysia.cc/932633/932633/6712
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nowsportsprime.png" group-title="SPORTS", Now SPORTS PRIME
 http://livetv.dnsfor.me:80/channel.12.m3u8
@@ -97,7 +97,7 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS", beIN Sports 2 Asia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="SPORTS", beIn Sports Max Malaysia & Singapore
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="SPORTS", beIN Sports Max Malaysia & Singapore
 http://lengo-sentir.xyz/media/sport/premium/beINMAX
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS", beIn Sport Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
