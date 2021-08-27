@@ -79,15 +79,15 @@ http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
 //SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS", Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro Super Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro SuperSport
 http://iptv.tvmalaysia.cc/932633/932633/6708
 ###http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro Super Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro SuperSport 
 http://iptv.tvmalaysia.cc/932633/932633/6710
 ###http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro Super Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro SuperSport 3
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",Astro Super Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",AstroSuperSport4.my
 http://iptv.tvmalaysia.cc/932633/932633/6712
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LiuYi0526/IPTV/master/TVlogos/nowsportsprime.png" group-title="SPORTS", Now SPORTS PRIME
 http://livetv.dnsfor.me:80/channel.12.m3u8
