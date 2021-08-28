@@ -314,7 +314,7 @@ http://210.210.155.35/uq2663/h/h98/index.m3u8
 http://topwin-tv.my.id/2/master.m3u8?id=horee
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang
 http://topwin-tv.my.id/2/master.m3u8?id=boomerang
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network Asia
 http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak
 http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
