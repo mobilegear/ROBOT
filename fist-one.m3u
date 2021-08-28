@@ -82,7 +82,7 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro SuperSport
 http://iptv.tvmalaysia.cc/932633/932633/6708
 ###http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro SuperSport 
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro SuperSport 2
 http://iptv.tvmalaysia.cc/932633/932633/6710
 ###http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro SuperSport 3
