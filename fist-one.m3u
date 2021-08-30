@@ -71,8 +71,8 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
 #EXTINF:0 tvg-country="noa" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
-#EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="MOVIES",HallMark Channel
-http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIES", MBC MAX HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 
 
 
