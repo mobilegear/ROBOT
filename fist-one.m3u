@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
 https://is.gd/ObFrpt
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies Malaysia
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=celestialmovie&bandwidth=default&sync=0
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/96/d4/b9/96d4b91e8161418acfb1fbb196f1d1c9.jpg" group-title="MOVIES",  Asian crush
 https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
