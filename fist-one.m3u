@@ -21,9 +21,9 @@ http://watchindia.net:8880/live/33253/72963/2178.m3u8
 http://watchindia.net:8880/live/33253/72963/2179.m3u8
 #EXTINF:-1,group-title="MOVIES",Sky Cinema Sci-Fi/Horror
 http://watchindia.net:8880/live/33253/72963/2180.m3u8
-#EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIES",&privé HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="MOVIES",&privé HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",Cinemax Asia +1
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
@@ -51,7 +51,7 @@ https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovie
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MOVIES",Thrill
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MOVIES",Thrill
 http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -89,7 +89,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync=0
-#EXTINF:0 tvg-country="noa" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 #EXTINF: -1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIES", MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
