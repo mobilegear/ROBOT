@@ -74,15 +74,15 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",Hits Movies +1
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=flik
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC
 http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES", MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", Galaxy
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxy&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=galaxy
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png" group-title="MOVIES", Galaxy Premium 
-https://mkctvbro.my.id/horas/pakailah.m3u8?id=galaxypremium&bandwidth=default&sync=0
+http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES",Zee Cinema
@@ -93,6 +93,9 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=cinemaworld&bandwidth=default&sync
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 #EXTINF: -1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIES", MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="MOVIES", TVN Movies
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
+
 
 
 
@@ -166,7 +169,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/m2xcwP9r/dmax.png",DMAX Southeast Asia
 http://iptv.tvmalaysia.cc:80/989898/989898/6778
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic Asia
-http://iptv.tvmalaysia.cc/932633/932633/7075
+http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Bxx45b/Nat-Geo-Wild.png" group-title="KNOWLEDGE", Nat Geo Wild
 http://iptv.tvmalaysia.cc/932633/932633/7081
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History Asia
@@ -250,8 +253,8 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_v_international.png" group-title="MUSIC",Channel V 
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
-#EXTINF:-1 tvg-id="" tvg-name="MTV IN" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="MUSIC",MTV India
-http://tv.perfectiptv.tvip.xyz:80/fPnIwN2odkUo733/evJde3480/6219
+#EXTINF:-1 tvg-id="" tvg-name="MTV IN" tvg-logo="http://p2k.unhamzah.ac.id/_sepakbola/_baca_image.php?td=8&kodegb=1_137282275m.jpg" group-title="MUSIC",Prambors
+https://gpc.my.id/usee/pramborstv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-channel-romania-ro.png" group-title="MUSIC",Music Channel 
