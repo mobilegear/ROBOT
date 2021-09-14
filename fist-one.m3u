@@ -191,17 +191,17 @@ https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 http://iptv.tvmalaysia.cc:80/989898/989898/6778
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History Asia
 http://topwin-tv.my.id/2/master.m3u8?id=history
-#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
-#https://web.hypp.tv:443/PLTV/88888888/224/3221227672/3221227672.mpd
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic Asia
 http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild Asia
 http://iptv.tvmalaysia.cc/932633/932633/7081
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="KNOWLEDGE",  Smithsonian Channel Asia
 http://gpc.my.id/vidio/smithsonian.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=ZGU1ZTc4ZjItNjI3NS0zYjc1LTg2YzEtZWJmOTY3NWM4ZTBi
+#EXTINF:0 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature
+https://web.hypp.tv:443/PLTV/88888888/224/3221227672/3221227672.mpd
 
 //ENTERTAINMENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="ENTERTAINMENT",AXN East Asia 
