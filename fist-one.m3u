@@ -130,6 +130,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=bein2
 http://lengo-sentir.xyz/media/sport/premium/beINMAX
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS", beIn Sport Xtra
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports 1
+http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", Fox Sports Asia
@@ -149,7 +151,8 @@ http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="SPORTS",Premier Football HD 4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="SPORTS",  LFC TV
-http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
+http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
+##http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="SPORTS",   MU TV
 http://178.175.132.170:8888/02_MUTV_720p/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
