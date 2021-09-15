@@ -126,11 +126,11 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 Indonesia
 http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-malaysia-and-singapore-qa-my-sg.png" group-title="SPORTS", beIN Sports Max 
-http://lengo-sentir.xyz/media/sport/premium/beINMAX
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS", beIn Sport Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="Sports",BT Sports 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="Sports", Bein Sports premium 1
+http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="Sports", Bein Sports premium 2
+http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -140,8 +140,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", Fox Sports 3 Asia
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="SPORTS", S Premier League 
-http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORTS",Premier Football HD 1
 http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="SPORTS",Premier Football HD 2
@@ -171,8 +169,12 @@ https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 http://gpc.my.id/vidio/champion-tv-1.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_small.png?v=2" group-title="SPORTS",Champions TV 2
 http://gpc.my.id/vidio/champion-tv-2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU"  group-title="SPORTS",Champions TV 3
+#EXTINF:-1 tvg-logo=""  group-title="SPORTS",Champions TV 3
 http://gpc.my.id/vidio/champion-tv-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="SPORTS", S Premier League 
+http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports", Sony Six HD
+http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
 
 
 //KNOWLEDGE
