@@ -1,25 +1,25 @@
 #EXTM3U
 
 //MOVIES
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Select 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Select 
 http://watchindia.net:8880/live/33253/72963/2170.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Hits
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Hits
 http://watchindia.net:8880/live/33253/72963/2171.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Greats
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Greats
 http://watchindia.net:8880/live/33253/72963/2172.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Family
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Family
 http://watchindia.net:8880/live/33253/72963/2173.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Disney
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Disney
 http://watchindia.net:8880/live/33253/72963/2175.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Action
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Action
 http://watchindia.net:8880/live/33253/72963/2176.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Comedy
 http://watchindia.net:8880/live/33253/72963/2177.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Thriller
 http://watchindia.net:8880/live/33253/72963/2178.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Drama
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Drama
 http://watchindia.net:8880/live/33253/72963/2179.m3u8
-#EXTINF:-1,group-title="MOVIES",Sky Cinema Sci-Fi/Horror
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES",Sky Cinema Sci-Fi/Horror
 http://watchindia.net:8880/live/33253/72963/2180.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
@@ -59,10 +59,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=galaxypremium
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO Asia 
-https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO Family Asia 
@@ -140,6 +138,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", Fox Sports 3 Asia
 https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="SPORTS", S Premier League 
+http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-1-1818.png" group-title="SPORTS",Premier Football HD 1
 http://178.175.132.170:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="SPORTS",Premier Football HD 2
@@ -179,6 +179,8 @@ http://gpc.my.id/vidio/champion-tv-3.m3u8
 
 
 //KNOWLEDGE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="KNOWLEDGE", Animal Planet
+http://q38.gcdn.co/animal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png",BBC Earth Asia
 http://iptv.tvmalaysia.cc:80/737373/737373/7233
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="KNOWLEDGE", Discovery Asia
@@ -186,7 +188,11 @@ http://iptv.tvmalaysia.cc:80/live/989898/989898/8856.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE",Discovery Channel Southeast Asia
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="KNOWLEDGE",  Discovery Turbo
-https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
+http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="KNOWLEDGE", Discovery Science
+https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="KNOWLEDGE", Discovery Investigation
+http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History Asia
 http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic Asia
@@ -299,7 +305,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 tvg-name="Fox News" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png" group-title="NEWS",Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NEWS", Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="NEWS", Africa News
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
 
