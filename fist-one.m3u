@@ -272,7 +272,7 @@ EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B61cDfCw/CHANNEL-V-HD.png" group-title="MUSIC",CHANNEL V HD
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://exchange4media.gumlet.io/news-photo/105360-image44.jpg?format=webp&w=750&dpr=1.0" group-title="",Zee Music
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/2/29/ZeeMusicCo.jpg" group-title="",Zee Music
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 
 //NEWS
