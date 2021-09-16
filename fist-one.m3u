@@ -329,6 +329,9 @@ http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="LIFESTYLE", Food Network Asia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37411
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="LIFESTYLE", Travel XP
+http://indo51.gcdn.co/hindi-TravelXPHD/tracks-v1a1/mono.m3u8
+
 
 //LOCAL
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="LOCAL",Trans 7 
