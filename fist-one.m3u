@@ -83,8 +83,6 @@ http://topwin-tv.my.id/2/master.m3u8?id=imc
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES", MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
 https://is.gd/ObFrpt
 #EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
@@ -181,7 +179,7 @@ http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="KNOWLEDGE", Animal Planet
 http://q38.gcdn.co/animal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png",BBC Earth Asia
-http://iptv.tvmalaysia.cc:80/737373/737373/7233
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="KNOWLEDGE", Discovery Asia
 http://iptv.tvmalaysia.cc:80/live/989898/989898/8856.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE",Discovery Channel Southeast Asia
