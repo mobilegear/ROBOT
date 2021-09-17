@@ -128,6 +128,16 @@ http://topwin-tv.my.id/2/master.m3u8?id=bein2
 http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="Sports", Bein Sports premium 2
 http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="Sports", Bein Sports premium 3
+http://xcwsnl28.mrnova.online/live/60042_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",BeIn Sports 1 Qatar
+http://xcwsnl28.mrnova.online/live/60043_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 Qatar
+http://xcwsnl28.mrnova.online/live/60044_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS",BeIn Sports 3 Qatar
+http://xcwsnl28.mrnova.online/live/60045_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORTS",BeIn Sports 4 Qatar
+http://xcwsnl28.mrnova.online/live/60046_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="Sports",BT Sports 1
 http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
