@@ -177,7 +177,7 @@ http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
 
 //KNOWLEDGE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="KNOWLEDGE", Animal Planet
-http://q38.gcdn.co/animal/tracks-v1a1/mono.m3u8
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png",BBC Earth Asia
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="KNOWLEDGE", Discovery Asia
