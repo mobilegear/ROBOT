@@ -173,12 +173,6 @@ https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS",Eurosport Asia
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_small.png?v=2" group-title="SPORTS",Champions TV 1
-http://gpc.my.id/vidio/champion-tv-1.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_small.png?v=2" group-title="SPORTS",Champions TV 2
-http://gpc.my.id/vidio/champion-tv-2.m3u8
-#EXTINF:-1 tvg-logo=""  group-title="SPORTS",Champions TV 3
-http://gpc.my.id/vidio/champion-tv-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="SPORTS", S Premier League 
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="Sports", Sony Six HD
