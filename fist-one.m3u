@@ -331,12 +331,16 @@ http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 http://sindoro.axc.my.id:25461/oxygen/VU5ZBKiIBr/10
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="LIFESTYLE",Lifestyle & Fashion
 http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="LIFESTYLE",FTV Midnight Secrets 
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="LIFESTYLE", Food Network Asia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37411
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="LIFESTYLE", Travel XP
 http://indo51.gcdn.co/hindi-TravelXPHD/tracks-v1a1/mono.m3u8
+
+//ADULT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="ADULT",FTV Midnight Secrets 
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/playboy_tv_us.png" group-title="ADULT",Playboy TV
+http://185.134.22.131:8080/pedro123/pedro321/13617
 
 
 //LOCAL
