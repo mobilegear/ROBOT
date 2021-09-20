@@ -113,15 +113,19 @@ http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS", Bein Sports premium 3
 http://sptkid.gcdn.co/b10hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",BeIn Sports 1 Qatar
-http://xcwsnl28.mrnova.online/live/60043_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 Qatar
-http://xcwsnl28.mrnova.online/live/60044_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS",BeIn Sports 3 Qatar
-http://xcwsnl28.mrnova.online/live/60045_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60085_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORTS",BeIn Sports 4 Qatar
-http://xcwsnl28.mrnova.online/live/60046_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://xcwsnl28.mrnova.online/live/60086_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORTS",BeIn Sports 5 Qatar
 http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="SPORTS",BeIn Sports 6 Qatar
+http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORTS",BeIn Sports 7 Qatar
+http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS",BeIn Sports Xtra 1 Qatar
 http://ux38.gcdn.co/UKS62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sports 1
