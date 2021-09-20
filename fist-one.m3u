@@ -108,8 +108,7 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro SuperSport
-http://iptv.tvmalaysia.cc:80/penang170/penang170/6708
-##http://iptv.tvmalaysia.cc/932633/932633/6708
+http://ux38.gcdn.co/UKS33/tracks-v1a1/mono.m3u8
 ###http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro SuperSport 2
 http://iptv.tvmalaysia.cc/932633/932633/6710
@@ -122,10 +121,10 @@ http://iptv.tvmalaysia.cc:80/penang170/penang170/6712
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",BeIn Sports 1 Indonesia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 Indonesia
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 English
+http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS", Bein Sports premium 1
-http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
+http://ux38.gcdn.co/UKS60/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS", Bein Sports premium 2
 http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS", Bein Sports premium 3
@@ -140,6 +139,8 @@ http://xcwsnl28.mrnova.online/live/60045_.m3u8?token=895f557054aa4d5abcedbbf64b4
 http://xcwsnl28.mrnova.online/live/60046_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORTS",BeIn Sports 5 Qatar
 http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS",BeIn Sports Xtra 1 Qatar
+http://ux38.gcdn.co/UKS62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sports 1
 http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sports 2
@@ -173,17 +174,21 @@ http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="SPORTS",Premier Football HD 4
 http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="SPORTS",  LFC TV
-http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
-##http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
+http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
+##http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="SPORTS",   MU TV
-http://178.175.132.170:8888/02_MUTV_720p/chunklist.m3u8
+http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="SPORTS", S Premier League 
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-football-it.png" group-title="SPORTS", Sky Sports Football
+http://ux38.gcdn.co/UKS21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
 http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="SPORTS",Sony Ten 2
 http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SPORTS",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SPORTS",Star Sports Select 1
+http://babutv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 
 //KNOWLEDGE
