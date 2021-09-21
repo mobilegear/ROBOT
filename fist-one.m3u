@@ -192,13 +192,16 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="KNOWLEDGE", Discovery Investigation
 http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History Asia
-http://topwin-tv.my.id/2/master.m3u8?id=history
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=history
+###http://topwin-tv.my.id/2/master.m3u8?id=history
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="KNOWLEDGE", Love Nature 4K
 http://rubeliptv.zapto.org:25461/ips7/44332277/917
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic Asia
-http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeo
+###http://topwin-tv.my.id/2/master.m3u8?id=natgeo
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild Asia
-http://iptv.tvmalaysia.cc/932633/932633/7081
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeowild
+###http://iptv.tvmalaysia.cc/932633/932633/7081
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="KNOWLEDGE",  Smithsonian Channel Asia
 http://gpc.my.id/vidio/smithsonian.m3u8
 
