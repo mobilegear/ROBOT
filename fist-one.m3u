@@ -62,8 +62,6 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC
 http://topwin-tv.my.id/2/master.m3u8?id=imc
-#EXTINF: -1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIES", MBC Max
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
@@ -235,8 +233,10 @@ http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="ENTERTAINMENT",Lifetime Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
 ###https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_1.png" group-title="ENTERTAINMENT", MBC 
+http://rubeliptv.zapto.org:25461/ips7/44332277/405
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-persia-ae.png" group-title="ENTERTAINMENT", MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="ENTERTAINMENT", SBS Plus International
