@@ -288,6 +288,8 @@ http://dituduhmaling.xyz/US33T4/mtvlive.m3u8#
 http://rubeliptv.zapto.org:25461/ips7/44332277/402
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png" group-title="MUSIC",  4 KURD
 http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="MUSIC",  PMC 
+http://51.210.199.29/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/en/2/29/ZeeMusicCo.jpg" group-title="MUSIC",Zee Music
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 
