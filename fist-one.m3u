@@ -11,13 +11,15 @@ https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies Malaysia
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
+###http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
-https://akamai.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cinemaworld
+###https://akamai.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",Cinemax Asia +1
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -143,11 +145,14 @@ http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", Fox Sports Asia
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport1
+###http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="SPORTS", Fox Sports 2 Asia
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport2
+###http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", Fox Sports 3 Asia
-https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport3
+###https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", FOX SPORT 1 HD (alt)
@@ -208,7 +213,8 @@ http://gpc.my.id/vidio/smithsonian.m3u8
 
 //ENTERTAINMENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="ENTERTAINMENT",AXN East Asia 
-http://babutv.aliflailabd.com:8989/axn-hd/index.m3u8
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=axn
+###http://babutv.aliflailabd.com:8989/axn-hd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="ENTERTAINMENT",Animax Asia 
 http://210.210.155.35/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr.png" group-title="ENTERTAINMENT",ANIplus
@@ -331,7 +337,8 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",HGTV Asia
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_people_asia.png" group-title="LIFESTYLE",  Nat Geo People Asia
-http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeopeople
+###http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="LIFESTYLE", Travel XP
 http://indo51.gcdn.co/hindi-TravelXPHD/tracks-v1a1/mono.m3u8
 
@@ -371,7 +378,8 @@ http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
-http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
+###http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/48914b161eb8786b242fc3c43298c4ccd04197d9766a0c2ee6df21f5e5f15e19.png" group-title="KIDS", LEGO Channel
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
