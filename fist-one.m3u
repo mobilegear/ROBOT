@@ -37,6 +37,8 @@ https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovie
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=flik
 ###http://topwin-tv.my.id/2/master.m3u8?id=flik
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx_us.png" group-title="MOVIES", FX
+http://51.210.199.52/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", Galaxy
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxy
 ###http://topwin-tv.my.id/2/master.m3u8?id=galaxy
