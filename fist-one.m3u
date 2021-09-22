@@ -72,6 +72,20 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",Sky Cinema Action
+http://mydvr220.freeddns.org:80/73/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",Sky Cinema Comedy
+http://mydvr220.freeddns.org:80/72/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",Sky Cinema Drama
+http://mydvr220.freeddns.org:80/76/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",Sky Cinema Family
+http://mydvr220.freeddns.org:80/74/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",Sky Cinema Mystery
+http://mydvr220.freeddns.org:80/75/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",Sky Cinema Sci-fi Horror
+http://mydvr220.freeddns.org:80/77/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",Sky Cinema Premiere
+http://mydvr220.freeddns.org:80/71/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
 http://rubeliptv.zapto.org:25461/ips7/44332277/926
 ##https://is.gd/ObFrpt
@@ -190,6 +204,8 @@ http://iptv.tvmalaysia.cc:80/live/989898/989898/8856.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="KNOWLEDGE",  Discovery Turbo
 http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" group-title="KNOWLEDGE",  Dmax
+http://mydvr220.freeddns.org:80/64/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="KNOWLEDGE", Discovery Science Southeast Asia
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DxwN2m.png" group-title="KNOWLEDGE", Discovery Investigation
@@ -299,14 +315,14 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="NEWS", Russia Today
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png",BBC News
-http://mydvr220.freeddns.org:80/16/video.m3u8
+http://mydvr220.freeddns.org:80/67/video.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id="734" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="NEWS", France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" group-title="NEWS", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-	#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="NEWS", CNA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="NEWS", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmRSyjsW/Arirang-logo.png" group-title="NEWS",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -378,7 +394,10 @@ http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1  group-title="LOCAL" tvg-logo="https://i.postimg.cc/52zQ8bBh/rcti.jpg" group-title="LOCAL",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
-
+//KIDS
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
+###http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS", My Kidz
 http://210.210.155.35/uq2663/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title=" KIDS",Horee
@@ -393,13 +412,10 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
 ###http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
-###http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/48914b161eb8786b242fc3c43298c4ccd04197d9766a0c2ee6df21f5e5f15e19.png" group-title="KIDS", LEGO Channel
-https://legochannel-roku.amagi.tv/playlist.m3u8
 
 
+
+//VOD
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t16RjZq.jpg",Altered Carbon: Resleeved (2020)
 https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/6doKB2T.jpg",Abominable (2019)
