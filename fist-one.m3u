@@ -72,19 +72,19 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",Sky Cinema Action
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",Cinema Action
 http://mydvr220.freeddns.org:80/73/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",Sky Cinema Comedy
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",Cinema Comedy
 http://mydvr220.freeddns.org:80/72/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",Sky Cinema Drama
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",Cinema Drama
 http://mydvr220.freeddns.org:80/76/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",Sky Cinema Family
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",Cinema Family
 http://mydvr220.freeddns.org:80/74/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",Sky Cinema Mystery
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",Cinema Mystery
 http://mydvr220.freeddns.org:80/75/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",Sky Cinema Sci-fi Horror
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",Cinema Sci-fi Horror
 http://mydvr220.freeddns.org:80/77/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",Sky Cinema Premiere
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",Cinema Premiere
 http://mydvr220.freeddns.org:80/71/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
 http://rubeliptv.zapto.org:25461/ips7/44332277/926
