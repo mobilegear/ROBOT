@@ -37,6 +37,8 @@ https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovie
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=flik
 ###http://topwin-tv.my.id/2/master.m3u8?id=flik
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/film-4-uk-uk.png" group-title="MOVIES", Film 4 UK
+http://mydvr220.freeddns.org:80/70/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", Galaxy
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxy
 ###http://topwin-tv.my.id/2/master.m3u8?id=galaxy
@@ -202,7 +204,7 @@ http://iptv.tvmalaysia.cc:80/live/989898/989898/8856.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7078
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" group-title="KNOWLEDGE",  Discovery Turbo
 http://idvd.multitvsolution.com/idvo/turboeng.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" group-title="KNOWLEDGE",  Dmax
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" group-title="KNOWLEDGE",  DMAX UK
 http://mydvr220.freeddns.org:80/64/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="KNOWLEDGE", Discovery Science Southeast Asia
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
