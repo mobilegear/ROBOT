@@ -70,7 +70,7 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES",Showtime
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES",Showtime
 http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Action
 http://mydvr220.freeddns.org:80/73/video.m3u8
@@ -91,9 +91,9 @@ http://rubeliptv.zapto.org:25461/ips7/44332277/926
 ##https://is.gd/ObFrpt
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/corp/ss/starz_us_corp.png" group-title="MOVIES",Starz
 http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_cinema_east.png" group-title="MOVIES",Starz Cinema
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/corp/ss/starz_us_corp.png" group-title="MOVIES",Starz Cinema
 http://stream.tvtap.live:8081/live/us-starzcinema.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES",Starz Encore
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/corp/ss/starz_us_corp.png" group-title="MOVIES",Starz Encore
 http://stream.tvtap.live:8081/live/us-starzencore.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_edge_east.png" group-title="MOVIES",Starz Edge
 http://stream.tvtap.live:8081/live/us-starzedge.stream/playlist.m3u8
