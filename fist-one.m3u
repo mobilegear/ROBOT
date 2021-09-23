@@ -70,8 +70,6 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1, tvg-id="Showtime" tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES",Showtime
-http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Action
 http://mydvr220.freeddns.org:80/73/video.m3u8
 #EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Comedy
@@ -87,16 +85,12 @@ http://mydvr220.freeddns.org:80/77/video.m3u8
 #EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Premiere
 http://mydvr220.freeddns.org:80/71/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
-http://rubeliptv.zapto.org:25461/ips7/44332277/926
-##https://is.gd/ObFrpt
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/corp/ss/starz_us_corp.png" group-title="MOVIES", Starz
-http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8
+https://is.gd/ObFrpt
+###http://rubeliptv.zapto.org:25461/ips7/44332277/926
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_cinema_east.png" group-title="MOVIES", Starz Cinema
 http://stream.tvtap.live:8081/live/us-starzcinema.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES", Starz Encore
 http://stream.tvtap.live:8081/live/us-starzencore.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_edge_east.png" group-title="MOVIES", Starz Edge
-http://stream.tvtap.live:8081/live/us-starzedge.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies
 http://rubeliptv.zapto.org:25461/ips7/44332277/924
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
@@ -213,8 +207,11 @@ http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
 http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 
 //KNOWLEDGE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="KNOWLEDGE", Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+##http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png",BBC Earth Asia
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
