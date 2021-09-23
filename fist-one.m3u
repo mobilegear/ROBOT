@@ -176,10 +176,13 @@ http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
 ##http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="SPORTS",   MU TV
 http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="SPORTS", SuperSport Premier League 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="SPORTS",SuperSport Premier League
 http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
+##http://ux38.gcdn.co/UKS15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png" group-title="SPORTS", SuperSport Motorsport
- http://iptv.tvmalaysia.cc:80/penang170/penang170/7142
+http://iptv.tvmalaysia.cc:80/penang170/penang170/7142
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-news-de.png" group-title="SPORTS", Sky Sport News
+http://ux38.gcdn.co/UKS14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-football-it.png" group-title="SPORTS", Sky Sports Football
 http://ux38.gcdn.co/UKS21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="SPORTS", Sky Sports Premier League
@@ -189,7 +192,7 @@ http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="SPORTS",Sony Ten 2
 http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SPORTS",Star Sports Select 1
-http://babutv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
 http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 
