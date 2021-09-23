@@ -128,33 +128,33 @@ http://iptv.tvmalaysia.cc:80/penang170/penang170/6711
 http://iptv.tvmalaysia.cc:80/penang170/penang170/6712
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",BeIn Sports 1 Indonesia
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 Indonesia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",BeIn Sports 1 English
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 English
 http://ux38.gcdn.co/UKS63/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 English
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 English
 http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS", beIN_SPORTS1_PREMIUM_Digital_Mono
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS", beIn Sports premium 1
 http://xcwsnl28.mrnova.online/live/60080_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS", Bein Sports premium 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS", beIn Sports premium 2
 http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS", Bein Sports premium 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS", beIn Sports premium 3
 http://xcwsnl28.mrnova.online/live/60082_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIN_SPORTS1_DIGITAL_Mono
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 2 Qatar
 http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 Qatar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 Qatar
 http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS",BeIn Sports 3 Qatar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS",beIn Sports 3 Qatar
 http://xcwsnl28.mrnova.online/live/60085_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORTS",BeIn Sports 4 Qatar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORTS",beIn Sports 4 Qatar
 http://xcwsnl28.mrnova.online/live/60086_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORTS",BeIn Sports 5 Qatar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORTS",beIn Sports 5 Qatar
 http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="SPORTS",BeIn Sports 6 Qatar
 http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORTS",BeIn Sports 7 Qatar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORTS",beIn Sports 7 Qatar
 http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS",BeIn Sports Xtra 1 Qatar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS",beIn Sports Xtra 1 Qatar
 http://ux38.gcdn.co/UKS62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sports 1 HD
 http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
