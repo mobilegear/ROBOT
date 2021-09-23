@@ -126,6 +126,8 @@ http://iptv.tvmalaysia.cc:80/penang170/penang170/6712
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",BeIn Sports 1 Indonesia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",BeIn Sports 1 English
+http://ux38.gcdn.co/UKS63/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 English
 http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS", beIN_SPORTS1_PREMIUM_Digital_Mono
