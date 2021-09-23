@@ -70,28 +70,36 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES",Showtime
+#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES",Showtime
 http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Action
+#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Action
 http://mydvr220.freeddns.org:80/73/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Comedy
+#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Comedy
 http://mydvr220.freeddns.org:80/72/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",SKY Drama
+#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",SKY Drama
 http://mydvr220.freeddns.org:80/76/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Family
+#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Family
 http://mydvr220.freeddns.org:80/74/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",SKY Mystery
+#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",SKY Mystery
 http://mydvr220.freeddns.org:80/75/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",SKY Sci-fi Horror
+#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",SKY Sci-fi Horror
 http://mydvr220.freeddns.org:80/77/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Premiere
+#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Premiere
 http://mydvr220.freeddns.org:80/71/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
 http://rubeliptv.zapto.org:25461/ips7/44332277/926
 ##https://is.gd/ObFrpt
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/corp/ss/starz_us_corp.png" group-title="MOVIES",Starz
+http://stream.tvtap.live:8081/live/us-starz.stream/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_cinema_east.png" group-title="MOVIES",Starz Cinema
+http://stream.tvtap.live:8081/live/us-starzcinema.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES",Starz Encore
+http://stream.tvtap.live:8081/live/us-starzencore.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_edge_east.png" group-title="MOVIES",Starz Edge
+http://stream.tvtap.live:8081/live/us-starzedge.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies
 http://rubeliptv.zapto.org:25461/ips7/44332277/924
-#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
