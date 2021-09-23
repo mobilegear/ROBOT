@@ -246,7 +246,8 @@ http://gpc.my.id/vidio/smithsonian.m3u8
 
 //ENTERTAINMENT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="ENTERTAINMENT",AXN East Asia 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=axn
+http://topwin-tv.my.id/2/master.m3u8?id=axn
+##http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=axn
 ###http://babutv.aliflailabd.com:8989/axn-hd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="ENTERTAINMENT",Animax Asia 
 http://210.210.155.35/dr9445/h/h144/index.m3u8
