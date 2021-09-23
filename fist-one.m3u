@@ -70,19 +70,19 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Cinema Action
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Action
 http://mydvr220.freeddns.org:80/73/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Cinema Comedy
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Comedy
 http://mydvr220.freeddns.org:80/72/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",SKY Cinema Drama
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",SKY Drama
 http://mydvr220.freeddns.org:80/76/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Cinema Family
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Family
 http://mydvr220.freeddns.org:80/74/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",SKY Cinema Mystery
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",SKY Mystery
 http://mydvr220.freeddns.org:80/75/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",SKY Cinema Sci-fi Horror
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",SKY Sci-fi Horror
 http://mydvr220.freeddns.org:80/77/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Cinema Premiere
+#EXTINF:-1 tvg-id="" tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Premiere
 http://mydvr220.freeddns.org:80/71/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
 http://rubeliptv.zapto.org:25461/ips7/44332277/926
@@ -128,13 +128,13 @@ http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 English
 http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS", Bein Sports premium 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS", beIN_SPORTS1_PREMIUM_Digital_Mono
 http://xcwsnl28.mrnova.online/live/60080_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS", Bein Sports premium 2
 http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS", Bein Sports premium 3
 http://xcwsnl28.mrnova.online/live/60082_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",BeIn Sports 1 Qatar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIN_SPORTS1_DIGITAL_Mono
 http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",BeIn Sports 2 Qatar
 http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
@@ -275,9 +275,9 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
 http://rubeliptv.zapto.org:25461/ips7/44332277/405
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-persia-ae.png" group-title="ENTERTAINMENT", MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="ENTERTAINMENT",Rock Entertainment
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="ENTERTAINMENT",Blue Ant
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-extreme-sg.png" group-title="ENTERTAINMENT",Rock Extreme
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-extreme-sg.png" group-title="ENTERTAINMENT",Blue Ant Extreme
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
 ###http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-showcase-uk.png" group-title="ENTERTAINMENT",Sky Showcase
