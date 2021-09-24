@@ -163,8 +163,8 @@ http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
 http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORTS",beIn Sports 7 Qatar
 http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS",beIn Sports Xtra 1 Qatar
-http://ux38.gcdn.co/UKS62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="SPORTS",beIn Sports MAX
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sports 1 HD
 http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sports 2 HD
@@ -222,7 +222,8 @@ http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 ##http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://tvmalaysia.cc:80/images/e8dc4f32f701d0c5f9af8fc74bd5b85a.png",BBC Earth Asia
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37449
+####https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/c4zxsW-zV/Discovery-Asia.png" group-title="KNOWLEDGE", Discovery Asia
