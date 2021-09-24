@@ -176,12 +176,14 @@ http://ux38.gcdn.co/UKS40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_global.png" group-title="SPORTS", Fox Sports Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport1
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37429
 ##http://iptv.tvmalaysia.cc:80/139664/139664/6793
-###http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
+###http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport1
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37429
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png" group-title="SPORTS", Fox Sports 2 Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport2
-##http://iptv.tvmalaysia.cc:80/139664/139664/6791
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37430
+#http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport2
+###http://iptv.tvmalaysia.cc:80/139664/139664/6791
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png" group-title="SPORTS", Fox Sports 3 Asia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport3
 ##http://iptv.tvmalaysia.cc:80/139664/139664/6792
