@@ -56,7 +56,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO Malaysia
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37374
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+##https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37374
 ###http://rubeliptv.zapto.org:25461/ips7/44332277/109
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -94,8 +95,7 @@ http://mydvr220.freeddns.org:80/77/video.m3u8
 #EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Premiere
 http://mydvr220.freeddns.org:80/71/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
-https://is.gd/ObFrpt
-###http://rubeliptv.zapto.org:25461/ips7/44332277/926
+http://rubeliptv.zapto.org:25461/ips7/44332277/926
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_cinema_east.png" group-title="MOVIES", Starz Cinema
 http://stream.tvtap.live:8081/live/us-starzcinema.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES", Starz Encore
@@ -308,6 +308,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueant
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-extreme-sg.png" group-title="ENTERTAINMENT",Blue Ant Extreme
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=blueantextreme
 ###http://topwin-tv.my.id/2/master.m3u8?id=blueantextreme
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ENTERTAINMENT",SONY
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-showcase-uk.png" group-title="ENTERTAINMENT",Sky Showcase
 http://mydvr220.freeddns.org:80/55/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-witness-uk.png" group-title="ENTERTAINMENT",Sky Witness 
