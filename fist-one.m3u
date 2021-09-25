@@ -80,19 +80,19 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=imc
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Action
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Action
 http://mydvr220.freeddns.org:80/73/video.m3u8
-#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Comedy
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Comedy
 http://mydvr220.freeddns.org:80/72/video.m3u8
-#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",SKY Drama
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",SKY Drama
 http://mydvr220.freeddns.org:80/76/video.m3u8
-#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Family
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Family
 http://mydvr220.freeddns.org:80/74/video.m3u8
-#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",SKY Mystery
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",SKY Mystery
 http://mydvr220.freeddns.org:80/75/video.m3u8
-#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",SKY Sci-fi Horror
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",SKY Sci-fi Horror
 http://mydvr220.freeddns.org:80/77/video.m3u8
-#EXTINF:-1 tvg-name="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Premiere
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Premiere
 http://mydvr220.freeddns.org:80/71/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
 http://rubeliptv.zapto.org:25461/ips7/44332277/926
@@ -322,7 +322,8 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 ###http://babutv.aliflailabd.com:8989/tlc-hd/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel-channel-usa-us.png" group-title="ENTERTAINMENT", Travel Channel 
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37466
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745781
+##https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37466
 #EXTINF:=1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="ENTERTAINMENT",Warner TV Southeast Asia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="ENTERTAINMENT",Zee Cafe
@@ -343,7 +344,7 @@ https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-channel-romania-ro.png" group-title="MUSIC",Music Channel 
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_au.png" group-title="MUSIC",MTV South East Asia +1 
-http://dituduhmaling.xyz/US33T4/mtvlive.m3u8#
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
 #EXTINF:-1 tvg-logo="http://samara11x11.ucoz.ru/music/PERVIY_MUZIKALNIY.png" group-title="MUSIC",1Mus.com
 http://rubeliptv.zapto.org:25461/ips7/44332277/402
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png" group-title="MUSIC",  4 KURD
