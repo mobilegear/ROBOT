@@ -146,7 +146,8 @@ http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS", beIn Sports premium 1
 http://xcwsnl28.mrnova.online/live/60080_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS", beIn Sports premium 2
-http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
+http://xcwsnl28.mrnova.online/live/60081_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+###http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS", beIn Sports premium 3
 http://xcwsnl28.mrnova.online/live/60082_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 Qatar
