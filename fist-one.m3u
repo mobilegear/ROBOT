@@ -104,6 +104,8 @@ http://stream.tvtap.live:8081/live/us-starzencore.stream/playlist.m3u8
 http://rubeliptv.zapto.org:25461/ips7/44332277/924
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies Select HD
+http://212.102.60.40:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.png" group-title="MOVIES",Star Chinese Movies South East Asia
@@ -153,27 +155,37 @@ http://xcwsnl28.mrnova.online/live/60081_.m3u8?token=895f557054aa4d5abcedbbf64b4
 http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_10HD-ar/tracks-v1a1/index.m3u8
 ###http://xcwsnl28.mrnova.online/live/60082_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 Qatar
-http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://212.102.60.40:2200/EX/bein1FHD-ar/tracks-v1a1/index.m3u8    
+##http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 Qatar
-http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_2HD-ar/tracks-v1a1/index.m3u8
+##http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS",beIn Sports 3 Qatar
-http://xcwsnl28.mrnova.online/live/60085_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_3HD-ar/tracks-v1a1/index.m3u8
+##http://xcwsnl28.mrnova.online/live/60085_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORTS",beIn Sports 4 Qatar
-http://xcwsnl28.mrnova.online/live/60086_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_4HD-ar/tracks-v1a1/index.m3u8
+##http://xcwsnl28.mrnova.online/live/60086_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORTS",beIn Sports 5 Qatar
-http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
+http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/tracks-v1a1/index.m3u8
+##http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="SPORTS",BeIn Sports 6 Qatar
-http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_6HD-ar/tracks-v1a1/index.m3u8
+##http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORTS",beIn Sports 7 Qatar
-http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/tracks-v1a1/index.m3u8
+##http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="SPORTS",beIn Sports MAX
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sports 1 HD
-http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
+http://212.224.98.207:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
+###http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sports 2 HD
-http://sptkid.gcdn.co/btsport2_b/tracks-v1a1/mono.m3u8
+http://212.224.98.209:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=
+###http://sptkid.gcdn.co/btsport2_b/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3 HD
-http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
+http://212.224.98.207:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
+###http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-fr-uk-be.png" group-title="SPORTS",Eleven Sports 1 FR
 http://ux38.gcdn.co/UKS40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
@@ -197,28 +209,34 @@ http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="SPORTS",   MU TV
 http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
-http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
+http://212.224.98.209:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=
+###http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
 ##http://ux38.gcdn.co/UKS15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png" group-title="SPORTS", SuperSport Motorsport
 http://iptv.tvmalaysia.cc:80/penang170/penang170/7142
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-news-de.png" group-title="SPORTS", SkySp News
 http://ux38.gcdn.co/UKS14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-football-it.png" group-title="SPORTS", SkySp F'ball HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-football-it.png" group-title="SPORTS", SKY SPORTS FOOTBALL HD
+http://212.224.98.205:2200/EX/Sky_Sports_Football_HD-uk/index.m3u8?token=
 http://ux38.gcdn.co/UKS21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="SPORTS", SkySp F1
 http://ux38.gcdn.co/UKS24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="SPORTS", SkySp PL
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="SPORTS", SKY SPORTS PREMIER HD
 http://mydvr220.freeddns.org:80/170/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
+http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 http://ux38.gcdn.co/UKS50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="SPORTS",Sony Ten 2
-http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+##http://babutv.aliflailabd.com:8989/sony-ten2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 http://ux38.gcdn.co/UKS32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SPORTS",Star Sports Select 1
-http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
+http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=rk
+##http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
+http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
+##http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 
 //KNOWLEDGE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
