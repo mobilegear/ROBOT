@@ -179,11 +179,9 @@ http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="SPORTS",beIn Sports MAX
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sports 1 HD
-http://212.224.98.207:2200/EX/BT_Sport_1_HD-uk/index.m3u8?token=
-###http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8
+http://mydvr220.freeddns.org:80/87/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sports 2 HD
-http://212.224.98.209:2200/EX/BT_Sport_2_HD-uk/index.m3u8?token=
-###http://sptkid.gcdn.co/btsport2_b/tracks-v1a1/mono.m3u8
+http://mydvr220.freeddns.org:80/88/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3 HD
 http://212.224.98.207:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
 ###http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
