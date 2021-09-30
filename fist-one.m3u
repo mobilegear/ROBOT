@@ -120,6 +120,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=thrill
 ####http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
 #EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="MOVIES", TVN Movies
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
+#EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES", Zee Cinema
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 
 
 
@@ -185,6 +187,8 @@ http://mydvr220.freeddns.org:80/88/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3 HD
 http://212.224.98.207:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
 ###http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-espn-uk.png" group-title="SPORTS",BT Sport ESPN HD
+http://mydvr220.freeddns.org:80/9/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-fr-uk-be.png" group-title="SPORTS",Eleven Sports 1 FR
 http://ux38.gcdn.co/UKS40/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
