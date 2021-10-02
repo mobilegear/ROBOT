@@ -42,8 +42,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=galaxypremium
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO Malaysia
-http://foctv.xyz:25510/Amir5641/YY5641/346
-#https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+#http://foctv.xyz:25510/Amir5641/YY5641/346
 ##https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37374
 ###http://rubeliptv.zapto.org:25461/ips7/44332277/109
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
