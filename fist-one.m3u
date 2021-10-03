@@ -118,9 +118,8 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro SuperSport
 http://ux38.gcdn.co/UKS33/tracks-v1a1/mono.m3u8
-###http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro SuperSport 2
-http://foctv.xyz:25510/Amir5641/YY5641/149###http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+http://foctv.xyz:25510/Amir5641/YY5641/149
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro SuperSport 3
 http://foctv.xyz:25510/Amir5641/YY5641/232
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",Astro SuperSport 4
@@ -129,7 +128,6 @@ http://foctv.xyz:25510/Amir5641/YY5641/249
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 Indonesia
 http://foctv.xyz:25510/Amir5641/YY5641/155
-##http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 Indonesia
@@ -412,8 +410,10 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="LOCAL",Trans 7 
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="LOCAL",SCTV
-http://foctv.xyz:25510/Amir5641/YY5641/37
+https://akamai.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="LOCAL",MNC
 http://cdn-livetv-studio.metube.id/mnctv_480/index.m3u8
 #EXTINF:-1  group-title="LOCAL" tvg-logo="https://media.beritagar.id/2019-09/6cb0582869b7034a7579ee21dc59e0d672e0f0b0.jpg",NET.
