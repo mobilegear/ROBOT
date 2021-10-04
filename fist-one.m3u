@@ -171,10 +171,8 @@ http://mydvr220.freeddns.org:80/88/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3 HD
 http://212.224.98.207:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
 ###http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-espn-uk.png" group-title="SPORTS",BT Sport ESPN HD
-http://mydvr220.freeddns.org:80/9/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-fr-uk-be.png" group-title="SPORTS",Eleven Sports 1 FR
-http://www.magicoiptv.org:8080/hasan/hasan123/454
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="SPORTS",  LFCTV HD
@@ -182,6 +180,8 @@ http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
 ##http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="SPORTS",   MU TV
 http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="SPORTS",Now Sports Prime
+http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
 http://212.224.98.209:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=
 ###http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
@@ -385,10 +385,9 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37411
 https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="LIFESTYLE",FTV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",HGTV Asia
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+###https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",  HGTV UK
 http://mydvr220.freeddns.org:80/1175/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="LIFESTYLE", Travel XP
