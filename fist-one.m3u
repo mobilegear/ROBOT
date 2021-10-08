@@ -68,22 +68,6 @@ http://foctv.xyz:25510/Amir5641/YY5641/71
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-action-uk.png" group-title="MOVIES",SKY Action
-http://mydvr220.freeddns.org:80/73/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Comedy
-http://mydvr220.freeddns.org:80/72/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-drama-uk.png" group-title="MOVIES",SKY Drama
-http://mydvr220.freeddns.org:80/76/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-family-uk.png" group-title="MOVIES",SKY Family
-http://mydvr220.freeddns.org:80/74/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky_de_cinema.png" group-title="MOVIES",SKY Mystery
-http://mydvr220.freeddns.org:80/75/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-sci-fi-horror-uk.png" group-title="MOVIES",SKY Sci-fi Horror
-http://mydvr220.freeddns.org:80/77/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-cinema-premiere-uk.png" group-title="MOVIES",SKY Premiere
-http://mydvr220.freeddns.org:80/71/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="MOVIES",Sony Pix HD
-http://rubeliptv.zapto.org:25461/ips7/44332277/926
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_cinema_east.png" group-title="MOVIES", Starz Cinema
 http://stream.tvtap.live:8081/live/us-starzcinema.stream/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES", Starz Encore
@@ -105,8 +89,11 @@ https://akamai.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MOVIES",Thrill
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=thrill
 ####http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="MOVIES", TVN Movies
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+###http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES", Zee Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 
@@ -242,14 +229,14 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History Asia
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 ###http://topwin-tv.my.id/2/master.m3u8?id=history
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="KNOWLEDGE", Love Nature 4K
-http://rubeliptv.zapto.org:25461/ips7/44332277/917
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeo
-###http://topwin-tv.my.id/2/master.m3u8?id=natgeo
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild Asia
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=natgeowild
-###http://iptv.tvmalaysia.cc/932633/932633/7081
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/smithsonian-channel-us.png" group-title="KNOWLEDGE",  Smithsonian Channel Asia
 http://gpc.my.id/vidio/smithsonian.m3u8
 
@@ -259,7 +246,6 @@ http://gpc.my.id/vidio/smithsonian.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="ENTERTAINMENT",AXN East Asia 
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-##http://topwin-tv.my.id/2/master.m3u8?id=axn
 ###http://babutv.aliflailabd.com:8989/axn-hd/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="ENTERTAINMENT",Animax Asia 
 http://210.210.155.35/dr9445/h/h144/index.m3u8
@@ -385,9 +371,11 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37411
 https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="LIFESTYLE",FTV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",HGTV Asia
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-###https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+###http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",  HGTV UK
 http://mydvr220.freeddns.org:80/1175/video.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="LIFESTYLE", Travel XP
