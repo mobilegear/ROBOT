@@ -162,40 +162,19 @@ http://212.224.98.207:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="SPORTS",  LFCTV HD
-http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
-##http://ux38.gcdn.co/UKS78/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png" group-title="SPORTS",   MU TV
-http://ux38.gcdn.co/UKS77/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="SPORTS",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
-http://212.224.98.209:2200/AFR-EX/SuperSport_Premier_League_FHD-dstv/index.m3u8?token=
-###http://ux38.gcdn.co/SSPremierLeague/tracks-v1a1/mono.m3u8
-##http://ux38.gcdn.co/UKS15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png" group-title="SPORTS", SuperSport Motorsport
 http://iptv.tvmalaysia.cc:80/penang170/penang170/7142
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-news-de.png" group-title="SPORTS", SkySp News
-http://ux38.gcdn.co/UKS14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-football-it.png" group-title="SPORTS", SKY SPORTS FOOTBALL HD
-http://212.224.98.205:2200/EX/Sky_Sports_Football_HD-uk/index.m3u8?token=
-http://ux38.gcdn.co/UKS21/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-f1-de.png" group-title="SPORTS", SkySp F1
-http://ux38.gcdn.co/UKS24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.png" group-title="SPORTS", SKY SPORTS PREMIER HD
-http://mydvr220.freeddns.org:80/170/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
-https://feed.play.mv/live/10005200/hr55LTnS53/1.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="SPORTS",Sony Ten 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/1.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
-http://ux38.gcdn.co/UKS32/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="SPORTS",Star Sports Select 1
-http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=rk
-##http://ux38.gcdn.co/UKS8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2
-http://212.224.98.206:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=rk
-##http://babutv.aliflailabd.com:8989/star-sports-select2/index.m3u8
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
 
 //KNOWLEDGE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -298,11 +277,12 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745781
 #EXTINF:=1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="ENTERTAINMENT",Warner TV Southeast Asia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=warner
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="ENTERTAINMENT",Zee Cafe
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
+##http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
 #EXTINF:-1 tvg-name="Zee Smile" tvg-logo="https://i.imgur.com/52vSTpS.jpg" group-title="ENTERTAINMENT",Zee Smile
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Smile" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="ENTERTAINMENT",Zee TV
-http://rubeliptv.zapto.org:25461/ips7/44332277/389
+http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
 
 
 //MUSIC
