@@ -11,13 +11,18 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies Malaysia
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=celestialmovie
 ###http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_decale.png" group-title="MOVIES",Canal+ Décalé
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3492
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_cine_plus_famiz.png" group-title="MOVIES",Cine+ Famiz
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3500
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_cine_plus_premier.png" group-title="MOVIES",Cine+ Premier
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3497
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES", Cinema World 
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=cinemaworld
-###https://akamai.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+https://akamai.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",Cinemax Asia +1
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -25,8 +30,6 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik
 http://foctv.xyz:25510/Amir5641/YY5641/72
 ###http://topwin-tv.my.id/2/master.m3u8?id=flik
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/film-4-uk-uk.png" group-title="MOVIES", Film 4 UK
-http://mydvr220.freeddns.org:80/70/video.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="MOVIES", Galaxy
@@ -122,50 +125,24 @@ http://foctv.xyz:25510/Amir5641/YY5641/155
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 English
 http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS", beIn Sports premium 1
-http://www.magicoiptv.org:8080/hasan/hasan123/25310
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS", beIn Sports premium 2
-http://www.magicoiptv.org:8080/hasan/hasan123/25321
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS", beIn Sports premium 3
-http://www.magicoiptv.org:8080/hasan/hasan123/73369
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 Qatar
-http://212.102.60.40:2200/EX/bein1FHD-ar/tracks-v1a1/index.m3u8    
-##http://xcwsnl28.mrnova.online/live/60083_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 Qatar
-http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_2HD-ar/tracks-v1a1/index.m3u8
-##http://xcwsnl28.mrnova.online/live/60084_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS",beIn Sports 3 Qatar
-http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_3HD-ar/tracks-v1a1/index.m3u8
-##http://xcwsnl28.mrnova.online/live/60085_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="SPORTS",beIn Sports 4 Qatar
-http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_4HD-ar/tracks-v1a1/index.m3u8
-##http://xcwsnl28.mrnova.online/live/60086_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="SPORTS",beIn Sports 5 Qatar
-http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_5HD-ar/tracks-v1a1/index.m3u8
-##http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="SPORTS",BeIn Sports 6 Qatar
-http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_6HD-ar/tracks-v1a1/index.m3u8
-##http://xcwsnl28.mrnova.online/live/60088_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="SPORTS",beIn Sports 7 Qatar
-http://212.102.60.40:2200/EX/HEVC_BEIN_SPORTS_7HD-ar/tracks-v1a1/index.m3u8
-##http://xcwsnl28.mrnova.online/live/60089_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-max-1-qa-tr.png" group-title="SPORTS",beIn Sports MAX
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sports 1 HD
-http://mydvr220.freeddns.org:80/87/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sports 2 HD
-http://mydvr220.freeddns.org:80/88/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-3-uk.png" group-title="SPORTS",BT Sport 3 HD
-http://212.224.98.207:2200/EX/BT_Sport_3_HD-uk/index.m3u8?token=
-###http://ux38.gcdn.co/UKS79/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="SPORTS",Canal+ Sport HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3495
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_HqXih35YwM/YLXrH6DfEWI/AAAAAAAAG38/D1gofyDp7EUSf9H1ghe3rYllL3v-cSsPwCNcBGAsYHQ/w400-h268/Canal_PremierLeagueBeta.png" group-title="SPORTS",Canal+ Premier League HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/112848
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/canal-plus-moto-gp-125x81.png" group-title="SPORTS",Canal+ MotoGP HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/112847
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-fr-uk-be.png" group-title="SPORTS",Eleven Sports 1 FR
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="SPORTS",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png" group-title="SPORTS", SuperSport Motorsport
-http://iptv.tvmalaysia.cc:80/penang170/penang170/7142
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="SPORTS", RMC Sport1 HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3532
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="SPORTS", RMC Sport2 HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3533
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="SPORTS", RMC Sport3 HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3534
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
