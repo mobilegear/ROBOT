@@ -124,7 +124,7 @@ http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/112848
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/canal-plus-moto-gp-125x81.png" group-title="SPORTS",Canal+ MotoGP HD
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/112847
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-fr-uk-be.png" group-title="SPORTS",Eleven Sports 1 FR
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="SPORTS",Now Sports Prime
