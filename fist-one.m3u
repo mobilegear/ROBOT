@@ -46,9 +46,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO Malaysia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37374
 ###https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
-#http://foctv.xyz:25510/Amir5641/YY5641/346
 ##https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37374
-###http://rubeliptv.zapto.org:25461/ips7/44332277/109
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO Family Asia 
@@ -70,10 +68,6 @@ http://foctv.xyz:25510/Amir5641/YY5641/71
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_cinema_east.png" group-title="MOVIES", Starz Cinema
-http://stream.tvtap.live:8081/live/us-starzcinema.stream/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES", Starz Encore
-http://stream.tvtap.live:8081/live/us-starzencore.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies
 http://rubeliptv.zapto.org:25461/ips7/44332277/924
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
@@ -89,13 +83,12 @@ https://akamai.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png" group-title="MOVIES",Star Chinese Movies Legend
 https://akamai.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MOVIES",Thrill
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=thrill
-####http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
+http://rr2.dens.tv/s/s34/01.m3u8
+##http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="MOVIES", TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-###http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=tvnmovies
 #EXTINF: -1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES", Zee Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 
@@ -215,9 +208,8 @@ http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/K8mr7tpS/5-1.png" group-title="ENTERTAINMENT",KBS World
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",KIX
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+http://rr1.dens.tv/h/h07/index.m3u8
+##https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="ENTERTAINMENT",Lifetime Asia
@@ -227,10 +219,6 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ENTERTAINMENT",SONY
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-showcase-uk.png" group-title="ENTERTAINMENT",Sky Showcase
-http://mydvr220.freeddns.org:80/55/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-witness-uk.png" group-title="ENTERTAINMENT",Sky Witness 
-http://mydvr220.freeddns.org:80/56/video.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="ENTERTAINMENT", SBS Plus International
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -246,8 +234,8 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745781
 #EXTINF:=1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png" group-title="ENTERTAINMENT",Warner TV Southeast Asia
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="ENTERTAINMENT",Zee Cafe
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
-##http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
+##https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
 #EXTINF:-1 tvg-name="Zee Smile" tvg-logo="https://i.imgur.com/52vSTpS.jpg" group-title="ENTERTAINMENT",Zee Smile
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Smile" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="ENTERTAINMENT",Zee TV
@@ -312,8 +300,6 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 ###https://m3u-editor.com/serve/f6961a40-b280-11eb-896f-c748403facf8/291619009
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="LIFESTYLE",Lifestyle & Fashion
 http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dave-uk.png" group-title="LIFESTYLE",Dave UK
-http://mydvr220.freeddns.org:80/36/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="LIFESTYLE", Food Network Asia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37411
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="LIFESTYLE", FTV
@@ -325,10 +311,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",HGTV Asia
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 ###http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",  HGTV UK
-http://mydvr220.freeddns.org:80/1175/video.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tRVtg3Q.png" group-title="LIFESTYLE", Travel XP
-http://indo51.gcdn.co/hindi-TravelXPHD/tracks-v1a1/mono.m3u8
+
 
 //ADULT
 
@@ -359,23 +342,20 @@ http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
 
 //KIDS
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS", Baby First
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
-###http://topwin-tv.my.id/2/master.m3u8?id=babyfirst
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="KIDS", Baby TV
+https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamworks-tv-us.png" group-title="KIDS", DreamWorks
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37456
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="KIDS", My Kidz
-http://210.210.155.35/uq2663/h/h98/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title=" KIDS",Horee
-http://topwin-tv.my.id/2/master.m3u8?id=horee
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=boomerang
-###http://topwin-tv.my.id/2/master.m3u8?id=boomerang
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network Asia
-http://topwin-tv.my.id/2/master.m3u8?id=cartoonnetwork
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="KIDS", Dunia Anak
-http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
-###http://topwin-tv.my.id/2/master.m3u8?id=duniaanak
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="KIDS", Da Vinci Learning
 http://topwin-tv.my.id/2/master.m3u8?id=davinci
 
