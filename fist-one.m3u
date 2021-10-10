@@ -68,12 +68,10 @@ http://foctv.xyz:25510/Amir5641/YY5641/71
 ###http://topwin-tv.my.id/2/master.m3u8?id=imc
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies
-http://rubeliptv.zapto.org:25461/ips7/44332277/924
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="All", Sony Pix HD
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies Select HD
-http://212.102.60.40:2200/R-EX/ENGLISH_STAR_MOVIES_SELECT_HD-in/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.png" group-title="MOVIES",Star Chinese Movies South East Asia
@@ -98,25 +96,12 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 //SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="SPORTS",Astro SuperSport
-http://ux38.gcdn.co/UKS33/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="SPORTS",Astro SuperSport 2
-http://foctv.xyz:25510/Amir5641/YY5641/149
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro SuperSport 3
-http://iptv.tvmalaysia.cc/jalan8/jalan8/6711
-###http://foctv.xyz:25510/Amir5641/YY5641/232
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="SPORTS",Astro SuperSport 4
-http://foctv.xyz:25510/Amir5641/YY5641/249
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS", NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 Indonesia
-http://foctv.xyz:25510/Amir5641/YY5641/155
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 Indonesia
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 English
-http://ux38.gcdn.co/UKS64/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalplus_fr_sport.png" group-title="SPORTS",Canal+ Sport HD
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/3495
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_HqXih35YwM/YLXrH6DfEWI/AAAAAAAAG38/D1gofyDp7EUSf9H1ghe3rYllL3v-cSsPwCNcBGAsYHQ/w400-h268/Canal_PremierLeagueBeta.png" group-title="SPORTS",Canal+ Premier League HD
@@ -174,7 +159,6 @@ http://stream.tvtap.live:8081/live/us-investigation-discovery.stream/playlist.m3
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History Asia
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-###http://topwin-tv.my.id/2/master.m3u8?id=history
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic Asia
