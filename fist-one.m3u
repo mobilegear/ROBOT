@@ -25,10 +25,6 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?sourc
 https://akamai.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",Cinemax Asia +1
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-#EXTINF:-1 tvg-id="CinemaxHD2" group-title="MOVIES" tvg-logo="https://i.ibb.co/ZS8SLXj/cinemaxlogo.png",CinemaxHD2 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3 
-https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="MOVIES", Flik
