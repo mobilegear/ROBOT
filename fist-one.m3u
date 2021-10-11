@@ -204,8 +204,12 @@ http://rr1.dens.tv/h/h07/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="ENTERTAINMENT",Lifetime Asia
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 ###http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=lifetime
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_action.png" group-title="ENTERTAINMENT", MBC Action
+https://au7live.tooliserver.com/live/149013_0.m3u8?session=
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-persia-ae.png" group-title="ENTERTAINMENT", MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-variety-plus-ae.png" group-title="ENTERTAINMENT", MBC Variety +
+https://au7live.tooliserver.com/live/149017_0.m3u8?session=
 #EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ENTERTAINMENT",SONY
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="ENTERTAINMENT", SBS Plus International
@@ -239,8 +243,6 @@ http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_au.png" group-title="MUSIC",MTV South East Asia +1 
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
-#EXTINF:-1 tvg-logo="http://samara11x11.ucoz.ru/music/PERVIY_MUZIKALNIY.png" group-title="MUSIC",1Mus.com
-http://rubeliptv.zapto.org:25461/ips7/44332277/402
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png" group-title="MUSIC",  4 KURD
 http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="MUSIC",  PMC 
@@ -251,8 +253,6 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 //NEWS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="NEWS", Russia Today
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.png",BBC News
-http://mydvr220.freeddns.org:80/67/video.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/BBC_World_News_logo.png",BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id="734" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="NEWS", France 24
@@ -271,6 +271,8 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NEWS", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_news_24.png" group-title="NEWS", Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="NEWS", Africa News
 https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/africanews.m3u8
 
