@@ -52,9 +52,11 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 ########EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="MOVIES", IMC
 http://foctv.xyz:25510/Amir5641/YY5641/71
-#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="MOVIES",MBC 2 HD
+#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_1.png" group-title="MOVIES",MBC HD
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES",MBC 2 HD
 https://au7live.tooliserver.com/live/149010_0.m3u8?session=
-#EXTINF: -1 tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="MOVIES",MBC MAX HD
+#EXTINF: -1 tvg-name="MBC MAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_max.png" group-title="MOVIES",MBC MAX HD
 https://au7live.tooliserver.com/live/149015_0.m3u8?session=
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
