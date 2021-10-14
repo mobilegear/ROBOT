@@ -88,6 +88,11 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 //SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 
+http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/4.ts
+###http://209.145.58.109:25461/myapp/omohaktv/31
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 
+http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/5.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 Indonesia
@@ -107,6 +112,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 ##https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF: -1 group-title = "SPORTS" tvg-logo = "https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png",TRUE PREMIER 2
+http://209.145.58.109:25461/myapp/omohaktv/35
 
 
 //KNOWLEDGE
