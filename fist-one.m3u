@@ -61,6 +61,8 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37462
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="MOVIES",Star Movies Select HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/24
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.png" group-title="MOVIES",Star Chinese Movies South East Asia
@@ -76,6 +78,8 @@ http://rr2.dens.tv/s/s34/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="MOVIES", TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES",Zee Cinema
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/579
 
 
 
@@ -203,6 +207,10 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-extreme-sg.png" group-title="ENTERTAINMENT" ,Rock Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_hk.png" group-title="ENTERTAINMENT" ,Star World
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/5
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_premiere_hd_in.png" group-title="ENTERTAINMENT" ,Star World Premiere HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/23
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="ENTERTAINMENT", SBS Plus International
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
