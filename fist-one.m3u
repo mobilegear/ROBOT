@@ -88,14 +88,6 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 //SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png" group-title="SPORTS", Astro Super Sport 1
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334675
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png" group-title="SPORTS", Astro Super Sport 2
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334676
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png" group-title="SPORTS", Astro Super Sport 3
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334677
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Astro_Supersport_HD.png/200px-Astro_Supersport_HD.png" group-title="SPORTS", Astro Super Sport 4
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334678
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 
 http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/4.ts
 ###http://209.145.58.109:25461/myapp/omohaktv/31
@@ -117,8 +109,12 @@ http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS",NBA TV
+http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99253
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="SPORTS",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-tr.png" group-title="SPORTS", Spor Smart HD
+http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99233
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
