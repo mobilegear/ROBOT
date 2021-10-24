@@ -85,7 +85,7 @@ http://rr2.dens.tv/s/s34/01.m3u8
 #EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="MOVIES", TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #####EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES",Zee Cinema
-http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/579
+http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 
 
 
@@ -94,16 +94,10 @@ http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/579
 //SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:0,Astro SuperSport HD 
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6708
-#EXTINF:0,Astro SuperSport 2 HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
-#EXTINF:0,Astro SuperSport 3 HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
-#EXTINF:0,Astro SuperSport 4 HD
-http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="SPORTS",beIn Sports News
 http://aromaiptv.net:80/live/88842233999/4W0sOISMAb/351.ts
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="SPORTS",Super sport
+http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96127
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 
 http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/4.ts
 ###http://209.145.58.109:25461/myapp/omohaktv/31
