@@ -96,7 +96,7 @@ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="SPORTS",beIn Sports News
 http://aromaiptv.net:80/live/88842233999/4W0sOISMAb/351.ts
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="SPORTS",Super sport
+#EXTINF:0 tvg-logo="" group-title="SPORTS",Super sport
 http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96127
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 
 http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/4.ts
