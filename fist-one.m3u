@@ -97,8 +97,8 @@ http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 http://aromaiptv.net:80/live/88842233999/4W0sOISMAb/351.ts
 #EXTINF:0 tvg-logo="" group-title="SPORTS",Super sport
 http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96127
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 
-http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/4.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 English
+http://eurotv.vip:80/7788/7788/34126
 ###http://209.145.58.109:25461/myapp/omohaktv/31
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 
 http://172.107.226.94:25461/live/upvckuzx/rgdfdh1/5.ts
