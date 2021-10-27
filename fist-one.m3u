@@ -57,8 +57,6 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://foctv.xyz:25510/Amir5641/YY5641/71
 #EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_1.png" group-title="MOVIES",MBC HD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES",MBC 2
-http://client.iamsafe.cc:8080/AG8uVhqlI9/VlYxbKRWjy/2425
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-us.png" group-title="MOVIES", Paramount Network
@@ -164,6 +162,8 @@ https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History Asia
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE",  Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic Asia
@@ -236,8 +236,7 @@ http://eurotv.vip:80/7788/7788/53232
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="HOME ENTERTAINMENT",Zee Cafe
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
-#EXTINF:-1 tvg-name="Zee Smile" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-tv-in.png" group-title="HOME ENTERTAINMENT",Zee TV
-http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
+
 
 
 //MUSIC
