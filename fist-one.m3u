@@ -114,10 +114,11 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 ##http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIn Sports 2 Premium
-http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-fr-uk-be.png" group-title="SPORTS",Eleven Sports 1 FR
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+##http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",Eleven Sports 1 FR
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-fr-uk-be.png" group-title="SPORTS",Eleven Sports 2 FR
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="SPORTS",Eleven Sports 2 FR
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -152,6 +153,10 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 ##https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF: -1 group-title = "SPORTS" tvg-logo = "https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png", SuperSport LaLiga
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.m3u8
+#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",SuperSport Premier League
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u
 
 
 
@@ -372,23 +377,25 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network Asia
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nickelodeon_small.png" tvg-id="BathokGpc" tvg-name="nickelodeon" group-title="KIDS",nickelodeon
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nickelodeon_small.png" tvg-name="nickelodeon" group-title="KIDS",nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nickjr_small.png" tvg-id="BathokGpc" tvg-name="nickjr" group-title="KIDS",nickjr
+#EXTINF:-1 tvg-logo="https://media.baamboozle.com/uploads/images/26124/1604620069_27268" tvg-name="" group-title="KIDS",Netflix Kids
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52200.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nickjr_small.png"  tvg-name="nickjr" group-title="KIDS",nickjr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png" tvg-id="BathokGpc" tvg-name="Cbeebies" group-title="KIDS",Cbeebies
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png" tvg-name="Cbeebies" group-title="KIDS",Cbeebies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
-#EXTINF:-1 tvg-logo="https://webdev.mncvision.id/userfiles/image/channel/channel_46.png" tvg-id="BathokGpc" tvg-name="Kids tv" group-title="KIDS",Kids tv
+#EXTINF:-1 tvg-logo="https://webdev.mncvision.id/userfiles/image/channel/channel_46.png" tvg-name="Kids tv" group-title="KIDS",Kids tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg" tvg-id="BathokGpc" tvg-name="Miao Mi" group-title="KIDS",Miao Mi
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/miawme150x150.jpg" tvg-name="Miao Mi" group-title="KIDS",Miao Mi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
