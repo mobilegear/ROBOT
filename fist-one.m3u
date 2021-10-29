@@ -153,9 +153,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 ##https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF: -1 group-title = "SPORTS" tvg-logo = "https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png", SuperSport LaLiga
+#EXTINF: -1 tvg-logo = "https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title = "SPORTS" , SuperSport LaLiga
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.m3u8
-#EXTINF: -1 group-title = "VÕ PHÚ" tvg-logo = "https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",SuperSport Premier League
+#EXTINF: -1 tvg-logo = "https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title = "SPORTS" ,SuperSport Premier League
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u
 
 
