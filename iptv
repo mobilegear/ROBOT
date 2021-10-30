@@ -93,13 +93,17 @@ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 //SPORTS
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro SuperSport 3
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54208.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="SPORTS",beIn Sports News
 http://aromaiptv.net:80/live/88842233999/4W0sOISMAb/351.ts
-#EXTINF:0 tvg-logo="" group-title="SPORTS",Super sport
+#EXTINF:0 tvg-logo="" group-title="SPORTS",O2
 http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96127
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 English
 http://eurotv.vip:80/7788/7788/34126
 ###http://209.145.58.109:25461/myapp/omohaktv/31
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2
+http://23.88.39.74:80/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" tvg-id="BathokGpc" tvg-name="bein1" group-title="SPORTS",beIn Sports 1 Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -109,8 +113,8 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 Indonesia
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS",beIn Sports 1 Premium
-http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
-##http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8
+##http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIn Sports 2 Premium
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 ##http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
@@ -145,7 +149,8 @@ http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spor-smart-tr.png" group-title="SPORTS", Spor Smart HD
 http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99233
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+##http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="SPORTS",Sony Ten 2
@@ -157,6 +162,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="SPORTS", True Premier 2
+https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
+
 
 
 //KNOWLEDGE
@@ -199,6 +207,8 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 
 //HOME ENTERTAINMENT 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="HOME ENTERTAINMENT",AT-X
+https://sub2.neetball.net/live/neet.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="HOME ENTERTAINMENT",AXN East Asia 
