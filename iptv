@@ -7,7 +7,6 @@
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies Malaysia
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
-#http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/09cb1Xp/unnamed.png" group-title="MOVIES",CineLife
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?source:iptvmate.net
 EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MOVIES",Cinema World
@@ -57,8 +56,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://foctv.xyz:25510/Amir5641/YY5641/71
 #EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_1.png" group-title="MOVIES",MBC HD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",MCN
-http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",Star Movies
+http://mytv.fun:8080/x0s6e03qls/a1vdkqk9a/3981
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-us.png" group-title="MOVIES", Paramount Network
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37462
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony Pix HD
@@ -66,25 +65,17 @@ https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies (Arabic)
 http://eurotv.vip:80/7788/7788/42003
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="MOVIES",Star Movies HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+http://mytv.fun:8080/x0s6e03qls/a1vdkqk9a/3981
+##http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 ###http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.png" group-title="MOVIES",Star Chinese Movies South East Asia
-https://akamai.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_24.png" group-title="MOVIES",Star Chinese Movies Legend
-https://akamai.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="MOVIES",Thrill
 http://rr2.dens.tv/s/s34/01.m3u8
-##http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1 tvg-logo="https://mantul.org/logo/tvnmovies.png" group-title="MOVIES", TVN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #####EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cinema-in.png" group-title="MOVIES",Zee Cinema
-http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+http://mytv.fun:8080/x0s6e03qls/a1vdkqk9a/672452
 
 
 
@@ -101,7 +92,6 @@ http://aromaiptv.net:80/live/88842233999/4W0sOISMAb/351.ts
 http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96127
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 English
 http://eurotv.vip:80/7788/7788/34126
-###http://209.145.58.109:25461/myapp/omohaktv/31
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2
 http://23.88.39.74:80/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" tvg-id="BathokGpc" tvg-name="bein1" group-title="SPORTS",beIn Sports 1 Indonesia
@@ -114,10 +104,8 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS",beIn Sports 1 Premium
 http://88.barouhn.xyz.global.prod.fastly.net/live/6161655/index.m3u8
-##http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIn Sports 2 Premium
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
-##http://88.barouhn.xyz.global.prod.fastly.net/live/616194987/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52241.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",Eleven Sports 1 FR
@@ -394,7 +382,6 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
-
 #EXTINF:-1 tvg-logo="https://media.baamboozle.com/uploads/images/26124/1604620069_27268" tvg-name="" group-title="KIDS",Netflix Kids
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52200.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nickjr_small.png"  tvg-name="nickjr" group-title="KIDS",nickjr
