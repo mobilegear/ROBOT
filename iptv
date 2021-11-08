@@ -56,6 +56,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 http://foctv.xyz:25510/Amir5641/YY5641/71
 #EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_1.png" group-title="MOVIES",MBC HD
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES",MBC HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62476
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",Star Movies
 http://mytv.fun:8080/x0s6e03qls/a1vdkqk9a/3981
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-us.png" group-title="MOVIES", Paramount Network
@@ -86,12 +88,12 @@ http://mytv.fun:8080/x0s6e03qls/a1vdkqk9a/672452
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="SPORTS",Astro SuperSport 3
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54208.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_news.png" group-title="SPORTS",beIn Sports News
-http://aromaiptv.net:80/live/88842233999/4W0sOISMAb/351.ts
 #EXTINF:0 tvg-logo="" group-title="SPORTS",O2
 http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/96127
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1 English
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="SPORTS",beIn Sports 1 English
 http://eurotv.vip:80/7788/7788/34126
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",beIn Sports 1
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62544
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2
 http://23.88.39.74:80/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" tvg-id="BathokGpc" tvg-name="bein1" group-title="SPORTS",beIn Sports 1 Indonesia
@@ -103,9 +105,11 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2 Indonesia
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS",beIn Sports 1 Premium
-http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62541
+##http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIn Sports 2 Premium
-http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62542
+##http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52241.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",Eleven Sports 1 FR
