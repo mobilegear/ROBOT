@@ -93,10 +93,6 @@ https://95-213-172-222.livesports24.online/ruseurosport2.m3u8
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="SPORTS",Eurosport 2
 https://95-213-172-222.livesports24.online/ruseurosport2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",Eleven Sports 1 FR
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="SPORTS",Eleven Sports 2 FR
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -115,27 +111,20 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS",NBA TV
-http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/99253
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="SPORTS",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-it.png" group-title="SPORTS", Sky Sport Football
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/15406
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-##http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
 #EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="SPORTS",Sony Ten 2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS",SuperSport LaLiga
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="SPORTS", True Premier 2
-https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS",SuperSport Laliga
+http://cro.hockeynews.club/live/2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS",SuperSport Premiere League
+http://cro.hockeynews.club/live/1/chunks.m3u8
 
 //KNOWLEDGE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -313,8 +302,6 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37411
 https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FTVMidnightSecret_466x466.png" group-title="LIFESTYLE",FTV Midnight Secrets 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/romance_tv_pl.png" group-title="LIFESTYLE",Romance TV 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52275.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",HGTV Asia
@@ -472,3 +459,18 @@ https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEg
 https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iPBjM6y.jpg",The Emoji Movie (2017)
 https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
+#EXTINF:-1,Despicable Me - 2010
+http://qqtv.nl:8080/movie/masud/masud/322524.mp4
+#EXTINF:-1,Despicable Me 2 - 2013
+http://qqtv.nl:8080/movie/masud/masud/331023.mp4
+#EXTINF:-1,Despicable Me 3 (Arabic sub) - 2017
+http://qqtv.nl:8080/movie/masud/masud/269363.mkv
+#EXTINF:-1,Finding Dory - 2016
+http://qqtv.nl:8080/movie/masud/masud/269448.mkv
+#EXTINF:-1,Finding Nemo (2003)
+http://qqtv.nl:8080/movie/masud/masud/349067.mp4
+#EXTINF:-1,Leap - 2017
+http://qqtv.nl:8080/movie/masud/masud/273836.mkv
+#EXTINF:-1,The Good Dinosaur (2015)
+http://qqtv.nl:8080/movie/masud/masud/322327.mp4
+
