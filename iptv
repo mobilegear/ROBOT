@@ -70,6 +70,16 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 //SPORTS
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WVwSv3S/Astro-arena2-encep.png" group-title="SPORTS",Astro Arena 
+http://104.215.150.112:19440/play/ARENAHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 1
+http://104.215.150.112:19440/play/ASSP1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 2
+http://104.215.150.112:19440/play/ASSP2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 3
+http://104.215.150.112:19440/play/ASSP3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 4
+http://104.215.150.112:19440/play/ASSP4/index.m3u8
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_55.png" group-title="SPORTS",beIn Sports 1 French
 http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3853
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_56.png" group-title="SPORTS",beIn Sports 2 French
@@ -153,6 +163,8 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild Asia
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE",Smithsonian
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
 
@@ -170,6 +182,10 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr.png" group-title="HOME ENTERTAINMENT",ANIplus
 http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUE ANT ENTERTAINMENT" tvg-logo="" group-title="HOME ENTERTAINMENT",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/session/d149be28-5fd8-11ec-a8d2-c81f66f89318/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLUE ANT EXTREME" tvg-logo="" group-title="HOME ENTERTAINMENT",BLUE ANT EXTREME
+http://210.210.155.35/session/e54c663c-5fd8-11ec-a8d2-c81f66f89318/dr9445/h/h15/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" group-title="HOME ENTERTAINMENT",Crime + Investigation Asia
@@ -180,8 +196,6 @@ https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai_one.png" group-title="HOME ENTERTAINMENT",Dubai One 
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="hthttps://i.pinimg.com/564x/08/d5/e9/08d5e94768b2a67efd06fd185f69b581.jpg" group-title="HOME ENTERTAINMENT",E!
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52238.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="HOME ENTERTAINMENT",K-Plus
 http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/K8mr7tpS/5-1.png" group-title="HOME ENTERTAINMENT",KBS World
