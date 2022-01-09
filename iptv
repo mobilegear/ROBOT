@@ -14,25 +14,29 @@ EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworl
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-#EXTINF:-1 tvg-id="ITBA33000238E" tvg-chno="4503" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/06/ITBA33000238E_20201118T003400.png" group-title="Film",Cinema Segreto
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/06/ITBA33000238E_20201118T003400.png" group-title="MOVIES",Cinema Segreto
 https://9e46da7e898449668789c1b36e25aea6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_CinemaSegreto/playlist.m3u8?ads.wurl_channel=608&ads.wurl_name=CinemaSegreto&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" tvg-id="BathokGpc" tvg-name="Cinemax" group-title="MOVIES",Cinemax Asia +1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 ##https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small.png" group-title="MOVIES",Flik
+https://lnk.ec/FLIK?shareext.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png" group-title="MOVIES",FMN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="http://iptv.nullpress.xyz:8080/images/e03239b27e34a5f7f3bde739459dd537.png" group-title="MOVIES",Galaxy
+https://lnk.ec/galaxy?shareext.ts
+#EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/e91c148e4a522735af840d330b2c4c9e.png" group-title="MOVIES",Galaxy Premium
+https://lnk.ec/GALAXYPREM?shareext.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-id="MCN" tvg-name="MCN" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO Malaysia
-https://gratismkctv.net/film/hbo.m3u8
-##https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37374
-###https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="http://iptv.nullpress.xyz:8080/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="MOVIES",HBO
+https://kopiku.my.id/inr/hbo2.m3u8?channel=hbo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="MOVIES",HBO Family Asia 
@@ -86,8 +90,10 @@ http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3853
 http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3854
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_57.png" group-title="SPORTS",beIn Sports 3 French
 http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3855
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN002BeINSport01.png" group-title="SPORTS",beIn Sports 1 
+http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2140
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2
-http://23.88.39.74:80/live/69854211/index.m3u8
+http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2139
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" tvg-id="BathokGpc" tvg-name="bein1" group-title="SPORTS",beIn Sports 1 Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -237,7 +243,8 @@ http://eurotv.vip:80/7788/7788/53232
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="HOME ENTERTAINMENT",Zee Cafe
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
-
+#EXTINF:-1 tvg-logo="http://iptv.nullpress.xyz:8080/images/9969517f2bbdaf765a18efc20091aeab.png" group-title="HOME ENTERTAINMENT",Waku Waku Japan
+https://lnk.ec/waku2?shareext.ts
 
 
 //MUSIC
@@ -1133,108 +1140,7 @@ http://srv21.nf21.net/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
 https://dl.dropboxusercontent.com/s/54ju0mn1gl2t8bh/Nonton%20Film%20Lorong%20%282019%29%20Ganool%20Movie%20Lk21%20Indoxx1%20Subtitle%20Indonesia%20Streaming%20Download%20-%20PlanetFilm21.mp4?dl=0
 #EXTINF:-1 group-title="SDM-VOD Indonesia" tvg-logo="https://i.ibb.co/682ypgM/5-Cowok-Jagoan-2017.jpg",5 Cowok Jagoan (2017)
 http://srv18.nf21.net/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 01
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050078
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 02
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050079
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 03
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050080
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 04
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050081
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 05
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050082
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 06
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050083
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 07
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050084
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 08
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050085
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 09
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050086
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 10
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050087
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 11
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050088
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 12
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050089
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 13
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050090
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 14
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050091
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 15
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050092
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 16
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050093
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 17
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050094
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 18
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050095
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 19
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050096
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 20
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050097
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 21
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050098
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 22
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050099
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 23
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050100
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 24
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050101
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 25
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050102
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 26
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050103
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 27
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050104
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 28
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050105
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 29
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050106
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 30
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050107
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 31
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050108
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 32
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050109
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 33
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050110
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 34
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050111
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 35
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050112
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 36
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050113
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 37
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050114
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 38
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050115
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 39
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050116
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 40
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050117
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 41
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050118
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 42
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050119
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 43
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050120
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 44
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050121
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 45
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050122
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 46
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050123
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 47
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050124
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 48
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050125
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 49
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050126
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 50
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050127
-#EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto SD 51
-https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050128
+
 #EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto Shippuden E001
 https://m3u-editor.com/serve/16282370-57f2-11eb-9cb7-01d5277a805b/188050129
 #EXTINF:-1 group-title="SDM-Anime" tvg-logo="https://ibb.co/W3LKg0n",Naruto Shippuden E002
@@ -2461,3 +2367,74 @@ https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
 #EXTINF:-1 group-title="VOD 2021" tvg-logo="https://i.imgur.com/M2Dczt1.jpg",Insight (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Benyamin Biang Kerok (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA6eQzZr130PEefGckeEegJr4M.jpg" group-title="Film Indonesia Jadul",Benyamin Biang Kerok (1972)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38666.
+#EXTINF:-1 tvg-id="" tvg-name="Benyamin Tukang Ngibul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pOQOKeF322AVpzDiUL7AaqjQHR.jpg" group-title="Film Indonesia Jadul",Benyamin Tukang Ngibul
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38667.
+#EXTINF:-1 tvg-id="" tvg-name="Bumi Bulat Bundar (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCKBUylisaBXK5GXDvvoY40QHQ2.jpg" group-title="Film Indonesia Jadul",Bumi Bulat Bundar (1983)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38668.
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16QYLpfOcZVp5KwohKYVZbGuosP.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy (1987)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38669.
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 2 (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLmvs1p9aX9lWrarw7hraIyHk8S.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy 2 (1988)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38670.
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 3 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFxBbBeSA0doyP4ZDCIrSAvK8BR.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy 3 (1989)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38671.
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 4 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc7LKrdBKbKNnEtWKR7AmLcItcN.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy 4 (1990)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38672.
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 5 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dySyKYfUHS41jQCbYrkVoAFduSN.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy 5 (1991)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38673.
+#EXTINF:-1 tvg-id="" tvg-name="Gadis Pendekar (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toCvWrpx25gp7bNls0XbqrjuvUI.jpg" group-title="Film Indonesia Jadul",Gadis Pendekar (1990)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38674.
+#EXTINF:-1 tvg-id="" tvg-name="Buronan (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOa99fEII3qhqDteOu8JhwV5Cel.jpg" group-title="Film Indonesia Jadul",Buronan (1989)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38675.
+#EXTINF:-1 tvg-id="" tvg-name="Gundala Putra Petir (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80ksFYULtLM1bvnKXFE7LBVpG0x.jpg" group-title="Film Indonesia Jadul",Gundala Putra Petir (1981)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38676.
+#EXTINF:-1 tvg-id="" tvg-name="Isabella (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9ssZ5cZ77XmNdGycIP1FnO7xXT.jpg" group-title="Film Indonesia Jadul",Isabella (1990)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38677.
+#EXTINF:-1 tvg-id="" tvg-name="Jampang (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iQXqLv7WSlbMel8cbFBDZ3xx01.jpg" group-title="Film Indonesia Jadul",Jampang (1989)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38678.
+#EXTINF:-1 tvg-id="" tvg-name="Mandala Dari Sungai Ular (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa1ZGYNTdDYvXVGT5ENLzuFNwhP.jpg" group-title="Film Indonesia Jadul",Mandala Dari Sungai Ular (1987)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38679.
+#EXTINF:-1 tvg-id="" tvg-name="Mat Peci (Pembunuh Berdarah Dingin) (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQTUftug6xlepihXwVkwK7VbmSu.jpg" group-title="Film Indonesia Jadul",Mat Peci (Pembunuh Berdarah Dingin) (1978)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38680.
+#EXTINF:-1 tvg-id="" tvg-name="Musuh Bebuyutan (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS0dcECfq25meSiLgx0ftHE1TkZ.jpg" group-title="Film Indonesia Jadul",Musuh Bebuyutan (1974)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38681.
+#EXTINF:-1 tvg-id="" tvg-name="Nagabonar (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="Film Indonesia Jadul",Nagabonar (1986)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38682.
+#EXTINF:-1 tvg-id="" tvg-name="Ngipri Monyet (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="Film Indonesia Jadul",Ngipri Monyet (1988)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38683.
+#EXTINF:-1 tvg-id="" tvg-name="Pasukan Berani Mati (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdE9FSA4CxsIzFmNWtLc4ZzFefw.jpg" group-title="Film Indonesia Jadul",Pasukan Berani Mati (1982)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38684.
+#EXTINF:-1 tvg-id="" tvg-name="Pengkhianatan G30S/PKI (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="Film Indonesia Jadul",Pengkhianatan G30S/PKI (1984)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38685.
+#EXTINF:-1 tvg-id="" tvg-name="Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="Film Indonesia Jadul",Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38686.
+#EXTINF:-1 tvg-id="" tvg-name="Ratu Ilmu Hitam (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x46YkvYKZJeNI78UCCWPXPETlLJ.jpg" group-title="Film Indonesia Jadul",Ratu Ilmu Hitam (1981)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38687.
+#EXTINF:-1 tvg-id="" tvg-name="Sangkuriang (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCsmjUv4ObOcjHW8CfJ8OImlrsW.jpg" group-title="Film Indonesia Jadul",Sangkuriang (1982)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38688.
+#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh Satria Madangkara (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="Film Indonesia Jadul",Saur Sepuh Satria Madangkara (1988)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38689.
+#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh II: Pesanggrahan Keramat (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="Film Indonesia Jadul",Saur Sepuh II: Pesanggrahan Keramat (1989)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38690.
+#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh III: Kembang Gunung Lawu (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="Film Indonesia Jadul",Saur Sepuh III: Kembang Gunung Lawu (1990)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38691.
+#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh IV: Titisan Darah Biru (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="Film Indonesia Jadul",Saur Sepuh IV: Titisan Darah Biru (1991)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38692.
+#EXTINF:-1 tvg-id="" tvg-name="Sengatan Kobra (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9crmRcrceS2ND5W31KlH9BAuXur.jpg" group-title="Film Indonesia Jadul",Sengatan Kobra (1986)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38693.
+#EXTINF:-1 tvg-id="" tvg-name="Sipitung (Banteng Betawi) (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rORhdiLWiTBY8cxhZoaciWlLIo1.jpg" group-title="Film Indonesia Jadul",Sipitung (Banteng Betawi) (1970)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38694.
+#EXTINF:-1 tvg-id="" tvg-name="Sunan Kalijaga (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY4NX9gJbsY9NFQXmldoeDsUIfA.jpg" group-title="Film Indonesia Jadul",Sunan Kalijaga (1983)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38695.
+#EXTINF:-1 tvg-id="" tvg-name="7 Wanita Dalam Tugas Rahasia (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FRur4khKxGohSn2L5AWI1NeflY.jpg" group-title="Film Indonesia Jadul",7 Wanita Dalam Tugas Rahasia (1983)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38696.
+#EXTINF:-1 tvg-id="" tvg-name="Si Buta lawa Jaka Sembung (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iUU9VuGmpYAma3cvc0nyFB0KKe.jpg" group-title="Film Indonesia Jadul",Si Buta lawa Jaka Sembung (1983)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38697.
+#EXTINF:-1 tvg-id="" tvg-name="Bajing ireng dan jaka sembung (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBtQMSlHq5SCwtGcSfwVBA2xwLr.jpg" group-title="Film Indonesia Jadul",Bajing ireng dan jaka sembung (1985)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38698.
+#EXTINF:-1 tvg-id="" tvg-name="Jaka Sembung (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBtQMSlHq5SCwtGcSfwVBA2xwLr.jpg" group-title="Film Indonesia Jadul",Jaka Sembung (1981)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38699.
+#EXTINF:-1 tvg-id="" tvg-name="Tjoet Nja' Dhien (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1pkmmIyNF2CpjDzeSdZt8LBNln.jpg" group-title="Film Indonesia Jadul",Tjoet Nja' Dhien (1988)
+http://www.goldentv.tech:25461/movie/Perfecto/170721/38700.
