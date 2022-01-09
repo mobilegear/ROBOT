@@ -470,8 +470,6 @@ https://lh3.googleusercontent.com/hvynYOx9j_qy7ulK_56btmYgPSMa-sQTS4B9MxxEjq3UBu
 https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/PWoYCT6.jpg",Coco (2017)
 https://lh3.googleusercontent.com/GBTJcqGzVbS7NtC7s2ZtMjutY6-q79IklurElMHHsHyge5HOEcteZjlPhsk6Lsw5APJl5nBe_E0zKdRm5A=m22
-#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8gmHuxi.jpg",Early Man (2018)
-http://www.goldentv.tech:25461/movie/Perfecto/170721/38666
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1dne2NK.jpg",Ferdinand (2017)
 https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEgv7IWKxex53kan_eHOVmkmE8Fy6-YmYBbDimQ=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KgEZwRW.jpg",The Boss Baby (2017)
@@ -480,7 +478,7 @@ https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSpt
 https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
 
 //INDO
-#EXTINF:-1 group-title="VOD | VOD INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA6eQzZr130PEefGckeEegJr4M.jpg",Benyamin Biang Kerok (1972)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA6eQzZr130PEefGckeEegJr4M.jpg" group-title="VOD OLD SCHOOL INDO",Benyamin Biang Kerok (1972)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38666
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pOQOKeF322AVpzDiUL7AaqjQHR.jpg" group-title="VOD OLD SCHOOL INDO",Benyamin Tukang Ngibul
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38667
