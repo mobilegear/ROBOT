@@ -390,7 +390,7 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 
 //VOD
-#EXTINF:-1 group-title="VOD | VOD ACTION ",The Legend of The Condor Heroes: The Dragon Tamer
+#EXTINF:-1 group-title="Film Bioskop",The Legend of The Condor Heroes: The Dragon Tamer
 https://www.googleapis.com/drive/v3/files/1yeTtmh_2_BkApmdQl2xH6qz2_9Rj5uik?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t16RjZq.jpg",Altered Carbon: Resleeved (2020)
 https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
@@ -632,7 +632,7 @@ https://cdn3ii.diebutx.com/own2hls/2020/c6863cb6dd663ac179aef272b60fee7b/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/3946ad19757a6b2b781a2ec8198a6482/540p/index.m3u8
 #EXTINF:-1 group-title="WEST MOVIES 2021" tvg-logo="https://i.imgur.com/P9rxzAg.jpg",Lost & Found (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/31fb99b7379b012ecad026edf49480b6/540p/index.m3u8
-#EXTINF:-1 ,Flinch (2021)
+#EXTINF:-1  group-title="WEST MOVIES 2021" ,Flinch (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/a92e4f6e1d2eb587a5c52a882b38274a/540p/index.m3u8
 #EXTINF:-1 group-title="WEST MOVIES 2021",Crisis (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/e396a48d24cbda9d7ebda7d9ae76d0ce/540p/index.m3u8
@@ -2367,74 +2367,73 @@ https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/b21d35731cf5adc8fb7baa80c1f1f967/540p/index.m3u8
 #EXTINF:-1 group-title="VOD 2021" tvg-logo="https://i.imgur.com/M2Dczt1.jpg",Insight (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/55ce55eabcd4cb440dc36d2f7eb1f0a2/540p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Benyamin Biang Kerok (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA6eQzZr130PEefGckeEegJr4M.jpg" group-title="Film Indonesia Jadul",Benyamin Biang Kerok (1972)
+#EXTINF:-1 tvg-id="" tvg-name="Benyamin Biang Kerok (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA6eQzZr130PEefGckeEegJr4M.jpg" group-title="VOD OLD SCHOOL INDO",Benyamin Biang Kerok (1972)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38666.
-#EXTINF:-1 tvg-id="" tvg-name="Benyamin Tukang Ngibul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pOQOKeF322AVpzDiUL7AaqjQHR.jpg" group-title="Film Indonesia Jadul",Benyamin Tukang Ngibul
+#EXTINF:-1 tvg-id="" tvg-name="Benyamin Tukang Ngibul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pOQOKeF322AVpzDiUL7AaqjQHR.jpg" group-title="VOD OLD SCHOOL INDO",Benyamin Tukang Ngibul
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38667.
-#EXTINF:-1 tvg-id="" tvg-name="Bumi Bulat Bundar (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCKBUylisaBXK5GXDvvoY40QHQ2.jpg" group-title="Film Indonesia Jadul",Bumi Bulat Bundar (1983)
+#EXTINF:-1 tvg-id="" tvg-name="Bumi Bulat Bundar (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCKBUylisaBXK5GXDvvoY40QHQ2.jpg" group-title="VOD OLD SCHOOL INDO",Bumi Bulat Bundar (1983)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38668.
-#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16QYLpfOcZVp5KwohKYVZbGuosP.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy (1987)
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16QYLpfOcZVp5KwohKYVZbGuosP.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy (1987)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38669.
-#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 2 (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLmvs1p9aX9lWrarw7hraIyHk8S.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy 2 (1988)
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 2 (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLmvs1p9aX9lWrarw7hraIyHk8S.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 2 (1988)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38670.
-#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 3 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFxBbBeSA0doyP4ZDCIrSAvK8BR.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy 3 (1989)
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 3 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFxBbBeSA0doyP4ZDCIrSAvK8BR.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 3 (1989)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38671.
-#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 4 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc7LKrdBKbKNnEtWKR7AmLcItcN.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy 4 (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 4 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc7LKrdBKbKNnEtWKR7AmLcItcN.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 4 (1990)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38672.
-#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 5 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dySyKYfUHS41jQCbYrkVoAFduSN.jpg" group-title="Film Indonesia Jadul",Catatan Si Boy 5 (1991)
+#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 5 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dySyKYfUHS41jQCbYrkVoAFduSN.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 5 (1991)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38673.
-#EXTINF:-1 tvg-id="" tvg-name="Gadis Pendekar (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toCvWrpx25gp7bNls0XbqrjuvUI.jpg" group-title="Film Indonesia Jadul",Gadis Pendekar (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Gadis Pendekar (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/toCvWrpx25gp7bNls0XbqrjuvUI.jpg" group-title="VOD OLD SCHOOL INDO",Gadis Pendekar (1990)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38674.
 #EXTINF:-1 tvg-id="" tvg-name="Buronan (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOa99fEII3qhqDteOu8JhwV5Cel.jpg" group-title="Film Indonesia Jadul",Buronan (1989)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38675.
 #EXTINF:-1 tvg-id="" tvg-name="Gundala Putra Petir (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80ksFYULtLM1bvnKXFE7LBVpG0x.jpg" group-title="Film Indonesia Jadul",Gundala Putra Petir (1981)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38676.
-#EXTINF:-1 tvg-id="" tvg-name="Isabella (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9ssZ5cZ77XmNdGycIP1FnO7xXT.jpg" group-title="Film Indonesia Jadul",Isabella (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Isabella (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9ssZ5cZ77XmNdGycIP1FnO7xXT.jpg" group-title="VOD OLD SCHOOL INDO",Isabella (1990)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38677.
-#EXTINF:-1 tvg-id="" tvg-name="Jampang (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iQXqLv7WSlbMel8cbFBDZ3xx01.jpg" group-title="Film Indonesia Jadul",Jampang (1989)
+#EXTINF:-1 tvg-id="" tvg-name="Jampang (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iQXqLv7WSlbMel8cbFBDZ3xx01.jpg" group-title="VOD OLD SCHOOL INDO",Jampang (1989)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38678.
-#EXTINF:-1 tvg-id="" tvg-name="Mandala Dari Sungai Ular (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa1ZGYNTdDYvXVGT5ENLzuFNwhP.jpg" group-title="Film Indonesia Jadul",Mandala Dari Sungai Ular (1987)
+#EXTINF:-1 tvg-id="" tvg-name="Mandala Dari Sungai Ular (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pa1ZGYNTdDYvXVGT5ENLzuFNwhP.jpg" group-title="VOD OLD SCHOOL INDO",Mandala Dari Sungai Ular (1987)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38679.
-#EXTINF:-1 tvg-id="" tvg-name="Mat Peci (Pembunuh Berdarah Dingin) (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQTUftug6xlepihXwVkwK7VbmSu.jpg" group-title="Film Indonesia Jadul",Mat Peci (Pembunuh Berdarah Dingin) (1978)
+#EXTINF:-1 tvg-id="" tvg-name="Mat Peci (Pembunuh Berdarah Dingin) (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQTUftug6xlepihXwVkwK7VbmSu.jpg" group-title="VOD OLD SCHOOL INDO",Mat Peci (Pembunuh Berdarah Dingin) (1978)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38680.
-#EXTINF:-1 tvg-id="" tvg-name="Musuh Bebuyutan (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS0dcECfq25meSiLgx0ftHE1TkZ.jpg" group-title="Film Indonesia Jadul",Musuh Bebuyutan (1974)
+#EXTINF:-1 tvg-id="" tvg-name="Musuh Bebuyutan (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cS0dcECfq25meSiLgx0ftHE1TkZ.jpg" group-title="VOD OLD SCHOOL INDO",Musuh Bebuyutan (1974)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38681.
-#EXTINF:-1 tvg-id="" tvg-name="Nagabonar (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="Film Indonesia Jadul",Nagabonar (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Nagabonar (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="VOD OLD SCHOOL INDO",Nagabonar (1986)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38682.
-#EXTINF:-1 tvg-id="" tvg-name="Ngipri Monyet (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="Film Indonesia Jadul",Ngipri Monyet (1988)
+#EXTINF:-1 tvg-id="" tvg-name="Ngipri Monyet (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWWEzS1ZmellxJmhApmMXvd98JA.jpg" group-title="VOD OLD SCHOOL INDO",Ngipri Monyet (1988)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38683.
-#EXTINF:-1 tvg-id="" tvg-name="Pasukan Berani Mati (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdE9FSA4CxsIzFmNWtLc4ZzFefw.jpg" group-title="Film Indonesia Jadul",Pasukan Berani Mati (1982)
+#EXTINF:-1 tvg-id="" tvg-name="Pasukan Berani Mati (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdE9FSA4CxsIzFmNWtLc4ZzFefw.jpg" group-title="VOD OLD SCHOOL INDO",Pasukan Berani Mati (1982)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38684.
-#EXTINF:-1 tvg-id="" tvg-name="Pengkhianatan G30S/PKI (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="Film Indonesia Jadul",Pengkhianatan G30S/PKI (1984)
+#EXTINF:-1 tvg-id="" tvg-name="Pengkhianatan G30S/PKI (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="VOD OLD SCHOOL INDO",Pengkhianatan G30S/PKI (1984)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38685.
-#EXTINF:-1 tvg-id="" tvg-name="Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="Film Indonesia Jadul",Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986
+#EXTINF:-1 tvg-id="" tvg-name="Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xcTLEcs7rimkHjGMB9k150GwWN.jpg" group-title="VOD OLD SCHOOL INDO",Penumpasan Sia-Sia PKI Blitar Selatan (Operasi Trisula) 1986
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38686.
-#EXTINF:-1 tvg-id="" tvg-name="Ratu Ilmu Hitam (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x46YkvYKZJeNI78UCCWPXPETlLJ.jpg" group-title="Film Indonesia Jadul",Ratu Ilmu Hitam (1981)
+#EXTINF:-1 tvg-id="" tvg-name="Ratu Ilmu Hitam (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x46YkvYKZJeNI78UCCWPXPETlLJ.jpg" group-title="VOD OLD SCHOOL INDO",Ratu Ilmu Hitam (1981)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38687.
-#EXTINF:-1 tvg-id="" tvg-name="Sangkuriang (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCsmjUv4ObOcjHW8CfJ8OImlrsW.jpg" group-title="Film Indonesia Jadul",Sangkuriang (1982)
+#EXTINF:-1 tvg-id="" tvg-name="Sangkuriang (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCsmjUv4ObOcjHW8CfJ8OImlrsW.jpg" group-title="VOD OLD SCHOOL INDO",Sangkuriang (1982)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38688.
-#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh Satria Madangkara (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="Film Indonesia Jadul",Saur Sepuh Satria Madangkara (1988)
+#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh Satria Madangkara (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="VOD OLD SCHOOL INDO",Saur Sepuh Satria Madangkara (1988)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38689.
-#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh II: Pesanggrahan Keramat (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="Film Indonesia Jadul",Saur Sepuh II: Pesanggrahan Keramat (1989)
+#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh II: Pesanggrahan Keramat (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="VOD OLD SCHOOL INDO",Saur Sepuh II: Pesanggrahan Keramat (1989)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38690.
-#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh III: Kembang Gunung Lawu (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="Film Indonesia Jadul",Saur Sepuh III: Kembang Gunung Lawu (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh III: Kembang Gunung Lawu (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="VOD OLD SCHOOL INDO",Saur Sepuh III: Kembang Gunung Lawu (1990)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38691.
-#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh IV: Titisan Darah Biru (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="Film Indonesia Jadul",Saur Sepuh IV: Titisan Darah Biru (1991)
+#EXTINF:-1 tvg-id="" tvg-name="Saur Sepuh IV: Titisan Darah Biru (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdyfA5LnyvAyEdtmszkso8yGiX1.jpg" group-title="VOD OLD SCHOOL INDO",Saur Sepuh IV: Titisan Darah Biru (1991)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38692.
-#EXTINF:-1 tvg-id="" tvg-name="Sengatan Kobra (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9crmRcrceS2ND5W31KlH9BAuXur.jpg" group-title="Film Indonesia Jadul",Sengatan Kobra (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Sengatan Kobra (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9crmRcrceS2ND5W31KlH9BAuXur.jpg" group-title="VOD OLD SCHOOL INDO",Sengatan Kobra (1986)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38693.
-#EXTINF:-1 tvg-id="" tvg-name="Sipitung (Banteng Betawi) (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rORhdiLWiTBY8cxhZoaciWlLIo1.jpg" group-title="Film Indonesia Jadul",Sipitung (Banteng Betawi) (1970)
+#EXTINF:-1 tvg-id="" tvg-name="Sipitung (Banteng Betawi) (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rORhdiLWiTBY8cxhZoaciWlLIo1.jpg" group-title="VOD OLD SCHOOL INDO",Sipitung (Banteng Betawi) (1970)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38694.
-#EXTINF:-1 tvg-id="" tvg-name="Sunan Kalijaga (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY4NX9gJbsY9NFQXmldoeDsUIfA.jpg" group-title="Film Indonesia Jadul",Sunan Kalijaga (1983)
+#EXTINF:-1 tvg-id="" tvg-name="Sunan Kalijaga (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY4NX9gJbsY9NFQXmldoeDsUIfA.jpg" group-title="VOD OLD SCHOOL INDO",Sunan Kalijaga (1983)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38695.
-#EXTINF:-1 tvg-id="" tvg-name="7 Wanita Dalam Tugas Rahasia (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FRur4khKxGohSn2L5AWI1NeflY.jpg" group-title="Film Indonesia Jadul",7 Wanita Dalam Tugas Rahasia (1983)
+#EXTINF:-1 tvg-id="" tvg-name="7 Wanita Dalam Tugas Rahasia (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FRur4khKxGohSn2L5AWI1NeflY.jpg" group-title="VOD OLD SCHOOL INDO",7 Wanita Dalam Tugas Rahasia (1983)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38696.
-#EXTINF:-1 tvg-id="" tvg-name="Si Buta lawa Jaka Sembung (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iUU9VuGmpYAma3cvc0nyFB0KKe.jpg" group-title="Film Indonesia Jadul",Si Buta lawa Jaka Sembung (1983)
+#EXTINF:-1 tvg-id="" tvg-name="Si Buta lawa Jaka Sembung (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iUU9VuGmpYAma3cvc0nyFB0KKe.jpg" group-title="VOD OLD SCHOOL INDO",Si Buta lawa Jaka Sembung (1983)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38697.
-#EXTINF:-1 tvg-id="" tvg-name="Bajing ireng dan jaka sembung (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBtQMSlHq5SCwtGcSfwVBA2xwLr.jpg" group-title="Film Indonesia Jadul",Bajing ireng dan jaka sembung (1985)
+#EXTINF:-1 tvg-id="" tvg-name="Bajing ireng dan jaka sembung (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBtQMSlHq5SCwtGcSfwVBA2xwLr.jpg" group-title="VOD OLD SCHOOL INDO",Bajing ireng dan jaka sembung (1985)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38698.
-#EXTINF:-1 tvg-id="" tvg-name="Jaka Sembung (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBtQMSlHq5SCwtGcSfwVBA2xwLr.jpg" group-title="Film Indonesia Jadul",Jaka Sembung (1981)
+#EXTINF:-1 tvg-id="" tvg-name="Jaka Sembung (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBtQMSlHq5SCwtGcSfwVBA2xwLr.jpg" group-title="VOD OLD SCHOOL INDO",Jaka Sembung (1981)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38699.
-#EXTINF:-1 tvg-id="" tvg-name="Tjoet Nja' Dhien (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1pkmmIyNF2CpjDzeSdZt8LBNln.jpg" group-title="Film Indonesia Jadul",Tjoet Nja' Dhien (1988)
+#EXTINF:-1 tvg-id="" tvg-name="Tjoet Nja' Dhien (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1pkmmIyNF2CpjDzeSdZt8LBNln.jpg" group-title="VOD OLD SCHOOL INDO",Tjoet Nja' Dhien (1988)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38700.
