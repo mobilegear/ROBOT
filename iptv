@@ -480,17 +480,18 @@ https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSpt
 https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
 
 //VOD/MOVIES
-#EXTINF:-1 tvg-id="" tvg-name="Benyamin Biang Kerok (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA6eQzZr130PEefGckeEegJr4M.jpg" group-title="VOD OLD SCHOOL INDO",Benyamin Biang Kerok (1972)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWA6eQzZr130PEefGckeEegJr4M.jpg" group-title="VOD OLD SCHOOL INDO",Benyamin Biang Kerok (1972)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38666.
-#EXTINF:-1 tvg-id="" tvg-name="Benyamin Tukang Ngibul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pOQOKeF322AVpzDiUL7AaqjQHR.jpg" group-title="VOD OLD SCHOOL INDO",Benyamin Tukang Ngibul
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pOQOKeF322AVpzDiUL7AaqjQHR.jpg" group-title="VOD OLD SCHOOL INDO",Benyamin Tukang Ngibul
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38667.
-#EXTINF:-1 tvg-id="" tvg-name="Bumi Bulat Bundar (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCKBUylisaBXK5GXDvvoY40QHQ2.jpg" group-title="VOD OLD SCHOOL INDO",Bumi Bulat Bundar (1983)
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCKBUylisaBXK5GXDvvoY40QHQ2.jpg" group-title="VOD OLD SCHOOL INDO",Bumi Bulat Bundar (1983)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38668.
-#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16QYLpfOcZVp5KwohKYVZbGuosP.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16QYLpfOcZVp5KwohKYVZbGuosP.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy (1987)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38669.
-#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 2 (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLmvs1p9aX9lWrarw7hraIyHk8S.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 2 (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLmvs1p9aX9lWrarw7hraIyHk8S.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 2 (1988)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38670.
-#EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 3 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFxBbBeSA0doyP4ZDCIrSAvK8BR.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 3 (1989)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFxBbBeSA0doyP4ZDCIrSAvK8BR.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 3 (1989)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38671.
 #EXTINF:-1 tvg-id="" tvg-name="Catatan Si Boy 4 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jc7LKrdBKbKNnEtWKR7AmLcItcN.jpg" group-title="VOD OLD SCHOOL INDO",Catatan Si Boy 4 (1990)
 http://www.goldentv.tech:25461/movie/Perfecto/170721/38672.
