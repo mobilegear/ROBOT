@@ -21,6 +21,8 @@ https://9e46da7e898449668789c1b36e25aea6.mediatailor.us-east-1.amazonaws.com/v1/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 ##https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-bioskop-id.png" group-title="MOVIES",Citra Bioskop
+https://akudandia.xyz/man-prem/cbioskop.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small.png" group-title="MOVIES",Flik
 https://lnk.ec/FLIK?shareext.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png" group-title="MOVIES",FMN
@@ -84,16 +86,18 @@ http://104.215.150.112:19440/play/ASSP2/index.m3u8
 http://104.215.150.112:19440/play/ASSP3/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 4
 http://104.215.150.112:19440/play/ASSP4/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo= "https://i.imgur.com/JEPmOU6.png",beIN SPORTS 1
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo= "https://i.imgur.com/0HK5V7J.png",beIN SPORTS 2
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo= "https://i.imgur.com/rTlLxtt.png",beIN SPORTS 3
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_55.png" group-title="SPORTS",beIn Sports 1 French
 http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3853
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_56.png" group-title="SPORTS",beIn Sports 2 French
 http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3854
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_57.png" group-title="SPORTS",beIn Sports 3 French
 http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3855
-#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN002BeINSport01.png" group-title="SPORTS",beIn Sports 1 
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2140
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="SPORTS",beIn Sports 2
-http://meu02.cularu.com:8880/sch12m1n82895/dsfwr23ds/2139
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" tvg-id="BathokGpc" tvg-name="bein1" group-title="SPORTS",beIn Sports 1 Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
