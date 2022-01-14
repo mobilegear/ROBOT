@@ -263,8 +263,9 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98155
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png" group-title="MUSIC",  4 KURD
 http://51.210.199.28/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="MUSIC",  PMC 
-http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="MUSIC",  PMC
+https://hls.pmchd.live/hls/stream.m3u8
+##http://51.210.199.29/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wanasah_tv.png" group-title="MUSIC",Wanasah 
 #EXTVLCOPT:network-caching=1000
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
