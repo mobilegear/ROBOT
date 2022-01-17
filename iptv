@@ -135,16 +135,21 @@ http://livetv.dnsfor.me/channel.12.m3u8
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="SPORTS",Sony Ten 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
-#EXTINF:-1 tvg-logo="https://imgur.com/TCFDYyT.png" group-title="SPORTS",Sony Ten 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-plus-ukraine-ie-ua.png" group-title="SPORTS",Setanta Sports + 
+https://185-106-121-77.livesports24.online/setantaplusukr.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-ukraine-ie-ua.png" group-title="SPORTS",Setanta Sports
+https://185-106-121-77.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-2-evraziya-ie.png" group-title="SPORTS",Setanta Sports 2
+https://185-106-121-77.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="SPORTS",Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS",SuperSport Football
+http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678024
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS",SuperSport Laliga
 http://cro.hockeynews.club/live/2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="SPORTS",SuperSport Premiere League
-http://cro.hockeynews.club/live/1/chunks.m3u8
+http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678029
+##http://cro.hockeynews.club/live/1/chunks.m3u8
 
 //KNOWLEDGE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -261,6 +266,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_live_hd_au.png" group-title="MUSIC",MTV 
 http://mitvpro.online:25461/BBwJkdxLhDMRLcb/beaowBGKyshcMER/98155
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m1_ua.png" group-title="MUSIC",M1 
+http://live.m2.tv/hls2/stream.m3u8
 #EXTINF:-1 tvg-logo="http://vipotv.com/wp-content/uploads/2021/01/4kurd-vipotv.png" group-title="MUSIC",  4 KURD
 http://51.210.199.28/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="MUSIC",  PMC
@@ -278,7 +285,8 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/bbcworldnews.png" group-title="News",BBC World
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-id="734" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="NEWS", France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+##http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://iptv.prosto.tv:7000/ch205/video.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" group-title="NEWS", TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="NEWS", CNA
