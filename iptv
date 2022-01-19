@@ -89,6 +89,8 @@ http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo= "https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png",beIN SPORTS 3
 http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1,BEIN SPORTS MAX HD1
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120012
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_55.png" group-title="SPORTS",beIn Sports 1 French
 http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3853
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_56.png" group-title="SPORTS",beIn Sports 2 French
@@ -107,6 +109,8 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIn Sports 2 Premium
 http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",beIn Sports 3 Premium
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-1-uk.png" group-title="SPORTS",BT Sport 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/1641
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bt-sport-2-uk.png" group-title="SPORTS",BT Sport 2
@@ -128,13 +132,15 @@ http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3864
 https://95-213-172-222.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="SPORTS",NBA TV
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55746.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="SPORTS",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvision-tv-de.png" group-title="SPORTS",MOTORVISIONTV
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GWLuSSS.png" group-title="SPORTS", Sony Six HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="♥ SPORTS TV ♥",Red Bull Tv ♥
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-plus-ukraine-ie-ua.png" group-title="SPORTS",Setanta Sports + 
 https://185-106-121-77.livesports24.online/setantaplusukr.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-ukraine-ie-ua.png" group-title="SPORTS",Setanta Sports
@@ -184,6 +190,8 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+
 
 
 
@@ -335,6 +343,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",HGTV Asia
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 ###http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFESTYLE",Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/chunklist_w387207616.m3u8
+
 
 
 //ADULT
