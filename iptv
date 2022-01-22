@@ -129,9 +129,11 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_1.png" group-title="SPORTS",Eurosport 1
-http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3864
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36217
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport_fr_2.png" group-title="SPORTS",Eurosport 2
 https://95-213-172-222.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalsat_fr_foot_plus.png" group-title="SPORTS" ,FOOT+ 
+http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36223
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GhL7Dxhg/IMG-0201.png" group-title="SPORTS" ,MOTORVISIONTV
