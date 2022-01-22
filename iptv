@@ -84,18 +84,7 @@ https://on-load.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 //SPORTS
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/mpkdDgs.png" group-title="SPORTS",Arena Sport 1
-http://178.217.15.36/ArenaSport1/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WVwSv3S/Astro-arena2-encep.png" group-title="SPORTS",Astro Arena 
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 1
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6708
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 2
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6710
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 3
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6711
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest/scale-to-width-down/340?cb=20180622074639" group-title="SPORTS",Astro Super Sport 4
-http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png",beIN SPORTS 1
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png",beIN SPORTS 2
@@ -168,7 +157,7 @@ http://my34.xyz:8080/hiyk4qx9i5/df5ztup5ss/678029
 ##http://cro.hockeynews.club/live/1/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORTS",SpoTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORTS",SpoTV
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 //KNOWLEDGE
