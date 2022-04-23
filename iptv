@@ -78,7 +78,14 @@ https://on-load.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 //SPORTS
 
-
+#EXTINF:-1 tvg-id="" tvg-name="SG-BeIN Sports HD SPORTS" tvg-logo="https://i.loli.net/2021/10/04/EGa1YShtmPfiWOv.png" group-title="SPORTS",BeINSports HD 
+http://iptv12k.com:35461/8022022301/468985/964
+#EXTINF:-1 tvg-id="" tvg-name="SG-BeIN Sports HD 2 SPORTS" tvg-logo="https://i.loli.net/2021/10/02/AJHbWkfwNSj3Imc.png" group-title="SPORTS",BeINSports_2 
+http://iptv12k.com:35461/8022022301/468985/963
+#EXTINF:-1 tvg-id="" tvg-name="SG-beIN Sports Max 2 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="SPORTS",SG-beINSports_Max 2 HD 
+http://iptv12k.com:35461/8022022301/468985/961
+#EXTINF:-1 tvg-id="" tvg-name="SG-beIN Sports Max 3 HD SPORTS" tvg-logo="https://i.loli.net/2021/10/04/2lqUNVHek6L1Qba.jpg" group-title="SPORTS",SG-beINSports_Max 3 HD
+http://iptv12k.com:35461/8022022301/468985/960
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_55.png" group-title="SPORTS",beIn Sports 1 French
 http://wagmaott.com:8080/mohbeoO9R5PAeHBe/Xpj0Cbtb2m/3853
 #EXTINF:-1 tvg-logo="http://wagmaupload.com/images/live150_56.png" group-title="SPORTS",beIn Sports 2 French
@@ -102,6 +109,10 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/egg-network-my.png" group-title="SPORTS",EGGNETWORK
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",Eurosport-1
+https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",Eurosport-2
+https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canalsat_fr_foot_plus.png" group-title="SPORTS" ,FOOT+ 
 http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36223
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport Au" tvg-logo="https://i.ibb.co/Y3msTsz/fox-sport-news.png" group-title="SPORTS",Fox Sport AU
@@ -110,6 +121,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-prime-1988.png" group-title="SPORTS",Now Sports Prime
 http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SG-NBA TV HD SPORTS" tvg-logo="https://i.loli.net/2021/10/04/ndZi7DgrWHCFvVq.png" group-title="SPORTS",SG-NBA_TV HD
+http://iptv12k.com:35461/8022022301/468985/942
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
