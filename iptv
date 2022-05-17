@@ -7,10 +7,6 @@
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="MOVIES",CCTV-6
 http://39.135.138.60:18890/TVOD/88888910/224/3221225632/index.m3u8
-#EXTINF:0 tvg-id="Cinema World" tvg-name="Cinema World" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/cinemaworld.png" group-title="MOVIES",Cinema World
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies Malaysia
@@ -207,8 +203,6 @@ http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21851?checkedby:iptvca
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="HOME ENTERTAINMENT",Comedy Central 
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/2D1e2bH.png" group-title="HOME ENTERTAINMENT",Celebrity Scene TV 
-https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai_one.png" group-title="HOME ENTERTAINMENT",Dubai One 
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="HOME ENTERTAINMENT",K-Plus
@@ -230,13 +224,6 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-persia-ae.png" group-title="HOME ENTERTAINMENT", MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1 tvg-id=""  tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HOME ENTERTAINMENT",SONY
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/194
-##http://210.210.155.35/session/d149be28-5fd8-11ec-a8d2-c81f66f89318/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork" group-title="HOME ENTERTAINMENT" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png",Paramount Network AstGO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_hk.png" group-title="HOME ENTERTAINMENT" ,Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png" group-title="HOME ENTERTAINMENT",Sony One
