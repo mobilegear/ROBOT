@@ -105,9 +105,9 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/egg-network-my.png" group-title="SPORTS",EGGNETWORK
 #EXTVLCOPT:network-caching=1000
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",Eurosport-1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-1-fr.svg" group-title="SPORTS",Eurosport-1
 https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",Eurosport-2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-2-fr.svg" group-title="SPORTS",Eurosport-2
 https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="SPORTS",FIGHT SPORTS
 http://rr1.dens.tv/h/h05/index.m3u8
@@ -245,22 +245,6 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="HOME ENTERTAINMENT",Zee Cafe
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/182
 
-
-
-//MUSIC
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-channel-romania-ro.png" group-title="MUSIC",Music Channel 
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m1_ua.png" group-title="MUSIC",M1 
-http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="MUSIC",PMC
-https://hls.pmchd.live/hls/stream.m3u8
-##http://51.210.199.29/hls/stream.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ww/wanasah_tv.png" group-title="MUSIC",Wanasah 
-#EXTVLCOPT:network-caching=1000
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 //NEWS
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/corp/aa/abc_us.png",ABC News LIfe
