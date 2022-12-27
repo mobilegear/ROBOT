@@ -3,10 +3,10 @@
 //MOVIES
 
 
-#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png",&Flix
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",&Flix
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=And_Flix_HD
 https://aqfadtv.xyz/live/&flix/index.m3u8
-#EXTINF:-1 group-title="MOVIES IPTV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png",&PRIVE
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",&PRIVE
 #EXTVLCOPT:http-referrer=https://tvstream.fun/jtv/play.php?c=And_Flix_HD
 https://aqfadtv.xyz/live/&prive/index.m3u88
 #EXTINF:-1 tvg-logo="https://www.hao66.cc/skin/dygang/images/logo.png" group-title="MOVIES",6hao TV
@@ -98,11 +98,11 @@ http://rr2.dens.tv/s/s32/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 1 ID
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein Sports 1 ID
 #https://liveaneviadev.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="" group-title="Olahraga",Bein Sports 2 ID
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Bein Sports 2 ID
 #https://liveaneviadev.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",beIn Sports QA
 http://175.107.244.52:4457/play/a070/index.m3u8
@@ -225,7 +225,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://iptvid.my.id/hmm/flik.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="LIFESTYLE",HGTV Asia
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="HOME ENTERTAINMENT",HGTV Asia
 https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="HOME ENTERTAINMENT",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
