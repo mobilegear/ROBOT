@@ -88,6 +88,10 @@ http://rr2.dens.tv/s/s32/index.m3u8
 
 //SPORTS
 
+
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",Astro SuperSport
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
 http://103.167.167.5:8111/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS",Champions TV 2
@@ -250,7 +254,8 @@ https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png" group-title="HOME ENTERTAINMENT",Rock Action
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HOME ENTERTAINMENT",Rock Entertainment
-http://210.210.155.37/dr9445/h/h16/index.m3u8
+http://45.126.83.51/dr9445/h/h16/01.m3u8
+##http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-us.png" group-title="HOME ENTERTAINMENT",Paramount
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=burgerkingkong&channel=paramount&token=5dc9378e9db86735ee72bd8450c0e1af4b64af99bfca545a5f2d0f3105fbd245
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
