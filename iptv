@@ -78,8 +78,7 @@ https://liveaneviadev.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN Movies
 http://103.167.167.5:8111/play/a02u/index.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-bioskop-in.png" group-title="MOVIES",ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/index.m3u8
-
+http://103.167.167.5:8111/play/a01a/index.m3u8
 
 
 
@@ -218,6 +217,8 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 https://liveaneviadev.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="HOME ENTERTAINMENT",Comedy Central 
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rec-data.kalibrr.com/www.kalibrr.ph/logos/AZV4D4ABJ7VF3RVSYHLJ9NKRXRY6BJ5Y5XYTSH5Q-5dad64c7.png" group-title="HOME ENTERTAINMENT",Dens Lifestyle
+http://210.210.155.37/x6bnqe/s/s101/live.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai_one.png" group-title="HOME ENTERTAINMENT",Dubai One 
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/984/592/png-transparent-e-television-show-reality-television-television-channel-channel-miscellaneous-television-text-thumbnail.png" group-title="HOME ENTERTAINMENT",E! 
