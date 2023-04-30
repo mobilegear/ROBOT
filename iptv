@@ -90,6 +90,10 @@ http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/459.m3u8
 http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="SPORTS",FIGHT SPORTS
 http://rr1.dens.tv/h/h05/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXMSw-ThVNtrqD_TwmLiKoInrm2XpLp3cyQ&usqp=CAU",DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png",LFCTV
