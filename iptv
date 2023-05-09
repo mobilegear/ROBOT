@@ -77,7 +77,7 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
-http://gg.gg/HaNoiIPTV-SCTV15_HD
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/49.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="SPORTS",BeIn Sport English 1
@@ -309,7 +309,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0  tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-us.svg" group-title="News",CNN
+#EXTINF:0  tvg-name="" tvg-logohttps://www.freepnglogos.com/uploads/cnn-logo-original-hd-png-transparent-22.png" group-title="News",CNN
 https://newanv-live-cdn.mncnow.id:443/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmRSyjsW/Arirang-logo.png" group-title="NEWS",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
