@@ -154,12 +154,27 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/280145
 #EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/280249
+#EXTINF:0 tvg-id="beinsportsxtra1.qa" tvg-name="beIN Sports Xtra 1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORTS",beIN Sports Xtra 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/290037
+
+#EXTINF:0 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports Xtra 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="SPORTS",beIN Sports Xtra 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/283294
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298512
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS",Champions TV 2
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298513
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BeIn Sports
 http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:0 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="SPORTS",DIGI SPORT 1
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/71457
+
+#EXTINF:0 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="SPORTS",DIGI SPORT 2
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/71459
+
+#EXTINF:0 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" group-title="SPORTS",DIGI SPORT 3
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/2243
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="SPORTS",FIGHT SPORTS
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXMSw-ThVNtrqD_TwmLiKoInrm2XpLp3cyQ&usqp=CAU",DAZN 1
