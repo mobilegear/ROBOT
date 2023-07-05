@@ -161,10 +161,6 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/290037
 #EXTINF:0 tvg-id="beinsportsxtra2.qa" tvg-name="beIN Sports Xtra 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-2-qa.png" group-title="SPORTS",beIN Sports Xtra 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/283294
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298512
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS",Champions TV 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298513
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BeIn Sports
 http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF:0 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="SPORTS",DIGI SPORT 1
@@ -189,14 +185,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
-#EXTINF:-1, tvg-id="jsports1.jp" tvg-logo="https://i.ibb.co/dgGSLDb/Picsart-22-09-18-09-24-17-496.png" group-title="SPORTS", JSport 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1, tvg-id="jsports2.jp" tvg-logo="https://i.ibb.co/nPBHgkL/Picsart-22-09-18-09-24-46-983.png" group-title="SPORTS", JSport 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1, tvg-id="jsports3.jp" tvg-logo="https://i.ibb.co/dgdDB8h/Picsart-22-09-18-09-25-09-512.png" group-title="SPORTS", JSport 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1, tvg-id="jsports4.jp" tvg-logo="https://i.ibb.co/J7ncyRL/Picsart-22-09-18-09-25-29-054.png" group-title="SPORTS", JSport 4
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/47X44DD.png" tvg-name="MadeinBO TV" group-title="SPORTS",MadeinBO TV
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
