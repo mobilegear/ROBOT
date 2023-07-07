@@ -114,8 +114,13 @@ https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox-avc1_1900000=3.m3u8
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/super-channel-vault-ca.png" group-title="MOVIES" tvg-id="" tvg-name="", Super Channel Vault
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/230
 
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/193
 
 
 
