@@ -47,24 +47,6 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197055
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221948
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="MOVIES",Cinemax 
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197964
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png" group-title="MOVIES",Bioskop Indonesia
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="MOVIES",Movies News
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
-
 #EXTINF:-1 tvg-id="CelestialClassicMovie.hk" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png" group-title="MOVIES",Celestial Movies
@@ -133,10 +115,18 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/199
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-logo-C4D6AE714E-seeklogo.com.png" group-title="MOVIES" tvg-id="" tvg-name="", MGM+
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/160
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-box-bg.png" group-title="MOVIES" tvg-id="" tvg-name="", Cinebox
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/221
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_action_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore Action
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/222
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_classic_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore Classic
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/224
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_black_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore Black
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/223
 
 //SPORTS
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS",ASTRO SUPERSPORT
