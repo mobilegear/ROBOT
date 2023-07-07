@@ -2,7 +2,7 @@
 
 
 //MOVIES
-#EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="MUSIC",Sony Max India
+#EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-max-in.png" group-title="MOVIES",Sony Max India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
 #EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES",Etv Bioskop 
