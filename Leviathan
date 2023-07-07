@@ -51,7 +51,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221948
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197964
 #EXTINF:-1 tvg-id="CelestialClassicMovie.hk" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="MOVIES",CCM
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png" group-title="MOVIES",Celestial Movies
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -154,14 +154,6 @@ http://ae2.aatvbox.club:8880/12mk160078/31623992/1721
 http://ae2.aatvbox.club:8880/12mk160078/31623992/1719
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-5-my.png" group-title="SPORTS",ASTRO SUPERSPORT 5
 http://ae2.aatvbox.club:8880/12mk160078/31623992/1713
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec40cec31736f/7a5da94bdbd24ff790b84f892d4aa1e6.png" group-title="SPORTS",Golf+
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 ID
@@ -169,10 +161,6 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165105
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", beIN Sports  3 ID
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
 #http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="SPORTS",BeIn Sport English 1
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3001.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="SPORTS",BeIn Sport English 2
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3002.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS",BeIn Sports Premium 1
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/459.m3u8
 #EXTINF:0 tvg-id="beinsports2premium.qa" tvg-name="beIN Sports Premium 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIN Sports Premium 2
@@ -368,10 +356,9 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298490
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HOME ENTERTAINMENT",Rock Entertainment
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="HOME ENTERTAINMENT",TLC Southeast Asia
-https://newanv-live-cdn.mncnow.id:443/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="HOME ENTERTAINMENT",TLC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/120/627/png-transparent-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-angle-thumbnail.png" group-title="HOME ENTERTAINMENT", TVN 
@@ -398,7 +385,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298461
 
 
 //NEWS
-#EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-us.svg" group-title="NEWS",CNN
+#EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://www.freepnglogos.com/uploads/cnn-logo-original-png-0.png" group-title="NEWS",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch236)/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/corp/aa/abc_us.png",ABC News LIfe
@@ -406,7 +393,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/bbcworldnews.png" group-title="NEWS",BBC World
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/820/447/png-transparent-bbc-news-logo-others-television-text-logo.png" group-title="NEWS",BBC World
 https://newanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-id="734" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="NEWS", France 24
 http://iptv.prosto.tv:7000/ch205/video.m3u8
@@ -416,11 +403,6 @@ http://iptv.prosto.tv:7000/ch205/video.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be167d8a571e/7de95bc6b2744449ad5bf76bf8a98935.jpg" group-title="NEWS",Russia Today
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQP8WPq/CNA.png" group-title="NEWS", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="News",München TV
@@ -431,7 +413,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="NEWS",NHK World Japan
 http://210.210.155.37/uq2663/h/h23/index.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NEWS", Al Jazeera English
+#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NEWS", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NEWS",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -442,8 +424,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch245)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch250)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="", DW English
 #https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="WION..id" tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg" group-title="NEWS",WION
-http://210.210.155.37/uq2663/h/h91/index2.m3u8
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_italia.png" group-title="NEWS",RAI Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch258)/index.m3u8
