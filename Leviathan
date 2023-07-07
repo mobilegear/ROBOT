@@ -164,8 +164,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68571b3914b01720e7ff43
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 ID
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165105
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Cs9cMKX/bein3.png" group-title="SPORTS", beIN Sports  3 ID
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", beIN Sports  3 ID
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
+#http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="SPORTS",BeIn Sport English 1
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3001.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="SPORTS",BeIn Sport English 2
@@ -311,7 +312,7 @@ https://newanv-live-cdn.mncnow.id:443/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="HOME ENTERTAINMENT",ANIMAX
 https://newanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr.png" group-title="HOME ENTERTAINMENT",ANIplus
-http://45.126.83.51/dr9445/h/h02/01.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298504
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" group-title="HOME ENTERTAINMENT",Crime + Investigation Asia
@@ -355,6 +356,8 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png" group-title="HOME ENTERTAINMENT",ONE
 https://newanv-live-cdn.mncnow.id:443/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png" group-title="HOME ENTERTAINMENT",Rock Action
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298490
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/ea/Rock_Extreme_%282021-.n.v.%29.png" group-title="HOME ENTERTAINMENT",Rock Extreme
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HOME ENTERTAINMENT",Rock Entertainment
@@ -376,10 +379,13 @@ https://newanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://i.postimg.cc/SK5ZrBkY/20220927-060442.png" group-title="MUSIC",MTV 90s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28FKD9Fg/20220927-060023.png" group-title="MUSIC",Box Hits
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XvCXhj4s/20221111-162404.png" group-title="Musik",Molahits TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-00s.png" group-title="MUSIC",MTV 00s
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298470
+#EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.pngg" group-title="MUSIC",MTV 80s
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298461
+
 
 //NEWS
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/corp/aa/abc_us.png",ABC News LIfe
@@ -498,9 +504,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298501
 
 
 //WarKOP
-#EXTINF: -1 tvg-id="" tvg-name="" group-title="KIDSWarkoP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qLwB2nDBmSNxX_wjZ3luG83I7iKDewOBl2Lhrf81vQ&s",Warkop
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298501
-
+#EXTINF: -1 group-title="WarkoP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qLwB2nDBmSNxX_wjZ3luG83I7iKDewOBl2Lhrf81vQ&s",Warkop
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298502
 
 
 
