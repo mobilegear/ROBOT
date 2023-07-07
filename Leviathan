@@ -272,8 +272,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",  History
-https://newanv-live-cdn.mncnow.id:443/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="",  History
+#https://newanv-live-cdn.mncnow.id:443/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE",  Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -293,18 +296,16 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 //HOME ENTERTAINMENT 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/AFN-HD
-#EXTINF:-1 tvg-logo="Lifestyle" tvg-logo="https://e7.pngegg.com/pngimages/964/110/png-clipart-asian-food-channel-asian-cuisine-fried-rice-television-channel-others-miscellaneous-television-thumbnail.png" group-title="HOME ENTERTAINMENT",Asian Food Network 
-https://newanv-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="HOME ENTERTAINMENT",Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="HOME ENTERTAINMENT",AXN 
 https://newanv-live-cdn.mncnow.id:443/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="HOME ENTERTAINMENT",ANIMAX
-https://newanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="HOME ENTERTAINMENT",ANIMAX 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr.png" group-title="HOME ENTERTAINMENT",ANIplus
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298504
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -490,8 +491,11 @@ rtp://@239.1.1.157:8916
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS", Boomerang
 https://newanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS", Cartoon Network Asia
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298568
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="", Cartoon Network Asia
+#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298568
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.pngg" group-title="KIDS",Cartoon Network Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/LEGO_logo.png",Lego Channel 
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nickelodeon_small.png" tvg-name="nickelodeon" group-title="KIDS",nickelodeon
