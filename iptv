@@ -130,7 +130,9 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/196
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_family_zone_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime Family Zone 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/199
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/the_movie_channel_east.png" group-title="MOVIES" tvg-id="" tvg-name="", The Movie Channel East
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/160
 
 
 //SPORTS
