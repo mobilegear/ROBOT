@@ -121,6 +121,15 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/230
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/193
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime2_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime 2 East
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/195
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime2_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime 2 West
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/196
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_family_zone_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime Family Zone 
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/199
 
 
 
