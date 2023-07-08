@@ -84,12 +84,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u
 https://newanv-live-cdn.mncnow.id:443/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" group-title="MOVIES",My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="MOVIES",My Kidz
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/298556
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="MOVIES",My Family
-http://210.210.155.37/uq2663/h/h194/index.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/298555
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",My Cinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/298553
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-asia-id.png" group-title="MOVIES",My Cinema Asia
-http://210.210.155.37/uq2663/h/h193/index.m3u8
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/298554
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932" group-title="MOVIES",Movie Sphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Moviebox
@@ -164,7 +166,9 @@ http://ae2.aatvbox.club:8880/12mk160078/31623992/1713
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 ID
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165105
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 English
+http://ae2.aatvbox.club:8880/12mk160078/31623992/2130
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", beIN Sports  3 ID
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
 #http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
@@ -203,8 +207,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/47X44DD.png" tvg-name="MadeinBO TV" group-title="SPORTS",MadeinBO TV
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
