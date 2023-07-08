@@ -268,6 +268,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-trekker-sg.png" group-title="KNOWLEDGE",Global Trekker
+http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="",  History
@@ -309,7 +311,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298504
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" group-title="HOME ENTERTAINMENT",Crime + Investigation Asia
-https://newanv-live-cdn.mncnow.id:443/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+http://edge.linknetott.swiftserve.com/channelgroup2/cg261production/ch349/02.m3u8
+#https://newanv-live-cdn.mncnow.id:443/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rec-data.kalibrr.com/www.kalibrr.ph/logos/AZV4D4ABJ7VF3RVSYHLJ9NKRXRY6BJ5Y5XYTSH5Q-5dad64c7.png" group-title="HOME ENTERTAINMENT",Dens Lifestyle
 http://210.210.155.37/x6bnqe/s/s101/live.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai_one.png" group-title="HOME ENTERTAINMENT",Dubai One 
@@ -345,11 +348,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png" group-title="HOME ENTERTAINMENT",ONE
 https://newanv-live-cdn.mncnow.id:443/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png" group-title="HOME ENTERTAINMENT",Rock Action
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298490
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/ea/Rock_Extreme_%282021-.n.v.%29.png" group-title="HOME ENTERTAINMENT",Rock Extreme
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
+http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HOME ENTERTAINMENT",Rock Entertainment
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
+http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u8
+#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png" group-title="HOME ENTERTAINMENT",TLC 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
@@ -369,8 +371,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 #EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/2011_MTV_Hits_Logo.png" group-title="MUSIC",MTV Hit's
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvCXhj4s/20221111-162404.png" group-title="Musik",Molahits TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvCXhj4s/20221111-162404.png" group-title="MUSIC",Molahits TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-00s.png" group-title="MUSIC",MTV 00s
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298470
