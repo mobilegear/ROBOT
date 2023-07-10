@@ -156,7 +156,7 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/229
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="SPORTS",Eurosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/moji-id.svg" group-title="SPORTS",Moji
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="SPORTS",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS",ASTRO SUPERSPORT
@@ -169,16 +169,16 @@ http://ae2.aatvbox.club:8880/12mk160078/31623992/1719
 http://ae2.aatvbox.club:8880/12mk160078/31623992/1713
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 ID
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",Bein Sport 1 ID
 http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165105
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 English
-http://ae2.aatvbox.club:8880/12mk160078/31623992/2130
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/110
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", beIN Sports  3 ID
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
 #http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS",BeIn Sports Premium 1
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/459.m3u8
+http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/109
 #EXTINF:0 tvg-id="beinsports2premium.qa" tvg-name="beIN Sports Premium 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIN Sports Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/280145
@@ -217,12 +217,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
 #https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Realmadrid-TV.jpg/220px-Realmadrid-TV.jpg",Real Madrid TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",Liverpool TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORTS",SPOTV
