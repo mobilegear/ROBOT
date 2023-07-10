@@ -224,6 +224,10 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298570
 #EXTINF:0 tvg-id="SPOTV2.Id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="SPORTS",SPOTV 2
 #https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298571
+#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="SPORTS",True Premiere Football 1
+http://203.80.165.14:9981/stream/channelid/2050986632?profile=pass
+#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="SPORTS",True Premiere Football 2
+http://203.80.165.14:9981/stream/channelid/1744440819?profile=pass
 
 
 
@@ -284,6 +288,7 @@ https://newanv-live-cdn.mncnow.id:443/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoC
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild
 https://newanv-live-cdn.mncnow.id:443/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeowild.m3u8
 #EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
@@ -346,6 +351,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u
 https://newanv-live-cdn.mncnow.id:443/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png" group-title="HOME ENTERTAINMENT",Rock Action
 http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
+#http://210.210.155.37/session/f57e2328-0fe1-11ee-a5b9-98fab026daa8/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HOME ENTERTAINMENT",Rock Entertainment
 http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u8
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
