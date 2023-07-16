@@ -150,6 +150,9 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/226
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/229
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png",Family Flix
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+
 //SPORTS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="SPORTS",Eurosport
@@ -237,7 +240,14 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298571
 http://203.80.165.14:9981/stream/channelid/2050986632?profile=pass
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="SPORTS",True Premiere Football 2
 http://203.80.165.14:9981/stream/channelid/1744440819?profile=pass
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 1
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/347
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 2
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/3643
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 3
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/3644
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png" group-title="SPORTS",ELEVEN SPORTS 4
+http://45.129.133.15:8080/3f6d5b2f/4b60123137/3645
 
 
 //KNOWLEDGE
@@ -306,7 +316,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
 
 //HOME ENTERTAINMENT 
-
+#EXTINF:-1,Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="HOME ENTERTAINMENT",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
@@ -326,7 +337,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg261production/ch349/02.m3u
 #https://newanv-live-cdn.mncnow.id:443/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://rec-data.kalibrr.com/www.kalibrr.ph/logos/AZV4D4ABJ7VF3RVSYHLJ9NKRXRY6BJ5Y5XYTSH5Q-5dad64c7.png" group-title="HOME ENTERTAINMENT",Dens Lifestyle
 http://210.210.155.37/x6bnqe/s/s101/live.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai_one.png" group-title="HOME ENTERTAINMENT",Dubai One 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-one-ae.png" group-title="HOME ENTERTAINMENT",Dubai One 
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="HOME ENTERTAINMENT",HGTV
@@ -378,6 +389,8 @@ http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/157594
 
 
 //MUSIC
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-urban-fr.png" group-title="MUSIC",TRACE URBAN
+http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://i.postimg.cc/SK5ZrBkY/20220927-060442.png" group-title="MUSIC",MTV 90s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
@@ -403,7 +416,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/820/447/png-transparent-bbc-news-logo-others-television-text-logo.png" group-title="NEWS",BBC World
 https://newanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-#EXTINF:-1 tvg-id="734" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="NEWS", France 24
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="NEWS", France 24
 http://iptv.prosto.tv:7000/ch205/video.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
