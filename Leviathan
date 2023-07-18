@@ -150,7 +150,7 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/226
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/229
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png",Family Flix
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="MOVIES",Family Flix
 https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
 
 //SPORTS
@@ -178,6 +178,8 @@ http://ae2.aatvbox.club:8880/12mk160078/31623992/1719
 http://ae2.aatvbox.club:8880/12mk160078/31623992/1713
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="SPORTS",BeIn Sports English 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",Bein Sport 1 ID
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
