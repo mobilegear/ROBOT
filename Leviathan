@@ -236,7 +236,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.svg",MUTV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.png",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -563,13 +563,6 @@ https://newanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298501
 
 
-//WarKOP
-#EXTINF: -1 group-title="WarkoP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qLwB2nDBmSNxX_wjZ3luG83I7iKDewOBl2Lhrf81vQ&s",Warkop1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/77
-#EXTINF: -1 group-title="WarkoP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qLwB2nDBmSNxX_wjZ3luG83I7iKDewOBl2Lhrf81vQ&s",Warkop2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/75
-#EXTINF: -1 group-title="WarkoP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qLwB2nDBmSNxX_wjZ3luG83I7iKDewOBl2Lhrf81vQ&s",Warkop123
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/79
 
 
 
