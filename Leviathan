@@ -198,6 +198,13 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="hthttps://www.lyngsat.com/logo/tv/aa/astro-supersport-1-my.png" group-title="SPORTS",Astro SuperSport 1
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
+#EXTINF:-1 tvg-id="" tvg-logo="hthttps://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS",Astro SuperSport 2
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157556
+#EXTINF:-1 tvg-id="" tvg-logo="hthttps://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="SPORTS",Astro SuperSport 3
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157557
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="SPORTS",Abu Dhabi Sports 2
@@ -281,9 +288,13 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS",SuperSport Football
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/38575
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
+#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS",Champions TV 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298513
+#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORTS",Champions TV 3
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="SPORTS",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
