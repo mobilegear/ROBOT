@@ -277,10 +277,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVS1D5m0jmIkL2CBtx8TzVU/ts
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
-#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="SPORTS",True Premiere Football 1
-http://203.80.165.14:9981/stream/channelid/2050986632?profile=pass
-#EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="SPORTS",True Premiere Football 2
-http://203.80.165.14:9981/stream/channelid/1744440819?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS",SuperSport Football
@@ -362,7 +358,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/521-cars-stars-hd.png" group-title="KNOWLEDGE",Car & Star TV
 http://iptv.prosto.tv:7000/ch111/video.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wildearth-za.png" group-title="KNOWLEDGE",WildEarth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 //HOME ENTERTAINMENT 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-comedy-channel-ca.png" group-title="HOME ENTERTAINMENT", CTV Comedy Channel
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/479
@@ -441,8 +438,8 @@ https://newanv-live-cdn.mncnow.id:443/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png",Warner TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
-
+#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChP8-6zgiQGB6FoGOr7lekRILDTahoot1JcwVIeuyOA5K5HRQiwL7uuocgoNHYEp5Hek&usqp=CAU",Ginx 
+http://45.12.1.14:80/MDKraker/GwWZ9I296/17165
 //MUSIC
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-urban-fr.png" group-title="MUSIC",TRACE URBAN
 http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
