@@ -4,7 +4,13 @@
 //MOVIES
  
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="MOVIES",Movies News
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 #EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210909T003510.png" group-title="MOVIES",NEW K.MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
@@ -374,6 +380,15 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 
 //HOME ENTERTAINMENT 
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858119921801816b5359d15e63/6dad5dffdfa845ba8387b8f2192b1ed5.jpg" group-title="HOME ENTERTAINMENT",Gaming TV
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-comedy-channel-ca.png" group-title="HOME ENTERTAINMENT", CTV Comedy Channel
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/479
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="HOME ENTERTAINMENT",Asian Food Network
