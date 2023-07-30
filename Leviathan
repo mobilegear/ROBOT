@@ -292,6 +292,12 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="SPORTS",TVRI SPORT
 #http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS",Unifi Sports
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/w-sport.svg" group-title="SPORTS",W-Sport
+http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&userid=615704&tkn=AAI0AP7UB37KT4D20861VYWTMZ0OU1VQ&chname=W-Sport
+
+
 
 //KNOWLEDGE
 
@@ -360,6 +366,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u
 http://iptv.prosto.tv:7000/ch111/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wildearth-za.png" group-title="KNOWLEDGE",WildEarth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+
 //HOME ENTERTAINMENT 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-comedy-channel-ca.png" group-title="HOME ENTERTAINMENT", CTV Comedy Channel
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/479
@@ -438,8 +446,10 @@ https://newanv-live-cdn.mncnow.id:443/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png",Warner TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChP8-6zgiQGB6FoGOr7lekRILDTahoot1JcwVIeuyOA5K5HRQiwL7uuocgoNHYEp5Hek&usqp=CAU",Ginx 
-http://45.12.1.14:80/MDKraker/GwWZ9I296/17165
+#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png",RTP
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+
+
 //MUSIC
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-urban-fr.png" group-title="MUSIC",TRACE URBAN
 http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
