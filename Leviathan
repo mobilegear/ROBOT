@@ -181,10 +181,18 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/226
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/229
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.ibb.co/ykfcdXd/Logo-FLIX-TV.png" group-title="MOVIES",Family Flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-6-cn.png" group-title="MOVIES",CCTV 6
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-6-cn.png" group-title="MOVIES",Persiana Comedy
+http://51.210.199.27/hls/stream.m3u8
+
 
 //SPORTS
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-5-cn.png" group-title="SPORTS",CCTV 5
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-logo="hthttps://www.lyngsat.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="SPORTS",CCTV 5+
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1
@@ -468,9 +476,16 @@ https://newanv-live-cdn.mncnow.id:443/live/eds/tvN/sa_dash_vmx/tvN.mpd
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png",RTP
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png",Persiana Two
+http://51.210.199.35/hls/stream.m3u8
 
 
 //MUSIC
+
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" group-title="MUSIC",4 Turk
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" group-title="MUSIC",Persiana Music
+http://51.210.199.24/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-urban-fr.png" group-title="MUSIC",TRACE URBAN
 http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://i.postimg.cc/SK5ZrBkY/20220927-060442.png" group-title="MUSIC",MTV 90s
@@ -513,7 +528,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="News",München TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rmRSyjsW/Arirang-logo.png" group-title="NEWS",Arirang TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang-kr.svg" group-title="NEWS",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="NEWS",NBC News Now
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="NEWS",NHK World Japan
@@ -541,7 +556,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch14)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TVRI_World_Logo_2021_Variant.png/revision/latest?cb=20220222092300" group-title="NEWS", TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-news-now-us.svg" group-title="NEWS",NBC News
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/129-1298062_transparent-nbc-news-logo-hd-png-download.png" group-title="NEWS",NBC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
 
