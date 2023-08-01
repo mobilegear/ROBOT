@@ -3,7 +3,8 @@
 
 //MOVIES
  
-
+#EXTINF:-1 group-title="MOVIES" tvg-id="55" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130", WOWOW plus
+https://tiemnhazunn.click/japantv/?id=55
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -188,6 +189,9 @@ http://51.210.199.27/hls/stream.m3u8
 
 
 //SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://play-lh.googleusercontent.com/zqaClOJD3SXsRDutF_Ns_2DO9kGJigY9O14_PLeWIoj04A3ZtXp1YGj3n56EEtreXdg", ON Plus
+https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png" group-title="SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="SPORTS",Dubai Sports 2
@@ -275,7 +279,8 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
