@@ -396,11 +396,14 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u
 http://iptv.prosto.tv:7000/ch111/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wildearth-za.png" group-title="KNOWLEDGE",WildEarth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="KNOWLEDGE",Fox Life
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
 
 //HOME ENTERTAINMENT 
 
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="HOME ENTERTAINMENT",Zee Café 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155730&extension=ts&play_token=otM0DQF4Ff
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
