@@ -141,7 +141,8 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/super-channel-vault-ca.png" group-title="MOVIES" tvg-id="" tvg-name="", Super Channel Vault
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/230
-
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="MOVIES",Comedy Central
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime
@@ -185,6 +186,8 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/229
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-comedy-fr.png" group-title="MOVIES",Persiana Comedy
 http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/romedy_now_in.png" group-title="MOVIES", Romedy Now
+mac=00:1a:79:4b:66:ae&stream=155742&extension=ts&play_token=otM0DQF4Ff
 
 
 //SPORTS
@@ -405,8 +408,6 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858119921801816b5359d15e63/6dad5dffdfa845ba8387b8f2192b1ed5.jpg" group-title="HOME ENTERTAINMENT",Gaming TV
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/ctv-comedy-channel-ca.png" group-title="HOME ENTERTAINMENT", CTV Comedy Channel
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/479
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="HOME ENTERTAINMENT",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
