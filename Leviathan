@@ -77,7 +77,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197055
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.pngg" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221948
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -99,8 +99,6 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="MOVIES",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrG854eClR84lExGu6xAjzbuOO_ZOyQTgnyhv3kupU9g&s group-title="MOVIES",FLIK
-http://kuchini.site:8080/iptv87/8FMkwtHpAJPKLfbX/165095
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="MOVIES",GALAXY PREMIUM
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264774
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
@@ -187,7 +185,7 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-comedy-fr.png" group-title="MOVIES",Persiana Comedy
 http://51.210.199.27/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/romedy_now_in.png" group-title="MOVIES", Romedy Now
-mac=00:1a:79:4b:66:ae&stream=155742&extension=ts&play_token=otM0DQF4Ff
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155742&extension=ts&play_token=otM0DQF4Ff
 
 
 //SPORTS
@@ -348,7 +346,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png",BBC Earth
-https://newanv-live-cdn.mncnow.id:443/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155737&extension=ts&play_token=otM0DQF4Ff
+#https://newanv-live-cdn.mncnow.id:443/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png" group-title="KNOWLEDGE",CGTN
@@ -510,9 +509,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-00s.png" group-title="MUSIC",MTV 00s
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298470
-#EXTINF:-1 tvg-id="MTV90s.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.pngg" group-title="MUSIC",MTV 80s
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298461
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/vv/vh1-india-us-in.png" group-title="MUSIC",VH1 VH1 
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155739&extension=ts&play_token=otM0DQF4Ff
 
 //NEWS
 
