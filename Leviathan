@@ -240,13 +240,13 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="SPORTS",BeIn Sports English 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",Bein Sport 1 ID
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",Bein Sport 1 
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/100
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",Bein Sport 2
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/101
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", beIN Sports  3 ID
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", beIN Sports  3 
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS",BeIn Sports Premium 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/109
@@ -346,8 +346,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png",BBC Earth
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155737&extension=ts&play_token=otM0DQF4Ff
-#https://newanv-live-cdn.mncnow.id:443/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+#http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155737&extension=ts&play_token=otM0DQF4Ff
+https://newanv-live-cdn.mncnow.id:443/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png" group-title="KNOWLEDGE",CGTN
