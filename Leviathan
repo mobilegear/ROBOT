@@ -2,8 +2,13 @@
 
 
 //MOVIES
- 
 
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="MOVIES",AXN Movies
+http://499816947258321107.ot0711.xyz:80/play/vi428027/hdFucGwknR/321116.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="MOVIES",AMC
+http://499816947258321107.ot0711.xyz:80/play/vi428027/hdFucGwknR/321102.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -493,6 +498,8 @@ http://51.210.199.35/hls/stream.m3u8
 
 //MUSIC
 
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_sexta_es.png" group-title="MUSIC",La Sexta
+http://499816947258321280.ot0711.xyz:80/play/vi428027/hdFucGwknR/321288.ts
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" group-title="MUSIC",4 Turk
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" group-title="MUSIC",Persiana Music
