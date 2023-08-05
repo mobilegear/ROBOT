@@ -262,24 +262,20 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="SPORTS",BeIn Sports English 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="SPORTS",Bein Sport 1 
-#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165105
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 (Arabic)
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/100
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",Bein Sport 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",Bein Sport 2 (Arabic)
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/101
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", beIN Sports  3 
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BeIN Sports  3 (Arabic)
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/102
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS",BeIn Sports Premium 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/109
 #EXTINF:0 tvg-id="beinsports2premium.qa" tvg-name="beIN Sports Premium 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIN Sports Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/280145
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/280145
 #EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://45.129.133.15:8080/3f6d5b2f/4b60123137/280249
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/280249
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BeIn Sports
 http://175.107.244.52:4457/play/a070/index.m3u8
 
