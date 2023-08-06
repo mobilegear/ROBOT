@@ -3,8 +3,10 @@
 
 //MOVIES
 
-
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES",MBC 2
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/237182
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES",MBC 2
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/29108
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="MOVIES",AXN Movies
 http://499816947258321107.ot0711.xyz:80/play/vi428027/hdFucGwknR/321116.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="MOVIES",AMC
@@ -321,17 +323,19 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVS1D5m0jmIkL2CBtx8TzVU/ts
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/232643
+#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS",SuperSport Football
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/38575
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
-#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
+#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS",Champions TV 2
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298513
-#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
+#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298513
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORTS",Champions TV 3
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
+#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298514
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="SPORTS",TVRI SPORT
 #http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -339,11 +343,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b703a262be7/8cc7a41bcc724b4ea668a5ca1aecac90.jpg" group-title="SPORTS",Football TV
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
 
 
