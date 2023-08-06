@@ -228,7 +228,8 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+#https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/238788
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",BEIN SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
