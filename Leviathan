@@ -213,8 +213,6 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/757
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRAGk2aVALdo6PlGBocPFCXHSyVqRKYoCHw&usqp=CAU" group-title="SPORTS",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://play-lh.googleusercontent.com/zqaClOJD3SXsRDutF_Ns_2DO9kGJigY9O14_PLeWIoj04A3ZtXp1YGj3n56EEtreXdg", ON Plus
-https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png" group-title="SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
@@ -241,7 +239,8 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
-
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3 English
+http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS",Astro SuperSport 1
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS",Astro SuperSport 2
@@ -355,7 +354,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c68582449a2e0182597777e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="KNOWLEDGE",Lingua
-https://cdnjkthw.transvision.co.id/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
