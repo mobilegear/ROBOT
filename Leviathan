@@ -3,6 +3,8 @@
 
 //MOVIES
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/180px-Sony_Pix_new.png" group-title="MOVIES",Sony Pix
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/49539
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="MOVIES",Star Movies Select
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/240368
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="MOVIES",Movies Now +
@@ -118,6 +120,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264774
 http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",Hits Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
+#http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1086
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/2560px-HBO_Plus_2000.png", HBO+ 
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/225925
 #http://208.115.225.174:14152
@@ -220,6 +223,8 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157556
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="SPORTS",Astro SuperSport 3
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157557
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",Astro SuperSport 4
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/157558
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -290,13 +295,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298571
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="SPORTS",Star Sports Select HD1
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVS1D5m0jmIkL2CBtx8TzVU/ts
+#http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/82628
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
+#http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/232643
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png" group-title="SPORTS",SuperSport Football
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/38575
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS",Sky Sports Football UK
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/266
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
 #http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
@@ -336,6 +343,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png",BBC Earth
 #http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155737&extension=ts&play_token=otM0DQF4Ff
+#http://tr.bosstv.live:8080/inan1996262/jtUax9eLewYd/390934
 https://newanv-live-cdn.mncnow.id:443/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -350,8 +358,12 @@ https://github.com/OngisMbois/iptv/raw/main/dmax.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE" , Discovery Channel HD
 #https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="KNOWLEDGE",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/134-1341950_discovery-turbo-logo-discovery-turbo.png" group-title="KNOWLEDGE",Discovery Turbo
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/16285
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_velocity_ca.png" group-title="KNOWLEDGE",Discovery Velocity
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2302
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png" group-title="KNOWLEDGE",Discovery Science
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2301
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE" tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia HD", Discovery Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
