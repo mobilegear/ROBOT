@@ -3,14 +3,20 @@
 
 //MOVIES
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES",MBC 2
-http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/237182
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="MOVIES",Star Movies Select
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/240368
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="MOVIES",Movies Now +
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239955
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now.png" group-title="MOVIES",Movies Now
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239957
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies HD
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239949
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239953
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239954
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES",MBC 2
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/29108
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn-movies-us-pt.png" group-title="MOVIES",AXN Movies
-http://499816947258321107.ot0711.xyz:80/play/vi428027/hdFucGwknR/321116.ts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="MOVIES",AMC
-http://499816947258321107.ot0711.xyz:80/play/vi428027/hdFucGwknR/321102.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -154,49 +160,11 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/754
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/193
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime2_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime 2 East
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/195
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime2_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime 2 West
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/196
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_family_zone_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime Family Zone 
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/199
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mgm-logo-C4D6AE714E-seeklogo.com.png" group-title="MOVIES" tvg-id="" tvg-name="", MGM+
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/160
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/221
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_action_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore Action
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/222
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_classic_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore Classic
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/224
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_black_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore Black
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/223
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_family_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore Family
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/225
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_suspense_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore Suspense
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/226
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_kids_family_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Kids & Family
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/229
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-6-cn.png" group-title="MOVIES",CCTV 6
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-comedy-fr.png" group-title="MOVIES",Persiana Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/romedy_now_in.png" group-title="MOVIES", Romedy Now
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155742&extension=ts&play_token=otM0DQF4Ff
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRAGk2aVALdo6PlGBocPFCXHSyVqRKYoCHw&usqp=CAU" group-title="MOVIES",ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/752
+
 
 
 //SPORTS
@@ -423,7 +391,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="HOME ENTERTAINMENT",Zee Café 
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155730&extension=ts&play_token=otM0DQF4Ff
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155730&extension=ts&play_token=otM0DQF4Ff
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239960
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
