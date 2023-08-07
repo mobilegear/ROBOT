@@ -3,7 +3,7 @@
 
 //MOVIES
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" group-title="MOVIES",Star Movies Select
+#EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="MOVIES",Star Movies Select
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/240368
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="MOVIES",Movies Now +
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239955
@@ -11,7 +11,7 @@ http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239955
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239957
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies HD
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239949
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",& flix
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239953
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239954
@@ -119,11 +119,13 @@ http://210.210.155.37/dr9445/h/h37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",Hits Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/2560px-HBO_Plus_2000.png", HBO+ 
-http://208.115.225.174:14152
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/225925
+#http://208.115.225.174:14152
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png", HBO Latin
 http://208.115.225.174:14136
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_pl.png" group-title="MOVIES",HBO2
-http://208.115.225.174:14140
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/32130
+#http://208.115.225.174:14140
 #EXTINF:-1 tvg-id="ParamountNetworkIndonesia.id" tvg-logo="https://i.ibb.co/zrxvFLV/images-6-modified.png" group-title="MOVIES",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -311,8 +313,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-
-
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://media.info/l/o/1/1442.1642633783.png" group-title="SPORTS",LFC TV
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/212320
 
 //KNOWLEDGE
 
@@ -348,6 +350,8 @@ https://github.com/OngisMbois/iptv/raw/main/dmax.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE" , Discovery Channel HD
 #https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="KNOWLEDGE",Discovery Turbo
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/16285
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE" tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia HD", Discovery Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
@@ -433,8 +437,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
-#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://images.pluto.tv/channels/561c5f613286e48904fb2677/colorLogoPNG.png" ,IGN
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" ,SONY India
+http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/240507
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="HOME ENTERTAINMENT",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #http://rr.dens.tv/h/h08/index2.m3u8
