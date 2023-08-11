@@ -12,14 +12,14 @@ http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/314953
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="MOVIES",Movies Now +
 http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239955
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now.png" group-title="MOVIES",Movies Now
-http://appleiptv.com:80/9242/9242/42955
+http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/169118
+http://appleiptv.com:80/9242/9242/42955n
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies HD
 http://appleiptv.com:80/9242/9242/42967
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",& flix
 http://appleiptv.com:80/9242/9242/42960
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
-##http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/49557
-http://appleiptv.com:80/9242/9242/42961
+http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/49557
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES",B4U Movies
 http://appleiptv.com:80/9242/9242/42986
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="MOVIES",MBC 2
@@ -190,7 +190,8 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/756
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/757
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRAGk2aVALdo6PlGBocPFCXHSyVqRKYoCHw&usqp=CAU" group-title="SPORTS",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
+##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
+http://143.244.60.30/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png" group-title="SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
@@ -221,9 +222,10 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157556
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="SPORTS",Astro SuperSport 3
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157557
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="SPORTS",Astro SuperSport 4
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/157558
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-1-th.png" group-title="SPORTS",True Premiere Football 1
+http://103.112.191.9:880/LAOSAT1026.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-2-th.png" group-title="SPORTS",True Premiere Football 2
+http://103.112.191.9:880/LAOSAT1027.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="SPORTS",Abu Dhabi Sports 2
@@ -316,7 +318,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-
+#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn5-192.png" group-title="SPORTS",TSN5
+https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
 //KNOWLEDGE
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
