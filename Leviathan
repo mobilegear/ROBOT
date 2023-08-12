@@ -3,6 +3,8 @@
 
 //MOVIES
 
+#EXTINF:-1 tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="MOVIES",LS TIME Movies
+http://103.112.191.9:880/LAOSAT1084.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/180px-Sony_Pix_new.png" group-title="MOVIES",Sony Pix
 http://appleiptv.com:80/9242/9242/42966
 ##http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/49539
@@ -496,8 +498,8 @@ http://51.210.199.35/hls/stream.m3u8
 
 //MUSIC
 
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/ll/la_sexta_es.png" group-title="MUSIC",La Sexta
-http://499816947258321280.ot0711.xyz:80/play/vi428027/hdFucGwknR/321288.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/220px-Channel_V_Logo.svg.png" group-title="MUSIC",Channel V
+http://103.112.191.9:880/LAOSAT1070.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" group-title="MUSIC",4 Turk
 http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" group-title="MUSIC",Persiana Music
