@@ -253,10 +253,10 @@ http://rr1.dens.tv/h/h05/index.m3u8
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/48355
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR83tJW-8lf8b-YKZ51OLBpZwHTXkCeRp3hAQ&usqp=CAU",DAZN 2 
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/2387
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pelotalibre.com/img/logo-canal/daznlaliga.png",DAZN LaLiga
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 
+http://983626047829318564.ot0711.xyz:80/play/vi428027/hdFucGwknR/318564.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?20220526164651",Movistar LaLiga
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5758.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/298558
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
