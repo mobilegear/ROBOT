@@ -180,10 +180,8 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/756
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/757
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRAGk2aVALdo6PlGBocPFCXHSyVqRKYoCHw&usqp=CAU" group-title="SPORTS",ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
 ##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
-http://143.244.60.30/ESPN/index.m3u8
-
+http://181.78.8.90:16123/play/ch16
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png" group-title="SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="SPORTS",Dubai Sports 2
@@ -194,9 +192,11 @@ http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/165105
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/298506
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1 English
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
+##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
+http://45.12.1.14:80/7JvIck488/meAqNw5218/15000
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3 English
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
+##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
+http://45.12.1.14:80/7JvIck488/meAqNw5218/21517
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS",Astro SuperSport 1
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS",Astro SuperSport 2
@@ -229,18 +229,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 (Arabic)
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/100
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14980
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",Bein Sport 2 (Arabic)
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/101
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14982
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BeIN Sports  3 (Arabic)
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/102
+http://45.12.1.14:80/7JvIck488/meAqNw5218/14984
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBsY0VzIAxgEysPknKRl7nTMU.png" group-title="SPORTS",BeIn Sports Premium 1
-http://redmonkeytv.com:8080/abed/121212/154228
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91334
+#http://redmonkeytv.com:8080/abed/121212/154228
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBseMkilnRsrnLvw3NpjXI2e4.png" group-title="SPORTS",BeIn Sports Premium 2
-http://redmonkeytv.com:8080/abed/121212/154245
+##http://redmonkeytv.com:8080/abed/121212/154245
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91336
 #EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/280249
+http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BeIn Sports
 http://175.107.244.52:4457/play/a070/index.m3u8
 
@@ -288,7 +289,10 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVS1D5m0jmIkL2CBtx8TzVU/ts
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
 #http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/16619
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
+http://45.12.1.14:80/7JvIck488/meAqNw5218/28896
+##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="SPORTS",SuperSport Football
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS",Sky Sports Football UK
 ###http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/266
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/266
