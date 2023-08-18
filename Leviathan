@@ -168,8 +168,8 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/221
 //SPORTS
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-news-de.png" group-title="SPORTS",Sky Sport News
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/260
-##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/260
+##http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/260
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/260
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",TNT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/270
@@ -234,11 +234,10 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/100
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/101
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BeIN Sports  3 (Arabic)
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/102
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png" group-title="SPORTS",BeIn Sports Premium 1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/109
-#EXTINF:0 tvg-id="beinsports2premium.qa" tvg-name="beIN Sports Premium 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png" group-title="SPORTS",beIN Sports Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/280145
+#EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBsY0VzIAxgEysPknKRl7nTMU.png" group-title="SPORTS",BeIn Sports Premium 1
+http://redmonkeytv.com:8080/abed/121212/154228
+#EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBseMkilnRsrnLvw3NpjXI2e4.png" group-title="SPORTS",BeIn Sports Premium 2
+http://redmonkeytv.com:8080/abed/121212/154245
 #EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/280249
@@ -251,7 +250,7 @@ http://rr1.dens.tv/h/h05/index.m3u8
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5589.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/640px-Tv-channel-%E2%94%82-dazn-2.png",DAZN 2
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5590.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-3.png/640px-Tv-channel-%E2%94%82-dazn-3.png",DAZN 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736",DAZN 3
 http://983626047829228394.ot0711.xyz:80/play/vi428027/hdFucGwknR/228394.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga 
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25125.ts
@@ -291,7 +290,8 @@ http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS",Sky Sports Football UK
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/266
+###http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/266
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/266
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
 #http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
