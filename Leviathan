@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="MOVIES",LS TIME Movies
 http://103.112.191.9:880/LAOSAT1084.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/180px-Sony_Pix_new.png" group-title="MOVIES",Sony Pix
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/49539
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 ##http://appleiptv.com:80/9242/9242/42966
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="MOVIES",Star Movies Select
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/267542
@@ -115,7 +115,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://newanv-live-cdn.mncnow.id:443/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264774
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
-http://210.210.155.37/dr9445/h/h37/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",Hits Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 #http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1086
