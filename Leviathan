@@ -3,21 +3,16 @@
 
 //MOVIES
 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/amc-logo.png" group-title="MOVIES",AMC
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/751
 #EXTINF:-1 tvg-logo="https://www.lstime.com.tw/ls_pages/pages/img/img_logo.png" group-title="MOVIES",LS TIME Movies
 http://103.112.191.9:880/LAOSAT1084.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/180px-Sony_Pix_new.png" group-title="MOVIES",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 ##http://appleiptv.com:80/9242/9242/42966
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="MOVIES",Star Movies Select
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/267542
-##http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/314953
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now_plus_hd.png" group-title="MOVIES",Movies Now +
-http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239955
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/movies_now.png" group-title="MOVIES",Movies Now
-#http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/169118
-http://appleiptv.com:80/9242/9242/42955
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="MOVIES",Star Movies HD
-http://appleiptv.com:80/9242/9242/42967
+##http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/267542
+http://amazingiptv.live:8080/Denizsubasi/utvmHTsEA6H5/314953
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",& flix
 http://appleiptv.com:80/9242/9242/42960
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
@@ -78,7 +73,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-id="HBOAsia.sg" tvg-name="HBO HD", HBO HD
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197972
-##http://103.112.191.9:880/LAOSAT1089.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -362,7 +356,7 @@ http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/16285
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_velocity_ca.png" group-title="KNOWLEDGE",Discovery Velocity
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2302
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png" group-title="KNOWLEDGE",Discovery Science
-http://appleiptv.com:80/9242/9242/27510
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/713
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE" tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia HD", Discovery Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
@@ -405,8 +399,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 //HOME ENTERTAINMENT 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/733
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/7/75/MPL_Indonesia_Season_8_allmode.png" group-title="HOME ENTERTAINMENT",Mobile Legend
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692549198/ei/7uvhZIj0B6Oa4t4Pnouh0Ak/ip/125.166.1.228/id/O5mU14_MCx0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f4LAGV2SC-ygOxv2vuzkQw_JqFHyCLb0Jh-LXw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOrjp0N4e-AQwx32cxuceAN_2dMOqEXHeHyOUvhAfm2qAiEAoLHLNNQCiBizDt1EtXBHWSdO0Sc4lThujvb2tIYZ4O8%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="HOME ENTERTAINMENT",Fox life
