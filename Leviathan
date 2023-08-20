@@ -481,10 +481,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/120/627/png-transparent-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-angle-thumbnail.png" group-title="HOME ENTERTAINMENT", TVN 
 https://newanv-live-cdn.mncnow.id:443/live/eds/tvN/sa_dash_vmx/tvN.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" tvg-id="WarnerTV.id" tvg-name="Warner TV" group-title="HOME ENTERTAINMENT",Warner TV
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png",RTP
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png",Persiana Two
