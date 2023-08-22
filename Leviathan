@@ -13,9 +13,8 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267542
 http://appleiptv.com:80/9242/9242/42960
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
 http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/49557
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES",B4U Movies
-http://appleiptv.com:80/9242/9242/42986
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/696705360304979968/hKrB1OuV_400x400.png" group-title="MOVIES",Cinebox Animation
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
@@ -176,7 +175,7 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/756
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/757
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRAGk2aVALdo6PlGBocPFCXHSyVqRKYoCHw&usqp=CAU" group-title="SPORTS",ESPN
 ##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
-http://181.78.8.90:16123/play/ch16
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1427
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png" group-title="SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="SPORTS",Dubai Sports 2
@@ -354,7 +353,7 @@ http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/16285
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_velocity_ca.png" group-title="KNOWLEDGE",Discovery Velocity
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2302
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png" group-title="KNOWLEDGE",Discovery Science
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/713
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1898
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE" tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia HD", Discovery Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
@@ -396,11 +395,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 
 //HOME ENTERTAINMENT 
 
-
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/278/916/png-transparent-television-channel-e-television-producer-entertainment-tv-shows-miscellaneous-television-text-thumbnail.png" group-title="HOME ENTERTAINMENT",E
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1900
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/733
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/7/75/MPL_Indonesia_Season_8_allmode.png" group-title="HOME ENTERTAINMENT",Mobile Legend
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692549198/ei/7uvhZIj0B6Oa4t4Pnouh0Ak/ip/125.166.1.228/id/O5mU14_MCx0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/spc/UWF9f4LAGV2SC-ygOxv2vuzkQw_JqFHyCLb0Jh-LXw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363391/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOrjp0N4e-AQwx32cxuceAN_2dMOqEXHeHyOUvhAfm2qAiEAoLHLNNQCiBizDt1EtXBHWSdO0Sc4lThujvb2tIYZ4O8%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="HOME ENTERTAINMENT",Fox life
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165083
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/120px-Fashion_TV_logo.svg.png" group-title="HOME ENTERTAINMENT",Fashion TV
