@@ -13,8 +13,9 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267542
 http://appleiptv.com:80/9242/9242/42960
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
 http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/49557
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/696705360304979968/hKrB1OuV_400x400.png" group-title="MOVIES",Cinebox Animation
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/107-1071213_sky-cinema-premiere-sky-cinema-modern-greats.png" group-title="MOVIES",Sky Cinema Premiere
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10397
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
@@ -290,8 +291,8 @@ http://45.12.1.14:80/7JvIck488/meAqNw5218/28896
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="SPORTS",SuperSport Football
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS",Sky Sports Football UK
-###http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/266
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/266
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/8462
+##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/266
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
 #http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
@@ -349,7 +350,7 @@ https://github.com/OngisMbois/iptv/raw/main/dmax.m3u8
 #https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/134-1341950_discovery-turbo-logo-discovery-turbo.png" group-title="KNOWLEDGE",Discovery Turbo
-http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/16285
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10346
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_velocity_ca.png" group-title="KNOWLEDGE",Discovery Velocity
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2302
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png" group-title="KNOWLEDGE",Discovery Science
@@ -396,7 +397,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 //HOME ENTERTAINMENT 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/278/916/png-transparent-television-channel-e-television-producer-entertainment-tv-shows-miscellaneous-television-text-thumbnail.png" group-title="HOME ENTERTAINMENT",E
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1900
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10349
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/733
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="HOME ENTERTAINMENT",Fox life
