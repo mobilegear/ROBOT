@@ -3,6 +3,8 @@
 
 //MOVIES
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WKorCZPnSARNkD3bgyGDwhm3xk6biMD3ssiuVAh4&s" group-title="MOVIES",Sky Cinema Animation
+http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/1090
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2560px-Cosmo_TV_logo.svg.png" group-title="MOVIES",Cosmo
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5585.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="MOVIES",MN+
