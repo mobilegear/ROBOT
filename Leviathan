@@ -3,6 +3,8 @@
 
 //MOVIES
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2560px-Cosmo_TV_logo.svg.png" group-title="MOVIES",Cosmo
+http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5585.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="MOVIES",MN+
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156025&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424" group-title="MOVIES",Movies Now
@@ -254,6 +256,7 @@ http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="SPORTS",FIGHT SPORTS
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tv-channel-%E2%94%82-dazn-1.png/640px-Tv-channel-%E2%94%82-dazn-1.png",DAZN 1
+##http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28893
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5589.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/640px-Tv-channel-%E2%94%82-dazn-2.png",DAZN 2
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5590.ts
@@ -294,32 +297,18 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extensi
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
 ##http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="SPORTS",SuperSport Premier League
-http://45.12.1.14:80/7JvIck488/meAqNw5218/28896
-##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/11642
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="SPORTS",SuperSport Football
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS",Sky Sports Football UK
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/8462
-##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/266
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORTS",Champions TV 1
-#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298512
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORTS",Champions TV 2
-#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298513
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298513
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORTS",Champions TV 3
-#http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298514
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298514
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-sport-id.png" group-title="SPORTS",TVRI SPORT
-#http://210.210.155.37/qwr9ew/s/s107/index.m3u8
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-news-vector-logo-2021.png" group-title="SPORTS",Sky Sports News UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14651
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="SPORTS",Sky Sports Premier League UK
+http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14655
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS",Unifi Sports
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tsn5-192.png" group-title="SPORTS",TSN5
-https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2019/9/11/1568167382705_947.jpg" group-title="SPORTS",CCTV-5
 http://103.112.191.9:880/LAOSAT1001.m3u8
 
