@@ -3,8 +3,8 @@
 
 //MOVIES
 
-
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="MOVIES",MN+
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156025&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424" group-title="MOVIES",Movies Now
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156022&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/MNX.png/revision/latest?cb=20171207192500" group-title="MOVIES",MNX
