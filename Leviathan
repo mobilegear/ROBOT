@@ -3,6 +3,8 @@
 
 //MOVIES
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KCv5nJoyJeDzXmR18SQZD21nfR61QeKhhnFElQZSNqT4kawvGH3nynDQoOD8pjRH7TKh=w2560-h1440-rw" group-title="MOVIES",Cinebox Animation
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WKorCZPnSARNkD3bgyGDwhm3xk6biMD3ssiuVAh4&s" group-title="MOVIES",Sky Cinema Animation
 http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/1090
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2560px-Cosmo_TV_logo.svg.png" group-title="MOVIES",Cosmo
@@ -178,15 +180,6 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/221
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-news-de.png" group-title="SPORTS",Sky Sport News
 ##http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/260
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/260
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="SPORTS",TNT Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/270
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORTS",FS1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/756
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/200px-FS2_logo_2015.svg.png" group-title="SPORTS",FS2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.230.161 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/757
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRAGk2aVALdo6PlGBocPFCXHSyVqRKYoCHw&usqp=CAU" group-title="SPORTS",ESPN
 ##http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/747
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1427
@@ -239,17 +232,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 (Arabic)
-http://45.12.1.14:80/7JvIck488/meAqNw5218/14980
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13868
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",Bein Sport 2 (Arabic)
-http://45.12.1.14:80/7JvIck488/meAqNw5218/14982
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13869
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BeIN Sports  3 (Arabic)
-http://45.12.1.14:80/7JvIck488/meAqNw5218/14984
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13872
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBsY0VzIAxgEysPknKRl7nTMU.png" group-title="SPORTS",BeIn Sports Premium 1
-http://45.12.1.14:80/7JvIck488/meAqNw5218/91334
-#http://redmonkeytv.com:8080/abed/121212/154228
+http://redmonkeytv.com:8080/abed/121212/154228
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBseMkilnRsrnLvw3NpjXI2e4.png" group-title="SPORTS",BeIn Sports Premium 2
 ##http://redmonkeytv.com:8080/abed/121212/154245
-http://45.12.1.14:80/7JvIck488/meAqNw5218/91336
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13898
 #EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
 http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BeIn Sports
@@ -301,6 +293,8 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extensi
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="SPORTS",SuperSport Football
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F900%2Fsupersport-premier-l-1.png" group-title="SPORTS",SuperSport Premier League
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/11567
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS",Sky Sports Football UK
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/8462
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-news-vector-logo-2021.png" group-title="SPORTS",Sky Sports News UK
@@ -392,16 +386,14 @@ http://iptv.prosto.tv:7000/ch111/video.m3u8
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="KNOWLEDGE",Da Vinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
-#http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
 
 //HOME ENTERTAINMENT 
 
 
-mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/278/916/png-transparent-television-channel-e-television-producer-entertainment-tv-shows-miscellaneous-television-text-thumbnail.png" group-title="HOME ENTERTAINMENT",E
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/25217
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1900
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
-http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/733
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10341
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="HOME ENTERTAINMENT",Fox life
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
 ##http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165083
