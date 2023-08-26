@@ -3,6 +3,8 @@
 
 //MOVIES
 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" group-title="MOVIES",AMC
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/1083/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KCv5nJoyJeDzXmR18SQZD21nfR61QeKhhnFElQZSNqT4kawvGH3nynDQoOD8pjRH7TKh=w2560-h1440-rw" group-title="MOVIES",Cinebox Animation
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WKorCZPnSARNkD3bgyGDwhm3xk6biMD3ssiuVAh4&s" group-title="MOVIES",Sky Cinema Animation
@@ -248,7 +250,7 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13869
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BeIN Sports  3 (Arabic)
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13872
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBsY0VzIAxgEysPknKRl7nTMU.png" group-title="SPORTS",BeIn Sports Premium 1
-http://redmonkeytv.com:8080/abed/121212/154228
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/6131/index.m3u8
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBseMkilnRsrnLvw3NpjXI2e4.png" group-title="SPORTS",BeIn Sports Premium 2
 ##http://redmonkeytv.com:8080/abed/121212/154245
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13898
@@ -260,10 +262,11 @@ http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="SPORTS",FIGHT SPORTS
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tv-channel-%E2%94%82-dazn-1.png/640px-Tv-channel-%E2%94%82-dazn-1.png",DAZN 1
-##http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28893
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5589.ts
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/19042/index.m3u8
+##http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5589.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/640px-Tv-channel-%E2%94%82-dazn-2.png",DAZN 2
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5590.ts
+##http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5590.ts
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/19043/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736",DAZN 3
 http://983626047829228394.ot0711.xyz:80/play/vi428027/hdFucGwknR/228394.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga 
