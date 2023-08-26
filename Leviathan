@@ -18,16 +18,17 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156021&extensi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/180px-Sony_Pix_new.png" group-title="MOVIES",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES",Star Movies
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155727&extension=ts&play_token=otM0DQF4Ff
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155727&extension=ts&play_token=otM0DQF4Ff
+http://103.178.58.13:8000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="MOVIES",Star Movies Select
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155729&extension=ts&play_token=otM0DQF4Ff
 ##http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267542
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",& flix
-##http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239953
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
+http://103.178.58.13:8000/play/a046/index.m3u8
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
-##http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/239954
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
+http://103.178.58.13:8000/play/a041/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/107-1071213_sky-cinema-premiere-sky-cinema-modern-greats.png" group-title="MOVIES",Sky Cinema Premiere
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10397
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -179,8 +180,11 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/221
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://media.info/i/lf/0/1690027797/1539.png" group-title="SPORTS",TNT Sport 1
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2245
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="SPORTS",TNT Sport 1
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2505/index.m3u8
+##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2245
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="SPORTS",TNT Sport 1
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2506/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS",LFC TV
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sport-news-de.png" group-title="SPORTS",Sky Sport News
@@ -198,12 +202,12 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165105
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1 English
-##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/110
-http://45.12.1.14:80/7JvIck488/meAqNw5218/15000
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3 English
-##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298506
-http://45.12.1.14:80/7JvIck488/meAqNw5218/21517
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png" group-title="SPORTS",BEIN SPORTS 1 France
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2499/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f211%2fbein-sports-french-1.png" group-title="SPORTS",BEIN SPORTS 2 France
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2500/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png" group-title="SPORTS",BEIN SPORTS 3 France
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2501/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="SPORTS",Astro SuperSport 1
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146068
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="SPORTS",Astro SuperSport 2
@@ -292,11 +296,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298571
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="SPORTS",Star Sports Select HD1
-##http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVS1D5m0jmIkL2CBtx8TzVU/ts
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVS1D5m0jmIkL2CBtx8TzVU/ts
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2508/index.m3u8
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
-##http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
+###http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
+http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2507/index.m3u8
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="SPORTS",SuperSport Football
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F900%2Fsupersport-premier-l-1.png" group-title="SPORTS",SuperSport Premier League
