@@ -4,7 +4,8 @@
 //MOVIES
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" group-title="MOVIES",AMC
-http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/1083/index.m3u8
+##http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/1083/index.m3u8
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/11652
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KCv5nJoyJeDzXmR18SQZD21nfR61QeKhhnFElQZSNqT4kawvGH3nynDQoOD8pjRH7TKh=w2560-h1440-rw" group-title="MOVIES",Cinebox Animation
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WKorCZPnSARNkD3bgyGDwhm3xk6biMD3ssiuVAh4&s" group-title="MOVIES",Sky Cinema Animation
