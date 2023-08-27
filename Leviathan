@@ -165,7 +165,8 @@ http://210.210.155.37/dr9445/h/h21/index.m3u8
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/230
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="MOVIES",Comedy Central
 #http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/754
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
+http://194.76.186.22:8000/play/a04b
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://tvchannelbranding.files.wordpress.com/2016/03/flik_id_wip_08_cutstyle0-00-19-24.jpg?w=788&h=443" group-title="MOVIES",Flik
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/165095
 
@@ -320,6 +321,8 @@ http://103.112.191.9:880/LAOSAT1001.m3u8
 
 //KNOWLEDGE
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="KNOWLEDGE",Sony BBC Earth
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
