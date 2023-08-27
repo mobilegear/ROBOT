@@ -27,8 +27,7 @@ http://103.178.58.13:8000/play/a04n/index.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155729&extension=ts&play_token=otM0DQF4Ff
 ##http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267542
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",& flix
-http://59.103.244.39:8000/play/a004/index.m3u8
-##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
 ##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
 http://103.178.58.13:8000/play/a041/index.m3u8
