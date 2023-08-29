@@ -276,8 +276,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORTS",SPOTV 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298570
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -288,11 +287,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="SPORTS",Star Sports Select HD1
 http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJVS1D5m0jmIkL2CBtx8TzVU/ts
-http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2508/index.m3u8
 ##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
-###http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
-http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2507/index.m3u8
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJbK3cV8Igs0lnGD0EOO2NOc/ts
 ##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="SPORTS",SuperSport Football
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
@@ -453,7 +450,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" ,SONY India
-http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/240507
+http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXeNH1FoimwDQljJT-fmem8/ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="HOME ENTERTAINMENT",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #http://rr.dens.tv/h/h08/index2.m3u8
@@ -623,8 +620,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u
 
 
 #EXTINF:0 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+http://45.5.117.182:8000/play/a0ga/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="KIDS", Baby TV
 https://newanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamworks-tv-us.svg.png" group-title="KIDS", DreamWorks
