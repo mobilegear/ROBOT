@@ -3,8 +3,9 @@
 
 //MOVIES
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" group-title="MOVIES",AMC
-##http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/1083/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="MOVIES",MovieTime
+http://tvmate.icu:8080/ron@champagne/ron@2022/47331
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="MOVIES",AMC
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/11652
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KCv5nJoyJeDzXmR18SQZD21nfR61QeKhhnFElQZSNqT4kawvGH3nynDQoOD8pjRH7TKh=w2560-h1440-rw" group-title="MOVIES",Cinebox Animation
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
@@ -391,7 +392,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/278/916/png-transparent-television-channel-e-television-producer-entertainment-tv-shows-miscellaneous-television-text-thumbnail.png" group-title="HOME ENTERTAINMENT",E
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1900
+http://tvmate.icu:8080/ron@champagne/ron@2022/57422
+##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1900
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10341
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="HOME ENTERTAINMENT",Fox life
@@ -448,7 +450,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" ,SONY India
-http://bananatv.org:25461/play/dEDyyGS4i_lsegerhsnhJXeNH1FoimwDQljJT-fmem8/ts
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="HOME ENTERTAINMENT",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #http://rr.dens.tv/h/h08/index2.m3u8
@@ -487,8 +489,6 @@ https://newanv-live-cdn.mncnow.id:443/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" tvg-id="WarnerTV.id" tvg-name="Warner TV" group-title="HOME ENTERTAINMENT",Warner TV
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-1-pt.png",RTP
-http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png",Persiana Two
 http://51.210.199.35/hls/stream.m3u8
 
