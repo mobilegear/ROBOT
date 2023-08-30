@@ -176,10 +176,9 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/221
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="SPORTS",TNT Sport 1
-http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2505/index.m3u8
-##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2245
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2245
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="SPORTS",TNT Sport 1
-http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/2506/index.m3u8
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS",LFC TV
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg" group-title="SPORTS",Digi Sport 1
@@ -299,7 +298,7 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/8462
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-news-vector-logo-2021.png" group-title="SPORTS",Sky Sports News UK
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14651
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="SPORTS",Sky Sports Premier League UK
-http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/14655
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS",Unifi Sports
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
