@@ -2,7 +2,8 @@
 
 
 //MOVIES
-
+#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MOVIES",MBC 2
+http://s1.pubnow.info:8080/elfaiz/7968532/417347
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="MOVIES",MovieTime
 http://tvmate.icu:8080/ron@champagne/ron@2022/47331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="MOVIES",AMC
@@ -285,9 +286,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u
 #https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="SPORTS",Star Sports Select HD1
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
+http://s1.pubnow.info:8080/elfaiz/7968532/426337
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
+http://s1.pubnow.info:8080/elfaiz/7968532/426338
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="SPORTS",SuperSport Football
 http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F900%2Fsupersport-premier-l-1.png" group-title="SPORTS",SuperSport Premier League
