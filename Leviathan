@@ -2,6 +2,9 @@
 
 
 //MOVIES
+
+
+
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MOVIES",MBC 2
 http://s1.pubnow.info:8080/elfaiz/7968532/417347
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="MOVIES",MovieTime
@@ -25,8 +28,8 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES",Star Movies
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155727&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="MOVIES",Star Movies Select
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155729&extension=ts&play_token=otM0DQF4Ff
-##http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267542
+http://103.61.73.220:8000/play/a04d
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155729&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",& flix
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
