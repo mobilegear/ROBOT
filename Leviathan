@@ -14,7 +14,8 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/11652
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KCv5nJoyJeDzXmR18SQZD21nfR61QeKhhnFElQZSNqT4kawvGH3nynDQoOD8pjRH7TKh=w2560-h1440-rw" group-title="MOVIES",Cinebox Animation
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WKorCZPnSARNkD3bgyGDwhm3xk6biMD3ssiuVAh4&s" group-title="MOVIES",Sky Cinema Animation
-http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/1090
+##http://iptvtree.net:8080/Giobox2/aPnVqQVT6GXhu92E/1090
+http://tvmate.icu:8080/ron@champagne/ron@2022/53698
 #EXTINF:-1 tvg-logo="https://scontent.fcgk32-1.fna.fbcdn.net/v/t39.30808-6/311485400_545342090930048_1613415293278482928_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=pVT5fjs9thUAX-CSVIv&_nc_ht=scontent.fcgk32-1.fna&oh=00_AfB_fXOGON9711fQNxXN4NHf60wE3C1rXpWoOzaUcfmSJQ&oe=64F72A82" group-title="MOVIES",Filmstream
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="MOVIES",MN+
@@ -393,7 +394,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 //HOME ENTERTAINMENT 
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/278/916/png-transparent-television-channel-e-television-producer-entertainment-tv-shows-miscellaneous-television-text-thumbnail.png" group-title="HOME ENTERTAINMENT",E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/640px-E%21_Logo.svg.png" group-title="HOME ENTERTAINMENT",E
 ##http://tvmate.icu:8080/ron@champagne/ron@2022/11651
 http://tvmate.icu:8080/ron@champagne/ron@2022/57422
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
