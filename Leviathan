@@ -254,9 +254,7 @@ http://175.107.244.52:4457/play/a070/index.m3u8
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tv-channel-%E2%94%82-dazn-1.png/640px-Tv-channel-%E2%94%82-dazn-1.png",DAZN 1
 http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/19042/index.m3u8
-##http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5589.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/640px-Tv-channel-%E2%94%82-dazn-2.png",DAZN 2
-##http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5590.ts
 http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/19043/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736",DAZN 3
 http://983626047829228394.ot0711.xyz:80/play/vi428027/hdFucGwknR/228394.ts
@@ -269,8 +267,8 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5758.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298558
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298558
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/29/ec/0d/29ec0d8dbdd014a41f6c6039350ae24c.jpg" group-title="SPORTS",Red Bull Tv
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png?20171004153543" group-title="SPORTS",FS 1
+http://tvmate.icu:8080/ron@champagne/ron@2022/46792
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -396,8 +394,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/278/916/png-transparent-television-channel-e-television-producer-entertainment-tv-shows-miscellaneous-television-text-thumbnail.png" group-title="HOME ENTERTAINMENT",E
-http://tvmate.icu:8080/ron@champagne/ron@2022/11651
-##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1900
+##http://tvmate.icu:8080/ron@champagne/ron@2022/11651
+http://tvmate.icu:8080/ron@champagne/ron@2022/57422
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10341
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="HOME ENTERTAINMENT",Fox life
