@@ -20,8 +20,8 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/11652
 ###http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
 http://tvmate.icu:8080/ron@champagne/ron@2022/119420
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WKorCZPnSARNkD3bgyGDwhm3xk6biMD3ssiuVAh4&s" group-title="MOVIES",Sky Cinema Animation
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/1090
-###http://tvmate.icu:8080/ron@champagne/ron@2022/53698
+http://tvmate.icu:8080/ron@champagne/ron@2022/53698
+###http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/1090
 #EXTINF:-1 tvg-logo="https://scontent.fcgk32-1.fna.fbcdn.net/v/t39.30808-6/311485400_545342090930048_1613415293278482928_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=pVT5fjs9thUAX-CSVIv&_nc_ht=scontent.fcgk32-1.fna&oh=00_AfB_fXOGON9711fQNxXN4NHf60wE3C1rXpWoOzaUcfmSJQ&oe=64F72A82" group-title="MOVIES",Filmstream
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="MOVIES",MN+
@@ -184,8 +184,8 @@ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 http://s1.pubnow.info:8080/elfaiz/7968532/97
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_White_RGB_Logo.png" group-title="SPORTS",TNT Sport 1
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2245
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_White_RGB_Logo.png" group-title="SPORTS",TNT Sport 1
-http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg?20171120203825" group-title="SPORTS",Eleven Sports 1
+http://tvmate.icu:8080/ron@champagne/ron@2022/35264
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS",LFC TV
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg" group-title="SPORTS",Digi Sport 1
@@ -203,10 +203,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/true-premiere-football-hd-3-th.pngemier3.png" group-title="SPORTS",True Premiere Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
 ##http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/162592
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -291,7 +287,8 @@ http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS",Sky Sports Football UK
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/8462
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-news-vector-logo-2021.png" group-title="SPORTS",Sky Sports News UK
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/260
+###http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/260
+http://tvmate.icu:8080/ron@champagne/ron@2022/35241
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="SPORTS",Sky Sports Premier League UK
 http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/263
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS",Unifi Sports
@@ -343,7 +340,8 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10346
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_velocity_ca.png" group-title="KNOWLEDGE",Discovery Velocity
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2302
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png" group-title="KNOWLEDGE",Discovery Science
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1898
+##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1898
+http://tvmate.icu:8080/ron@champagne/ron@2022/20866
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE" tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia HD", Discovery Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
@@ -612,7 +610,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u
 
 
 #EXTINF:0 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",Baby First
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1101
+http://tvmate.icu:8080/ron@champagne/ron@2022/58765
+##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1101
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="KIDS", Baby TV
 https://newanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamworks-tv-us.svg.png" group-title="KIDS", DreamWorks
