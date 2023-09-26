@@ -175,15 +175,17 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/221
 
 //SPORTS
 
-
-
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",Sony TEN 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SPORTS",Astro SuperSport
+http://sysadminhost.net:8080/stadnik/6a627b52a9/146068
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SPORTS",Astro SuperSport 2
+http://sysadminhost.net:8080/stadnik/6a627b52a9/157556
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 2 HD
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 3 HD
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 4 HD
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 
@@ -221,22 +223,13 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296835
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="SPORTS",Eurosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="SPORTS",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",Bein Sport 1 (Arabic)
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13868
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORTS",Bein Sport 2 (Arabic)
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13869
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="SPORTS", BeIN Sports  3 (Arabic)
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13872
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBsY0VzIAxgEysPknKRl7nTMU.png" group-title="SPORTS",BeIn Sports Premium 1
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBseMkilnRsrnLvw3NpjXI2e4.png" group-title="SPORTS",BeIn Sports Premium 2
-##http://redmonkeytv.com:8080/abed/121212/154245
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13898
+http://redmonkeytv.com:8080/abed/121212/154245
+##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13898
 #EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
 http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BeIn Sports
@@ -285,18 +278,6 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/82628
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
 ####http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/16619
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="SPORTS",SuperSport Football
-http://45.12.1.14:80/HajrudinAljo/ipcTeS6842/28901
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F900%2Fsupersport-premier-l-1.png" group-title="SPORTS",SuperSport Premier League
-http://dontuse3.strmz.cc:2082/mdaley99/DaUGMWipjG/2187001
-###http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/11567
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" group-title="SPORTS",Sky Sports Football UK
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/8462
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-news-vector-logo-2021.png" group-title="SPORTS",Sky Sports News UK
-###http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/260
-http://tvmate.icu:8080/ron@champagne/ron@2022/35241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg" group-title="SPORTS",Sky Sports Premier League UK
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/263
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS",Unifi Sports
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
