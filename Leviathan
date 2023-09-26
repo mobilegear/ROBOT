@@ -154,12 +154,11 @@ http://rr.dens.tv/h/h193/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",Thrill
-https://newanv-live-cdn.mncnow.id:443/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+http://rr2.dens.tv/s/s34/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="MOVIES",TVN Movies
-https://newanv-live-cdn.mncnow.id:443/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
-
+http://rr1.dens.tv/h/h21/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/super-channel-vault-ca.png" group-title="MOVIES" tvg-id="" tvg-name="", Super Channel Vault
@@ -349,8 +348,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="",  History
-#https://newanv-live-cdn.mncnow.id:443/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
@@ -364,8 +361,7 @@ https://newanv-live-cdn.mncnow.id:443/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild
-#http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
-https://newanv-live-cdn.mncnow.id:443/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 #http://45.129.133.15:8080/3f6d5b2f/4b60123137/457
 #EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
