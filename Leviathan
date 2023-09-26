@@ -169,6 +169,8 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/193
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Starz Encore
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/221
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIsrW9qjrCOWa1Ou4pYUeWrrYBtBcRv9tAHFJuMvCLzw&s" group-title="MOVIES" tvg-id="" tvg-name="", Horror Channel
+http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/882223
 
 
 
@@ -195,7 +197,8 @@ http://s1.pubnow.info:8080/elfaiz/7968532/97
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg?20171120203825" group-title="SPORTS",Eleven Sports 1
 http://tvmate.icu:8080/ron@champagne/ron@2022/35264
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS",LFC TV
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
+http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/577953
+##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg" group-title="SPORTS",Digi Sport 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi2hdhu.jpg" group-title="SPORTS",Digi Sport 2
