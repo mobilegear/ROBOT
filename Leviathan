@@ -84,8 +84,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-id="HBOAsia.sg" tvg-name="HBO HD", HBO HD
-##https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197972
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+##http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197972
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits HD", HBO Hits
 ##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
