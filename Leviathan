@@ -183,10 +183,7 @@ http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/882223
 
 //SPORTS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SPORTS",Astro SuperSport
-http://sysadminhost.net:8080/stadnik/6a627b52a9/146068
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SPORTS",Astro SuperSport 2
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157556
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 2 HD
@@ -203,8 +200,7 @@ http://s1.pubnow.info:8080/elfaiz/7968532/97
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg?20171120203825" group-title="SPORTS",Eleven Sports 1
 http://tvmate.icu:8080/ron@champagne/ron@2022/35264
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS",LFC TV
-http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/577953
-##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg" group-title="SPORTS",Digi Sport 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi2hdhu.jpg" group-title="SPORTS",Digi Sport 2
@@ -237,12 +233,10 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBsY0VzIAxgEysPknKRl7nTMU.png" group-title="SPORTS",BeIn Sports Premium 1
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBseMkilnRsrnLvw3NpjXI2e4.png" group-title="SPORTS",BeIn Sports Premium 2
-http://redmonkeytv.com:8080/abed/121212/154245
-##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13898
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13898
 #EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
 http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-qa.png" group-title="SPORTS",BeIn Sports
-http://175.107.244.52:4457/play/a070/index.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="SPORTS",FIGHT SPORTS
 http://rr1.dens.tv/h/h05/index.m3u8
