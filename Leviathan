@@ -192,9 +192,10 @@ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 4 HD
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-
-
-
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="SPORTS",De:Sky Sports Premier League
+http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/284459
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="SPORTS",S Sport
+http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/76313
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/83px-Logo_RMC_Sport_1_2018.svg.png?20230311183519" group-title="SPORTS",RMC 1
 http://s1.pubnow.info:8080/elfaiz/7968532/97
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg?20171120203825" group-title="SPORTS",Eleven Sports 1
@@ -241,7 +242,7 @@ http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
 #EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="SPORTS",FIGHT SPORTS
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tv-channel-%E2%94%82-dazn-1.png/640px-Tv-channel-%E2%94%82-dazn-1.png",DAZN 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/48355
+http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/238118
 ##http://assista.pro:80/0333686557/Vilamariante1/130503
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/640px-Tv-channel-%E2%94%82-dazn-2.png",DAZN 2
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2387
@@ -255,9 +256,11 @@ http://983626047829318564.ot0711.xyz:80/play/vi428027/hdFucGwknR/318564.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?20220526164651",Movistar LaLiga
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5758.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298558
+##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2100
+http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/238113
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png?20171004153543" group-title="SPORTS",FS 1
-http://tvmate.icu:8080/ron@champagne/ron@2022/46792
+##http://tvmate.icu:8080/ron@champagne/ron@2022/46792
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2177
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
