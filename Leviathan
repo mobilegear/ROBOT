@@ -93,9 +93,7 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221948 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax HD", Cinemax
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
 ##http://tvkuonline.my.id:25461/riyad/riyad/424
 
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197964
@@ -201,10 +199,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1
-http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165105
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298506
-##http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/162592
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298506
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="SPORTS",Abu Dhabi Sports 2
@@ -336,11 +333,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE",  Love Nature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
 #https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeo.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild
@@ -349,7 +343,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 #EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tech-storm-sg.png" group-title="KNOWLEDGE",Tech Storm
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.sweet.tv/images/icons/channels/v2/521-cars-stars-hd.png" group-title="KNOWLEDGE",Car & Star TV
 http://iptv.prosto.tv:7000/ch111/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wildearth-za.png" group-title="KNOWLEDGE",WildEarth
@@ -360,14 +354,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 //HOME ENTERTAINMENT 
 
 
+#EXTINF:-1 tvg-logo="https://www.radiantstudios.co.uk/jobs/download/image.file.8bf4c52403cd38ef.4242435f4c6966657374796c655f30312e706e67.png" group-title="HOME ENTERTAINMENT",BBC lifestyle
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264747
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/640px-E%21_Logo.svg.png" group-title="HOME ENTERTAINMENT",E
 ##http://tvmate.icu:8080/ron@champagne/ron@2022/11651
 http://tvmate.icu:8080/ron@champagne/ron@2022/57422
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10341
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="HOME ENTERTAINMENT",Fox life
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
-##http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165083
+##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165083
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/120px-Fashion_TV_logo.svg.png" group-title="HOME ENTERTAINMENT",Fashion TV
 http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="HOME ENTERTAINMENT",Zee Café 
