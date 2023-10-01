@@ -40,8 +40,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267542
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",& flix
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
-##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/49557
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/107-1071213_sky-cinema-premiere-sky-cinema-modern-greats.png" group-title="MOVIES",Sky Cinema Premiere
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10397
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -87,10 +86,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmudrmpunyaku.garudatvvip.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-##http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197972
-#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197972
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits HD", HBO Hits
-##https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=https://cubmupart4.apiv2x.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="MOVIES",HBO Hits
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/196480
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
