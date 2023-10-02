@@ -10,8 +10,7 @@ http://tvmate.icu:8080/ron@champagne/ron@2022/119436
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/media/675be73f9f784c700a249f848fefbf0b.png" group-title="MOVIES",Cinebox Thriller
 http://tvmate.icu:8080/ron@champagne/ron@2022/119437
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MOVIES",MBC 2
-http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/1247
-##http://s1.pubnow.info:8080/elfaiz/7968532/417338
+http://s1.pubnow.info:8080/elfaiz/7968532/417338
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="MOVIES",MovieTime
 http://tvmate.icu:8080/ron@champagne/ron@2022/47331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="MOVIES",AMC
@@ -103,7 +102,8 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="MOVIES",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:0 tvg-id="GalaxyPremium.Id" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="Movies",Galaxy Premium
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264774
+##http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264774
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/60374
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",Hits Movies
@@ -150,8 +150,7 @@ http://rr1.dens.tv/h/h21/index.m3u8
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/230
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="MOVIES",Comedy Central
 #http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/754
-http://194.76.186.22:8000/play/a04b
-##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="MOVIES",Flik
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165095
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/showtime_east.png" group-title="MOVIES" tvg-id="" tvg-name="", Showtime
@@ -178,8 +177,8 @@ https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 4 HD
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="SPORTS",De:Sky Sports Premier League
-http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/284459
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="SPORTS",Sky Sports Premier League
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2877
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="SPORTS",S Sport
 http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/76313
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/83px-Logo_RMC_Sport_1_2018.svg.png?20230311183519" group-title="SPORTS",RMC 1
@@ -208,9 +207,9 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="SPORTS",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f15%2fad-sports-premium-1.png" group-title="SPORTS",Abu Dhabi Sports Premium 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296836
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/27656
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f2%2f16%2fad-sports-premium-1.png" group-title="SPORTS",Abu Dhabi Sports Premium 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296835
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/27655
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="SPORTS",Eurosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
@@ -335,7 +334,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
 #https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeo.m3u8
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/55352
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild
@@ -385,10 +384,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="HOME ENTERTAINMENT",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="HOME ENTERTAINMENT",AXN 
-https://newanv-live-cdn.mncnow.id:443/live/eds/AXN/sa_dash_vmx/AXN.mpd
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/60457
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="HOME ENTERTAINMENT",ANIMAX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
