@@ -4,7 +4,7 @@
 //MOVIES
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png" group-title="MOVIES",Cinemaworld
-https://op-group2-swiftservehd-1.dens.tv/h/h04/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=CinemaWorld_HD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/media/675be73f9f784c700a249f848fefbf0b.png" group-title="MOVIES",Cinebox Hits
 http://tvmate.icu:8080/ron@champagne/ron@2022/119436
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/media/675be73f9f784c700a249f848fefbf0b.png" group-title="MOVIES",Cinebox Thriller
@@ -91,11 +91,8 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" tvg-id="HBOSignatureAsia.sg" tvg-name="HBOSignatureAsia.sg", HBO Signature
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221948 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax HD", Cinemax
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
-##http://tvkuonline.my.id:25461/riyad/riyad/424
-#http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197964
+http://tvkuonline.my.id:25461/riyad/riyad/424
 #EXTINF:0 tvg-id="GalaxyPremium.Id" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="Movies",Galaxy Premium
-##http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264774
 http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/60374
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
@@ -125,9 +122,9 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298556
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" group-title="MOVIES",My Family
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298555
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="MOVIES",My Cinema
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298553
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-asia-id.png" group-title="MOVIES",My Cinema Asia
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298554
+http://210.210.155.35:80/uq2663/h/h193/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="MOVIES",Thrill
@@ -160,6 +157,10 @@ http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/882223
 
 //SPORTS
 
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2 HD" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="SPORTS",TVRI Sport
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166686
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",Sony TEN 1 HD
@@ -376,7 +377,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="HOME ENTERTAINMENT",AXN 
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/60457
+http://210.210.155.35:80/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="HOME ENTERTAINMENT",ANIMAX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
