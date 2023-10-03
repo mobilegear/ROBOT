@@ -10,17 +10,16 @@ http://tvmate.icu:8080/ron@champagne/ron@2022/119436
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/media/675be73f9f784c700a249f848fefbf0b.png" group-title="MOVIES",Cinebox Thriller
 http://tvmate.icu:8080/ron@champagne/ron@2022/119437
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MOVIES",MBC 2
-http://s1.pubnow.info:8080/elfaiz/7968532/417338
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2082
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="MOVIES",MovieTime
 http://tvmate.icu:8080/ron@champagne/ron@2022/47331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="MOVIES",AMC
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/11652
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/media/675be73f9f784c700a249f848fefbf0b.png" group-title="MOVIES",Cinebox Animation
-###http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
-http://tvmate.icu:8080/ron@champagne/ron@2022/119420
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
+###http://tvmate.icu:8080/ron@champagne/ron@2022/119420
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WKorCZPnSARNkD3bgyGDwhm3xk6biMD3ssiuVAh4&s" group-title="MOVIES",Sky Cinema Animation
 http://tvmate.icu:8080/ron@champagne/ron@2022/53698
-###http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/1090
 #EXTINF:-1 tvg-logo="https://scontent.fcgk32-1.fna.fbcdn.net/v/t39.30808-6/311485400_545342090930048_1613415293278482928_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=pVT5fjs9thUAX-CSVIv&_nc_ht=scontent.fcgk32-1.fna&oh=00_AfB_fXOGON9711fQNxXN4NHf60wE3C1rXpWoOzaUcfmSJQ&oe=64F72A82" group-title="MOVIES",Filmstream
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="MOVIES",MN+
@@ -34,8 +33,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIES",Star Movies
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155727&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/04/starmovies-hd-lg.jpg" group-title="MOVIES",Star Movies Select
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/267542
-##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155729&extension=ts&play_token=otM0DQF4Ff
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155729&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-flix-in.png" group-title="MOVIES",& flix
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155990&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",& privé HD
@@ -95,12 +93,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/221948
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax HD", Cinemax
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
 ##http://tvkuonline.my.id:25461/riyad/riyad/424
-
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/197964
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="MOVIES",Dunia Sinema
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #EXTINF:0 tvg-id="GalaxyPremium.Id" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="Movies",Galaxy Premium
 ##http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264774
 http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/60374
@@ -184,11 +177,15 @@ http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/76313
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/83px-Logo_RMC_Sport_1_2018.svg.png?20230311183519" group-title="SPORTS",RMC 1
 http://s1.pubnow.info:8080/elfaiz/7968532/97
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg?20171120203825" group-title="SPORTS",Eleven Sports 1
-http://tvmate.icu:8080/ron@champagne/ron@2022/35264
+##http://tvmate.icu:8080/ron@champagne/ron@2022/35264
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/33360
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Elevensports1.jpg" group-title="SPORTS",Eleven Sports 2
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/33359
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS",LFC TV
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg" group-title="SPORTS",Digi Sport 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/31847
+##http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi2hdhu.jpg" group-title="SPORTS",Digi Sport 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRAGk2aVALdo6PlGBocPFCXHSyVqRKYoCHw&usqp=CAU" group-title="SPORTS",ESPN
@@ -216,21 +213,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBsY0VzIAxgEysPknKRl7nTMU.png" group-title="SPORTS",BeIn Sports Premium 1
-http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2120
 #EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBseMkilnRsrnLvw3NpjXI2e4.png" group-title="SPORTS",BeIn Sports Premium 2
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/13898
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2119
 #EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
 http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
-
-
-#EXTINF: -1 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de.jpg" group-title="SPORTS",FIGHT SPORTS
-http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tv-channel-%E2%94%82-dazn-1.png/640px-Tv-channel-%E2%94%82-dazn-1.png",DAZN 1
-http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/238118
-##http://assista.pro:80/0333686557/Vilamariante1/130503
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2659
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/640px-Tv-channel-%E2%94%82-dazn-2.png",DAZN 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/2387
-##http://assista.pro:80/0333686557/Vilamariante1/130505
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2658
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest/scale-to-width-down/250?cb=20220119161736",DAZN 3
 http://983626047829228394.ot0711.xyz:80/play/vi428027/hdFucGwknR/228394.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/640px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga 
@@ -238,7 +229,7 @@ http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25125.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 
 http://983626047829318564.ot0711.xyz:80/play/vi428027/hdFucGwknR/318564.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?20220526164651",Movistar LaLiga
-http://movilista.xyz:8080/live/321670230886694061/9991670230886694/5758.ts
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/29234
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
 ##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2100
 http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/238113
@@ -263,17 +254,17 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u
 #https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="SPORTS",Star Sports Select HD1
-###http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/82628
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
-####http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/16619
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/640px-UnifiSports2023.png" group-title="SPORTS",Unifi Sports
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-
-
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORTS",Arena Sport 1
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/46257
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORTS",Arena Sport 2
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/46256
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORTS",Arena Sport 3
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/46255
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORTS",Arena Sport 3
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/46254
 //KNOWLEDGE
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="KNOWLEDGE",Sony BBC Earth
@@ -334,7 +325,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
 #https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/55352
+http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/3109
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild
