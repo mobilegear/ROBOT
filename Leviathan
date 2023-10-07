@@ -10,15 +10,14 @@ http://tvmate.icu:8080/ron@champagne/ron@2022/119436
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/media/675be73f9f784c700a249f848fefbf0b.png" group-title="MOVIES",Cinebox Thriller
 http://tvmate.icu:8080/ron@champagne/ron@2022/119437
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MOVIES",MBC 2
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2082
-##http://ipro.webvps.de:25443/live/223300444/3216548777/15886.ts
+http://ipro.webvps.de:25443/live/223300444/3216548777/15886.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="MOVIES",MovieTime
 http://tvmate.icu:8080/ron@champagne/ron@2022/47331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="MOVIES",AMC
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/11652
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/media/675be73f9f784c700a249f848fefbf0b.png" group-title="MOVIES",Cinebox Animation
-http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
-###http://tvmate.icu:8080/ron@champagne/ron@2022/119420
+##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10986
+http://tvmate.icu:8080/ron@champagne/ron@2022/119420
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WKorCZPnSARNkD3bgyGDwhm3xk6biMD3ssiuVAh4&s" group-title="MOVIES",Sky Cinema Animation
 http://tvmate.icu:8080/ron@champagne/ron@2022/53698
 #EXTINF:-1 tvg-logo="https://scontent.fcgk32-1.fna.fbcdn.net/v/t39.30808-6/311485400_545342090930048_1613415293278482928_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=pVT5fjs9thUAX-CSVIv&_nc_ht=scontent.fcgk32-1.fna&oh=00_AfB_fXOGON9711fQNxXN4NHf60wE3C1rXpWoOzaUcfmSJQ&oe=64F72A82" group-title="MOVIES",Filmstream
@@ -206,8 +205,7 @@ http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/33359
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS",LFC TV
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg" group-title="SPORTS",Digi Sport 1
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/31847
-##http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=802_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi2hdhu.jpg" group-title="SPORTS",Digi Sport 2
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=803_&extension=ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzRAGk2aVALdo6PlGBocPFCXHSyVqRKYoCHw&usqp=CAU" group-title="SPORTS",ESPN
@@ -279,14 +277,25 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd2-hk-in.png" group-title="SPORTS",Star Sports Select HD2
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155973&extension=ts&play_token=otM0DQF4Ff
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="SPORTS",Arena Sport 1
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/46257
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="SPORTS",Arena Sport 2
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/46256
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="SPORTS",Arena Sport 3
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/46255
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="SPORTS",Arena Sport 3
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/46254
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/M8ZznDC/20230928-201931.png",SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
+https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/M8ZznDC/20230928-201931.png",SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/M8ZznDC/20230928-201931.png",SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
+https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/M8ZznDC/20230928-201931.png",SSC 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
+https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
 //KNOWLEDGE
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="KNOWLEDGE",Sony BBC Earth
