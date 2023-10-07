@@ -10,7 +10,7 @@ http://tvmate.icu:8080/ron@champagne/ron@2022/119436
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2437064/screenshots/12096031/media/675be73f9f784c700a249f848fefbf0b.png" group-title="MOVIES",Cinebox Thriller
 http://tvmate.icu:8080/ron@champagne/ron@2022/119437
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MOVIES",MBC 2
-http://ipro.webvps.de:25443/live/223300444/3216548777/15886.ts
+http://149.100.11.252:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/1200px-Movietime.svg.png" group-title="MOVIES",MovieTime
 http://tvmate.icu:8080/ron@champagne/ron@2022/47331
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="MOVIES",AMC
@@ -181,8 +181,6 @@ http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/882223
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2 HD" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png",Astro SuperSport 2
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186388&extension=ts&play_token=oNnNMlQM3k
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="SPORTS",TVRI Sport
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166686
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORTS",Sony TEN 1 HD
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORTS",Sony  TEN 2 HD
@@ -193,15 +191,6 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="SPORTS",Sky Sports Premier League
 http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2877
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="SPORTS",S Sport
-http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/76313
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/83px-Logo_RMC_Sport_1_2018.svg.png?20230311183519" group-title="SPORTS",RMC 1
-http://s1.pubnow.info:8080/elfaiz/7968532/97
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Eleven_Sports_1_logo.jpg?20171120203825" group-title="SPORTS",Eleven Sports 1
-##http://tvmate.icu:8080/ron@champagne/ron@2022/35264
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/33360
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Elevensports1.jpg" group-title="SPORTS",Eleven Sports 2
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/33359
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/LfcTv/lfc%20tv.png" group-title="SPORTS",LFC TV
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2254
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.goalzz.com/?i=amir_ganjvar%2Fsportstv_amir%2Fdigi1hdhu.jpg" group-title="SPORTS",Digi Sport 1
@@ -214,11 +203,15 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1427
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="SPORTS",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="SPORTS", TRUE SPORT PREMIER 1 
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS", TRUE SPORT PREMIER 2 
+https://edge1.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165105
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298506
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="SPORTS",Abu Dhabi Sports 2
@@ -248,13 +241,13 @@ http://983626047829228394.ot0711.xyz:80/play/vi428027/hdFucGwknR/228394.ts
 http://movilista.xyz:8080/live/321670230886694061/9991670230886694/25125.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png",DAZN F1 
 http://983626047829318564.ot0711.xyz:80/play/vi428027/hdFucGwknR/318564.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?20220526164651",Movistar LaLiga
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/29234
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?20220526164651",Movistar +
+http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412902
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png?20220526164651",Movistar + Liga de Campeones
+http://es4u.live:25461/FKZGJSSZEZB4PO8/D6HPTDLGVASR9DD/412903
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png",NBA TV
-##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2100
-http://tr.bosstv.live:8080/VeyselKes2022/VeyselK22/238113
+http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2100
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/150px-2015_Fox_Sports_1_logo.svg.png?20171004153543" group-title="SPORTS",FS 1
-##http://tvmate.icu:8080/ron@champagne/ron@2022/46792
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/2177
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png",Real Madrid TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
@@ -296,6 +289,18 @@ https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
 https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="SPORTS" tvg-group-title="Arena Sport",Arena Sport 1 HD
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="SPORTS" tvg-group-title="Arena Sport",Arena Sport 2 HD
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="SPORTS" tvg-group-title="Arena Sport",Arena Sport 3 HD
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="SPORTS" tvg-group-title="Arena Sport",Arena Sport 4 HD
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+
+
+
 //KNOWLEDGE
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="KNOWLEDGE",Sony BBC Earth
