@@ -207,35 +207,30 @@ http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/1427
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png" group-title="SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="SPORTS",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="SPORTS", TRUE SPORT PREMIER 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS", TRUE SPORT PREMIER 2 
 https://edge1.laotv.la/live/TSport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORTS",BEIN SPORTS 1 Thai
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png" group-title="SPORTS",BEIN SPORTS 2 Thai
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png" group-title="SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png" group-title="SPORTS",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=o%2fh%2f2%2f15%2fad-sports-premium-1.png" group-title="SPORTS",Abu Dhabi Sports Premium 1
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/27656
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f2%2f16%2fad-sports-premium-1.png" group-title="SPORTS",Abu Dhabi Sports Premium 2
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/27655
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="SPORTS",Eurosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png" group-title="SPORTS",SCTV15
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBsY0VzIAxgEysPknKRl7nTMU.png" group-title="SPORTS",BeIn Sports Premium 1
-http://ipro.webvps.de:25443/live/223300444/3216548777/9146.ts
-#EXTINF:-1 tvg-logo="http://redmonkeytv.com:8080/images/mg9e4VnU5MiobcDarwnBseMkilnRsrnLvw3NpjXI2e4.png" group-title="SPORTS",BeIn Sports Premium 2
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2119
-#EXTINF:0 tvg-id="beinsports3premium.qa" tvg-name="beIN Sports Premium 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png" group-title="SPORTS",BeIN Sports Premium 3
-http://45.12.1.14:80/7JvIck488/meAqNw5218/91338
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="SPORTS",BeIn Sports 1
+https://stream.ayas.ir/hls2/bein1.m3u8 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="SPORTS",BeIn Sports 2
+https://stream.ayas.ir/hls2/bein2.m3u8 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tv-channel-%E2%94%82-dazn-1.png/640px-Tv-channel-%E2%94%82-dazn-1.png",DAZN 1
 http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/2659
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tv-channel-%E2%94%82-dazn-2.png/640px-Tv-channel-%E2%94%82-dazn-2.png",DAZN 2
