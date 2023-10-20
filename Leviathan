@@ -64,7 +64,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES",HBO
-https://nonton.site:8443/ekos/7483/26595
+###https://nonton.site:8443/ekos/7483/26595
+http://103.45.68.47/gy/gy620/xsj.php?id=hbo-hd
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits
 https://nonton.site:8443/ekos/7483/26596
@@ -138,7 +139,7 @@ http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/882223
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports1-polska-uk-pl.png" group-title="SPORTS",ELEVEN体育-1
-ELEVEN体育-1,http://103.45.68.47/gy/gy620/xsj.php?id=eleven-sport1
+http://103.45.68.47/gy/gy620/xsj.php?id=eleven-sport1
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports2-polska-uk-pl.png" group-title="SPORTS",ELEVEN体育-2
 http://103.45.68.47/gy/gy620/xsj.php?id=eleven-sport2
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-CsoiNOSQmGI/YK6WyTgciPI/AAAAAAAABTw/3a1WWSxYit4ffCAX3pQSa-0Y1IehyfbjwCLcBGAsYHQ/s288/T-Sports-Official-Logo.png" group-title="SPORTS",T-Sport HD
