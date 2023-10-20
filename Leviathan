@@ -137,6 +137,9 @@ http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/882223
 //SPORTS
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-CsoiNOSQmGI/YK6WyTgciPI/AAAAAAAABTw/3a1WWSxYit4ffCAX3pQSa-0Y1IehyfbjwCLcBGAsYHQ/s288/T-Sports-Official-Logo.png" group-title="SPORTS",T-Sport HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
 ###http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
 http://eu37-filmax.tk/5f60aab582420bda7d6e3526dbc13768/index.m3u8?token=Z2Vsbzk2Nnx8TnpVME16SXh8fDk3ODY4MjQ1OTRkYzU4NTE3MzdhMDNiNjBjZGZmYmFm
@@ -285,12 +288,8 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="KNOWLEDGE",Lingua
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="KNOWLEDGE" tvg-id="AnimalPlanetIndonesia.id",Animal Planet
-#https://nyanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/index.m3u8
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png",BBC Earth
@@ -312,11 +311,8 @@ https://github.com/OngisMbois/iptv/raw/main/dmax.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/134-1341950_discovery-turbo-logo-discovery-turbo.png" group-title="KNOWLEDGE",Discovery Turbo
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10346
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_velocity_ca.png" group-title="KNOWLEDGE",Discovery Velocity
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2302
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png" group-title="KNOWLEDGE",Discovery Science
-https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
-##https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMriBfzrBLj1tvC5Afbumd0&auth=1189ebc0e399ad84320e0b65727e3ba93f89390c30fcd4d7535f6859928d7d9c
+https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMriBfzrBLj1tvC5Afbumd0&auth=1189ebc0e399ad84320e0b65727e3ba93f89390c30fcd4d7535f6859928d7d9c
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="KNOWLEDGE" tvg-id="DiscoveryAsia.sg" tvg-name="Discovery Asia HD", Discovery Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/501
@@ -332,13 +328,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE",  Love Nature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
 #https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="KNOWLEDGE", National Geographic
-http://vo01.mohdtv.com:8880/smarttv585cde0025a4/67318569/3109
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="KNOWLEDGE", National Geographic Wild
-http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
-#http://45.129.133.15:8080/3f6d5b2f/4b60123137/457
 #EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tech-storm-sg.png" group-title="KNOWLEDGE",Tech Storm
@@ -353,36 +342,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 //HOME ENTERTAINMENT 
 
 
-#EXTINF:-1 tvg-logo="https://www.radiantstudios.co.uk/jobs/download/image.file.8bf4c52403cd38ef.4242435f4c6966657374796c655f30312e706e67.png" group-title="HOME ENTERTAINMENT",BBC lifestyle
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264747
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/640px-E%21_Logo.svg.png" group-title="HOME ENTERTAINMENT",E
 ##http://tvmate.icu:8080/ron@champagne/ron@2022/11651
 http://tvmate.icu:8080/ron@champagne/ron@2022/57422
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/408/521/png-transparent-dave-television-channel-uktv-freeview-channel-television-text-trademark.png" group-title="HOME ENTERTAINMENT",DAVE
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10341
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="HOME ENTERTAINMENT",Fox life
-##http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165083
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155731&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/120px-Fashion_TV_logo.svg.png" group-title="HOME ENTERTAINMENT",Fashion TV
 http://rlyi1xhy.klaipedalt.xyz/iptv/CKTYGGWT3FL78A/1010/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-cafe-in.png" group-title="HOME ENTERTAINMENT",Zee Café 
 ##http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/49561
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155730&extension=ts&play_token=otM0DQF4Ff#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6a98a62be4/f62c0a99f8974641a4589ad7b757f8f3.jpg" group-title="HOME ENTERTAINMENT",Cooking TV
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858119921801816b5359d15e63/6dad5dffdfa845ba8387b8f2192b1ed5.jpg" group-title="HOME ENTERTAINMENT",Gaming TV
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="HOME ENTERTAINMENT",Asian Food Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_east_asia.png" group-title="HOME ENTERTAINMENT",AXN 
 http://210.210.155.35:80/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="HOME ENTERTAINMENT",ANIMAX 
