@@ -137,6 +137,10 @@ http://line.rs4ott.com:80/6becbcc709/f59fcc76f3f7/882223
 //SPORTS
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports1-polska-uk-pl.png" group-title="SPORTS",ELEVEN体育-1
+ELEVEN体育-1,http://103.45.68.47/gy/gy620/xsj.php?id=eleven-sport1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eleven-sports2-polska-uk-pl.png" group-title="SPORTS",ELEVEN体育-2
+http://103.45.68.47/gy/gy620/xsj.php?id=eleven-sport2
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-CsoiNOSQmGI/YK6WyTgciPI/AAAAAAAABTw/3a1WWSxYit4ffCAX3pQSa-0Y1IehyfbjwCLcBGAsYHQ/s288/T-Sports-Official-Logo.png" group-title="SPORTS",T-Sport HD
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
