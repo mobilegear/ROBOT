@@ -3,15 +3,15 @@
 
 //MOVIES
 
-#EXTINF:-1 group-title="Film" tvg-id="mycinema.id" tvg-logo="https://iptv.urfan.web.id/logo/mycinema.png" group-title="MOVIES",My Cinema
+#EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://iptv.urfan.web.id/logo/mycinema.png" group-title="MOVIES",My Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 group-title="Film" tvg-id="myfamilychannel.id" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png" group-title="MOVIES",My Family Channel
+#EXTINF:-1 tvg-id="myfamilychannel.id" tvg-logo="https://iptv.urfan.web.id/logo/mfc.png" group-title="MOVIES",My Family Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
 
-#EXTINF:-1 group-title="Film" tvg-id="mychinemaasia.id" tvg-logo="https://iptv.urfan.web.id/logo/mca.png" group-title="MOVIES",My Cinema Asia
+#EXTINF:-1 tvg-id="mychinemaasia.id" tvg-logo="https://iptv.urfan.web.id/logo/mca.png" group-title="MOVIES",My Cinema Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 
@@ -116,11 +116,11 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165095
 //SPORTS
 
 
-#EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png", True Sports 1
 https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png", True Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png", True Sports 2
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="🇹🇭| Thái Lan" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png", True Sports 3
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport HD" group-title="SPORTS" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
