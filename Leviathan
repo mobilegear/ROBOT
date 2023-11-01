@@ -349,8 +349,10 @@ https://newanv-live-cdn.mncnow.id:443/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png" group-title="HOME ENTERTAINMENT",Rock Action
 http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
 #http://210.210.155.37/session/f57e2328-0fe1-11ee-a5b9-98fab026daa8/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="HOME ENTERTAINMENT",Rock Entertainment
-http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",Rock Entertainment
+https://mangga-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
