@@ -55,6 +55,7 @@ https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=2020080
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family
 ##https://nonton.site:8443/ekos/7483/26598
 https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200807
+
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature
 https://delivery.ksa.my.id/stream/hbo_signature/playlist.m3u8?token=ym1wtrp&v=20200807
 
@@ -68,8 +69,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 https://mangga-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",Hits
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",Hits Movies
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png",HITS Movies
+https://mangga-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/HBO_Plus_2000.svg/2560px-HBO_Plus_2000.png", HBO+ 
 #http://dominoiptv.com:2082/Sheromala/wZqgCVRfcn/225925
 http://208.115.225.174:14152
@@ -82,10 +85,11 @@ http://208.115.225.174:14140
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC FHD" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="MOVIES",IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png",IMC
+https://mangga-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_cinema_europe_kr.png" group-title="MOVIES",My Cinema Europe
 http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
@@ -175,11 +179,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 
-#EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORTS",SPOTV 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.pn",SPOTV
+https://mangga-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-
-
-#EXTINF:0 tvg-id="SPOTV2.Id" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="SPORTS",SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2
+https://mangga-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-select-hd1-hk-in.png" group-title="SPORTS",Star Sports Select HD1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155972&extension=ts&play_token=otM0DQF4Ff
