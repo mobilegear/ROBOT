@@ -235,6 +235,9 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 
 //KNOWLEDGE
 
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="KNOWLEDGE",National Geography HD
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="KNOWLEDGE",Sony BBC Earth
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155737&extension=ts&play_token=otM0DQF4Ff
