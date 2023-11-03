@@ -233,6 +233,7 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="KNOWLEDGE",Sony BBC Earth
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155737&extension=ts&play_token=otM0DQF4Ff
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -243,17 +244,17 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856fd0d66d0170341b51b
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="KNOWLEDGE" tvg-id="AnimalPlanetIndonesia.id",Animal Planet
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png",BBC Earth
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155737&extension=ts&play_token=otM0DQF4Ff
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png",BBC Earth Asia
+https://mangga-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #http://tr.bosstv.live:8080/inan1996262/jtUax9eLewYd/390934
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="KNOWLEDGE",DMAX
 https://github.com/OngisMbois/iptv/raw/main/dmax.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE" , Discovery Channel HD
-#https://nyanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+https://mangga-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/134-1341950_discovery-turbo-logo-discovery-turbo.png" group-title="KNOWLEDGE",Discovery Turbo
 http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10346
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/432-4329087_science-channel-logo-discovery-science-channel-logo.png" group-title="KNOWLEDGE",Discovery Science
@@ -265,14 +266,13 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-trekker-sg.png" group-title="KNOWLEDGE",Global Trekker
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" group-title="KNOWLEDGE",History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png",History
+https://mangga-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE",  Love Nature
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
-#https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Smithsonian.id" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="KNOWLEDGE",Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tech-storm-sg.png" group-title="KNOWLEDGE",Tech Storm
@@ -281,8 +281,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 http://iptv.prosto.tv:7000/ch111/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wildearth-za.png" group-title="KNOWLEDGE",WildEarth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" group-title="KNOWLEDGE",Da Vinci
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
+
 
 //HOME ENTERTAINMENT 
 
@@ -422,30 +421,25 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/67z7iRh.jpg" group-title="News",München TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang-kr.svg.png" group-title="NEWS",Arirang Korea
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch253)/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arirang-kr.svg.pngg",Arirang World
+https://mangga-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="NEWS",NBC News Now
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="NEWS",NHK World Japan
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
-#http://210.210.155.37/uq2663/h/h23/index.m3u8
+http://210.210.155.37/uq2663/h/h23/index.m3u8
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NEWS", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 ##https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-id="Jaz.News" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="NEWS",DW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch250)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="", DW English
-#https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_italia.png" group-title="NEWS",RAI Italia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch258)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png" group-title="NEWS",Bloomberg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch14)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/BeritaSatuWorld.png" group-title="NEWS",Berita Satu World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png",DW English
+https://mangga-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/blommberg-tv-us.png",Bloomberg TV Asia
+https://mangga-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TVRI_World_Logo_2021_Variant.png/revision/latest?cb=20220222092300" group-title="NEWS", TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/129-1298062_transparent-nbc-news-logo-hd-png-download.png" group-title="NEWS",NBC News
