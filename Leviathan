@@ -368,6 +368,9 @@ https://delivery.ksa.my.id/stream/warnertv/playlist.m3u8?token=ym1wtrp&v=2020080
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png",Persiana Two
 http://51.210.199.35/hls/stream.m3u8
 
+#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ADM_Abu_Dhabi_tv_2023.png",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
 
 //MUSIC
 
