@@ -25,7 +25,8 @@ http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1b1beZadn0RQSDA-Ug0s2-RfQFiVqcJxCHCQztGfjFA&s" group-title="MOVIES",Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MOVIES",MBC 2
-http://149.100.11.252:8000/play/a04w/index.m3u8
+http://master-pro.live:8080/pro1409/506931055/335704
+##http://149.100.11.252:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fcgk32-1.fna.fbcdn.net/v/t39.30808-6/311485400_545342090930048_1613415293278482928_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=pVT5fjs9thUAX-CSVIv&_nc_ht=scontent.fcgk32-1.fna&oh=00_AfB_fXOGON9711fQNxXN4NHf60wE3C1rXpWoOzaUcfmSJQ&oe=64F72A82" group-title="MOVIES",Filmstream
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="MOVIES",MN+
