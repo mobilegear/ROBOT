@@ -62,7 +62,8 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" tvg-name="HBO HD", HBO HD
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" tvg-name="HBO HD", HBO Pop
+http://173.225.246.25:8889/udp/239.203.20.55:4003
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits
 https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=20200807
