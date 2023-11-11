@@ -325,7 +325,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png",Asian Food Network
 ##https://mangga-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
-#EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network
+#EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" ,SONY India
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
