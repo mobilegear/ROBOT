@@ -53,8 +53,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u
 http://208.86.19.13:81/7300.stream/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" tvg-name="HBO HD", HBO HD
-##http://173.225.246.25:8889/udp/239.203.20.53:4003
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197972
+http://173.225.246.25:8889/udp/239.203.20.53:4003
+##http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" tvg-name="HBO HD", HBO Pop
 http://173.225.246.25:8889/udp/239.203.20.55:4003
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" tvg-name="HBO HD", HBO Extreme
