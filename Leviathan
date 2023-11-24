@@ -2,8 +2,8 @@
 
 
 //MOVIES
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Romedy_Now_HD.jpg/revision/latest?cb=20180531113548" group-title="MOVIES",Romedy Now
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155742&extension=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/JkLJcw5/Rock-act-hometv.png",Rock Action
@@ -25,8 +25,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1b1beZadn0RQSDA-Ug0s2-RfQFiVqcJxCHCQztGfjFA&s" group-title="MOVIES",Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20180530/fkk/kisspng-mbc2-logo-film-cuevana-5b0ead068a6da1.513271341527688454567.jpg" group-title="MOVIES",MBC 2
-http://master-pro.live:8080/pro1409/506931055/335704
-##http://149.100.11.252:8000/play/a04w/index.m3u8
+http://149.100.11.252:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="MOVIES",MN+
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=156025&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424" group-title="MOVIES",Movies Now
@@ -283,6 +282,8 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 
 //HOME ENTERTAINMENT 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Colors_Infinity_logo.png" group-title="HOME ENTERTAINMENT",Colors Infinity
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155747&extension=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png",HITS
@@ -342,12 +343,9 @@ https://mangga-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",Rock Entertainment
 https://mangga-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",TLC Southeast Asia
 https://mangga-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155743&extension=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://w7.pngwing.com/pngs/120/627/png-transparent-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-angle-thumbnail.png",tvN Asia
