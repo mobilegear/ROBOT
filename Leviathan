@@ -52,6 +52,8 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155746&extensi
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png" group-title="MOVIES",Sony Max 2 India
 http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/8/86/Sony_Max_new_logo.png" group-title="MOVIES",Sony Max
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" tvg-name="HBO HD", HBO HD
 http://173.225.246.25:8889/udp/239.203.20.53:4003
@@ -255,11 +257,8 @@ http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155736&extensi
 #EXTINF:-1 tvg-id="" group-title="KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png",BBC Earth Asia
 https://mangga-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #http://tr.bosstv.live:8080/inan1996262/jtUax9eLewYd/390934
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="KNOWLEDGE" , Discovery Channel HD
-https://mangga-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
-###http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/134-1341950_discovery-turbo-logo-discovery-turbo.png" group-title="KNOWLEDGE",Discovery Turbo
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155751&extension=m3u8
 ##http://hardcoremedia.xyz:80/q77mjYsYZ/7742737484/10346
@@ -322,16 +321,11 @@ http://210.210.155.37/x6bnqe/s/s101/live.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-one-ae.png" group-title="HOME ENTERTAINMENT",Dubai One 
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png",HGTV
-https://mangga-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png",Asian Food Network
-https://mangga-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="HOME ENTERTAINMENT",Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/ss/set-india-in.png" ,SONY India
@@ -350,13 +344,10 @@ https://mangga-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://mangga-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",TLC Southeast Asia
-https://mangga-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155743&extension=m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
+##http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155743&extension=m3u8
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://w7.pngwing.com/pngs/120/627/png-transparent-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-angle-thumbnail.png",tvN Asia
-https://mangga-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" tvg-id="WarnerTV.id" tvg-name="Warner TV" group-title="HOME ENTERTAINMENT",Warner TV
 https://s.id/1W5kq
