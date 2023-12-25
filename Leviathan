@@ -3,16 +3,11 @@
 
 //MOVIES
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png", ROCK ACTION
+https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="MOVIES",WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="MOVIES",Macau Lotus TV
-https://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Romedy_Now_HD.jpg/revision/latest?cb=20180531113548" group-title="MOVIES",Romedy Now
-http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155742&extension=m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="MOVIES" tvg-logo="https://i.ibb.co/JkLJcw5/Rock-act-hometv.png",Rock Action
-https://mangga-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTINF:-1 tvg-id="mycinema.id" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png" group-title="MOVIES",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -54,9 +49,10 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/8/86/Sony_Max_new_logo.png" group-title="MOVIES",Sony Max
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" tvg-name="HBO HD", HBO HD
-http://173.225.246.25:8889/udp/239.203.20.53:4003
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 ##http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197972
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://seeklogo.com/images/H/hbo-pop-logo-10AD275431-seeklogo.com.png" tvg-name="HBO HD", HBO Pop
 http://173.225.246.25:8889/udp/239.203.20.55:4003
@@ -64,12 +60,19 @@ http://173.225.246.25:8889/udp/239.203.20.55:4003
 http://173.225.246.25:8889/udp/239.203.20.57:4003
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71037
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family
-http://173.225.246.25:8889/udp/239.203.20.120:4003
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature
-http://173.225.246.25:8889/udp/239.203.20.56:4003
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax HD", Cinemax
-https://ctrl.laotv.la/live/Cinemax/index.m3u8
+##https://ctrl.laotv.la/live/Cinemax/index.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -316,19 +319,20 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" group-title="HOME ENTERTAINMENT",Lifetime
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
 #http://210.210.155.37/session/f57e2328-0fe1-11ee-a5b9-98fab026daa8/dr9445/h/h15/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",Rock Entertainment
-https://mangga-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",TLC Southeast Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 ##http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155743&extension=m3u8
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://w7.pngwing.com/pngs/120/627/png-transparent-south-korea-tvn-television-channel-television-show-fight-miscellaneous-television-angle-thumbnail.png",tvN Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner-tv-us.png" tvg-id="WarnerTV.id" tvg-name="Warner TV" group-title="HOME ENTERTAINMENT",Warner TV
-https://s.id/1W5kq
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png",Persiana Two
 http://51.210.199.35/hls/stream.m3u8
