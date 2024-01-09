@@ -4,8 +4,8 @@
 //MOVIES
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png", ROCK ACTION
-https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
-
+##https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="MOVIES",WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
@@ -254,7 +254,6 @@ http://iptv.prosto.tv:7000/ch111/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wildearth-za.png" group-title="KNOWLEDGE",WildEarth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="KNOWLEDGE",Nat Geo Wild
-
 http://mag.x-iptv.live/play/live.php?mac=00:1A:79:C4:8B:E7&stream=155741&extension=m3u8
 
 //HOME ENTERTAINMENT 
@@ -301,7 +300,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index
 #http://210.210.155.37/session/f57e2328-0fe1-11ee-a5b9-98fab026daa8/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",Rock Entertainment
-https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
+##https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
+http://210.210.155.35/dr9445/h/h16/01.m3u8
 #http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298565
 #EXTINF:-1 tvg-id="" group-title="HOME ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_uk.png",TLC Southeast Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
