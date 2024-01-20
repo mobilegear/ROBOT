@@ -102,7 +102,8 @@ http://rr1.dens.tv/h/h21/index.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155740&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="MOVIES",Thrill
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
-
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cineworld/Cineworld-Logo.wine.png" group-title="MOVIES",Cinema World
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
 //SPORTS
 
