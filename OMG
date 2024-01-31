@@ -62,9 +62,9 @@ http://103.113.116.150:25461/mtm1/12345/19
 http://103.113.116.150:25461/mtm1/12345/18
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" tvg-id="CinemaxAsia.sg" tvg-name="Cinemax HD", Cinemax
 http://103.113.116.150:25461/mtm1/12345/20
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_flik_big1.png?v=2.0.0.13" tvg-name="Cinemax HD", Flik
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_flik_big1.png?v=2.0.0.13" , Flik
 http://103.113.116.150:25461/mtm1/12345/22
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://th.bing.com/th/id/OIP.jlAIVFdSO_Jiow8IPcLAwQHaEK?rs=1&pid=ImgDetMain" tvg-name="Cinemax HD", IMC
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://th.bing.com/th/id/OIP.jlAIVFdSO_Jiow8IPcLAwQHaEK?rs=1&pid=ImgDetMain" , IMC
 http://103.113.116.150:25461/mtm1/12345/21
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
